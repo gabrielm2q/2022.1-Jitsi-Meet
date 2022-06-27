@@ -1,17 +1,34 @@
-# Welcome to MkDocs
+# Início
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Versionamento do projeto
+| Versão | Data | Modificação | Autor |
+|-|-|:-:|:-:|
+|1.0| 05/02 | Criação da wiki | Gabriel Sabanai e Samuel Furtado |
 
-## Commands
+*Tabela 1: Versionamento*
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Introdução
 
-## Project layout
+Repositório da disciplina de Requisitos de Software 2022.1 realizado sobre a aplicação Forest. Este repositório reúne artefatos de requisitos de software levantados a partir da aplicação mobile do Forest.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Por que o Forest?
+
+O Forest é um aplicativo móbile desenvolvido visando facilitar a concentração e produtividade na realização de alguma tarefa. O serviço base do aplicativo é a utilização de um pomodoro gamificado para cronometrar tempo de atividades e de descansos,  sendo utilizado como objetivo de estudo visando a aplicação conteúdo ministrado na disciplina de Requisitos de Software. A escolha do aplicativo, dentre outros fatores, foi devido ao seu enfoque na melhoria de qualidade de vida, organização e eficiência dos usuários.
+
+## Forest em outros repositórios
+
+Até o dia de hoje, 27 de Junho de 2022, não existem repositórios públicos que visam documentar o aplicativo Forest. Por enquanto, todos os respositórios existentes relacionados a aplicação são desafios de implementação de funcionalidades no back-end, ou criação de clones da plataforma pelo front-end ou, então, por fim com o intuito de divulgar vagas para desenvolvedores.
+
+Dessa forma, não existe nenhum repositório, que visa documentar o sistema, no qual a nossa equipe conseguiria se basear ou retirar informações que possam prejudicar a aplicação do aprendizado da disciplina.
+
+
+## Equipe
+
+| Foto                                                  | Nome                   | Email                            | GitHub                                              |
+| ----------------------------------------------------- | ---------------------- | -------------------------------- | --------------------------------------------------- |
+| ![Gabriel Sabanai](https://avatars.githubusercontent.com/u/51263792?v=4) | Gabriel Sabanai  | gabrielsabanaitrindade@gmail.com | [@Sabanai104](https://github.com/Sabanai104)  |
+| ![Samuel Avila](https://avatars.githubusercontent.com/u/53478066?v=4)     | Samuel Avila | samuel2001.furtadoavila@gmail.com| [@samuelfavila](https://github.com/samuelfavila)       |
+| ![Felipe Candido](https://avatars.githubusercontent.com/u/62444107?v=4) | Felipe Candido   | jvtexbat@hotmail.com | [@felipecdmoura](https://github.com/felipecdmoura)                                         |
+| ![Gabriel Mariano](https://avatars.githubusercontent.com/u/72149063?v=4) | Gabriel Mariano | ph.hr.001@gmail.com  | [@gabrielm2q](https://github.com/gabrielm2q)     |
+| ![Laís Ramos](https://avatars.githubusercontent.com/u/38669960?v=4)    | Laís Ramos  | liviarodriguesre@gmail.com | [@laisramos123](https://github.com/laisramos123) |
+| ![André Alves](https://avatars.githubusercontent.com/u/71379045?v=4) |    André Alves     | victorear05@gmail.com  | [@andremralves](https://github.com/andremralves)         |
