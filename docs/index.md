@@ -10,15 +10,15 @@ _Tabela 1: Versionamento_
 
 ## Introdução
 
-Repositório da disciplina de Requisitos de Software 2022.1 realizado sobre a aplicação Forest. Este repositório reúne artefatos de requisitos de software levantados a partir da aplicação mobile do Forest.
+Repositório da disciplina de Requisitos de Software 2022.1 realizado sobre a aplicação Jitsi. Este repositório reúne artefatos de requisitos de software levantados a partir da aplicação web, mobile e desktop do Jitsi.
 
-## Por que o Forest?
+## Por que o Jitsi?
 
-O Forest é um aplicativo móbile desenvolvido visando facilitar a concentração e produtividade na realização de alguma tarefa. O serviço base do aplicativo é a utilização de um pomodoro gamificado para cronometrar tempo de atividades e de descansos, sendo utilizado como objetivo de estudo visando a aplicação conteúdo ministrado na disciplina de Requisitos de Software. A escolha do aplicativo, dentre outros fatores, foi devido ao seu enfoque na melhoria de qualidade de vida, organização e eficiência dos usuários.
+O Jitsi é um software open-source, disponibilizados para diversas plataformas, desenvolvido visando facilitar a construção de videos conferencias entre usuários, o que,além das videos conferencias, permite funcionalidades especificas para audio, gravações e transmissões simultaneas. O serviço base do aplicativo é a conexão entre os usuários por meio de videos conferencias, sendo utilizado como objetivo de estudo visando a aplicação do conteúdo ministrado na disciplina de Requisitos de Software. A escolha do aplicativo, dentre outros fatores, foi devido ao seu enfoque na melhoria de facilitação de comunicação, organização e eficiência dos usuários.
 
-## Forest em outros repositórios
+## Jitsi em outros repositórios
 
-Até o dia de hoje, 27 de Junho de 2022, não existem repositórios públicos que visam documentar o aplicativo Forest. Por enquanto, todos os respositórios existentes relacionados a aplicação são desafios de implementação de funcionalidades no back-end, ou criação de clones da plataforma pelo front-end ou, então, por fim com o intuito de divulgar vagas para desenvolvedores.
+Até o dia de hoje, 29 de Junho de 2022, não existem repositórios públicos que visam documentar o aplicativo Jitsi. Por enquanto, todos os respositórios existentes relacionados a aplicação são implementações de funcionalidades no software, ou criação de clones da plataforma pelo front-end ou, então, o próprio repositorio existente, já que, é uma aplicação open-source.
 
 Dessa forma, não existe nenhum repositório, que visa documentar o sistema, no qual a nossa equipe conseguiria se basear ou retirar informações que possam prejudicar a aplicação do aprendizado da disciplina.
 

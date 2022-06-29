@@ -4,9 +4,17 @@ theme:
    features:
       - navigation.tabs
    palette:
-      primary: light green
+      primary: indigo
       accent: indigo
+   favicon: assets/jitsiFavcon.png
+   logo: assets/jitsiLogo.png
 nav:
    - Início: ./index.md
    - Apresentações:
         - Primeira Apresentação: ./apresentacoes/apresentacao1.md
+   - Planejamento:
+         - Metodologia: ./planejamento/metodologia.md
+         - Ferramentas Utilizadas: ./planejamento/ferramentas.md
+         - Cronograma: ./planejamento/cronograma.md
+         - Heatmap: ./planejamento/heatmap.md
+         - Políticas: ./planejamento/politicas.md
