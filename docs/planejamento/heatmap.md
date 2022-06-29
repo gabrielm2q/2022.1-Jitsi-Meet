@@ -43,11 +43,11 @@ Cores
 
 _Tabela 2: Significado de cada cor_
 
-<p align="justify">&emsp;&emsp;Todos os integrantes do grupo participaram de forma assíncrona colocando os horários que estavam disponíveis, e o artefato foi criado para que o grupo pusse saber o melhor dia e hora para se reunir semanalmente.</p>
+Todos os integrantes do grupo participaram de forma assíncrona colocando os horários que estavam disponíveis, e o artefato foi criado para que o grupo pusse saber o melhor dia e hora para se reunir semanalmente.
 
 ## Resultados
 
-![Heatmap](../assets/)
+![Heatmap](../assets/heatmap.png)
 
 _Imagem 1: Heatmap de horários_
 
