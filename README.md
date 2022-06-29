@@ -1,20 +1,19 @@
-# 2022.1-Grupo-06
+# Jitsi Meet
 
-# :evergreen_tree: Forest  :evergreen_tree:
-Repositório para o projeto da disciplina de Requisitos de Software.
-
-
+### Repositório do Grupo 06 para o projeto da disciplina de Requisitos de Software (2022.1 - Turma A).
+---
+<!---
 <p align="center">
     <img   src="./assets/forestIcon.png" width ="200px"  >
 </p>
-
+-->
 
 
 ## :iphone:  Sobre
-Forest é um aplicativo de controle de temppo que realiza o bloqueio de aplicativos temporareamente por ciclos de tempo, permitindo ao usuário foco e gerenciamento de produtividade.
+O [Jitsi Meet](https://github.com/jitsi/jitsi-meet) é uma plataforma _open source_ e gratuita de videoconferências em grupo, permitindo a comunicação instantânea entre várias pessoas visualmente, via chat de voz ou via chat de texto.
 
 
-## :computer: Time
+## :computer: Time de Desenvolvimento
 <div id="div1">
 <br>
 <table>
@@ -39,10 +38,11 @@ Forest é um aplicativo de controle de temppo que realiza o bloqueio de aplicati
 
 <p></p>
 
+<!---
 <p align="center">
     <img src= "./assets/giphy.gif" >
 </p>
-
+-->
 
 
 
