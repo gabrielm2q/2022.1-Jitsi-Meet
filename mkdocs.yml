@@ -18,3 +18,5 @@ nav:
          - Cronograma: ./planejamento/cronograma.md
          - Heatmap: ./planejamento/heatmap.md
          - Políticas: ./planejamento/politicas.md
+   - Pré-Rastreabilidade:
+         - Rich Picture: ./preRastreabilidade/richPicture.md

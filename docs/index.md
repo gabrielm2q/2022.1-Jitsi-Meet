@@ -8,6 +8,12 @@
 
 _Tabela 1: Versionamento_
 
+<br>
+
+![Jitsi](./assets/Jitsi.png)
+
+*Imagem 1: Jitsi Logo*
+
 ## Introdução
 
 Repositório da disciplina de Requisitos de Software 2022.1 realizado sobre a aplicação Jitsi. Este repositório reúne artefatos de requisitos de software levantados a partir da aplicação web, mobile e desktop do Jitsi.
@@ -28,7 +34,7 @@ Dessa forma, não existe nenhum repositório, que visa documentar o sistema, no 
 | ------------------------------------------------------------------------ | --------------- | --------------------------------- | -------------------------------------------------- |
 | ![Gabriel Sabanai](https://avatars.githubusercontent.com/u/51263792?v=4) | Gabriel Sabanai | gabrielsabanaitrindade@gmail.com  | [@Sabanai104](https://github.com/Sabanai104)       |
 | ![Samuel Avila](https://avatars.githubusercontent.com/u/53478066?v=4)    | Samuel Avila    | samuel2001.furtadoavila@gmail.com | [@samuelfavila](https://github.com/samuelfavila)   |
-| ![Felipe Candido](https://avatars.githubusercontent.com/u/62444107?v=4)  | Felipe Candido  | jvtexbat@hotmail.com              | [@felipecdmoura](https://github.com/felipecdmoura) |
-| ![Gabriel Mariano](https://avatars.githubusercontent.com/u/72149063?v=4) | Gabriel Mariano | ph.hr.001@gmail.com               | [@gabrielm2q](https://github.com/gabrielm2q)       |
-| ![Laís Ramos](https://avatars.githubusercontent.com/u/38669960?v=4)      | Laís Ramos      | liviarodriguesre@gmail.com        | [@laisramos123](https://github.com/laisramos123)   |
+| ![Felipe Moura](https://avatars.githubusercontent.com/u/62444107?v=4)  | Felipe Moura  | mourapipe@gmail.com          | [@felipecdmoura](https://github.com/felipecdmoura) |
+| ![Gabriel Mariano](https://avatars.githubusercontent.com/u/72149063?v=4) | Gabriel Mariano | mariano.gabriel2q@gmail.com  | [@gabrielm2q](https://github.com/gabrielm2q)       |
+| ![Laís Ramos](https://avatars.githubusercontent.com/u/38669960?v=4)      | Laís Ramos      | laisramos123@gmail.com       | [@laisramos123](https://github.com/laisramos123)   |
 | ![André Alves](https://avatars.githubusercontent.com/u/71379045?v=4)     | André Alves     | victorear05@gmail.com             | [@andremralves](https://github.com/andremralves)   |
