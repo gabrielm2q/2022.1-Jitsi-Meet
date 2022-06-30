@@ -37,4 +37,4 @@ Dessa forma, não existe nenhum repositório, que visa documentar o sistema, no 
 | ![Felipe Moura](https://avatars.githubusercontent.com/u/62444107?v=4)  | Felipe Moura  | mourapipe@gmail.com          | [@felipecdmoura](https://github.com/felipecdmoura) |
 | ![Gabriel Mariano](https://avatars.githubusercontent.com/u/72149063?v=4) | Gabriel Mariano | mariano.gabriel2q@gmail.com  | [@gabrielm2q](https://github.com/gabrielm2q)       |
 | ![Laís Ramos](https://avatars.githubusercontent.com/u/38669960?v=4)      | Laís Ramos      | laisramos123@gmail.com       | [@laisramos123](https://github.com/laisramos123)   |
-| ![André Alves](https://avatars.githubusercontent.com/u/71379045?v=4)     | André Alves     | victorear05@gmail.com             | [@andremralves](https://github.com/andremralves)   |
+| ![André Alves](https://avatars.githubusercontent.com/u/71379045?v=4)     | André Alves     | andremralves@gmail.com             | [@andremralves](https://github.com/andremralves)   |
