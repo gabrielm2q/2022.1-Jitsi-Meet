@@ -20,3 +20,5 @@ nav:
          - Políticas: ./planejamento/politicas.md
    - Pré-Rastreabilidade:
          - Rich Picture: ./preRastreabilidade/richPicture.md
+markdown_extensions:
+  - attr_list
