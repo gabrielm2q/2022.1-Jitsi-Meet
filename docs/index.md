@@ -4,7 +4,8 @@
 
 | Versão | Data  |   Modificação   |             Autor              |
 | ------ | ----- | :-------------: | :----------------------------: |
-| 1.0    | 05/02 | Criação da wiki | Gabriel Sabanai e Samuel Avila |
+| 1.0    | 28/06 | Criação da wiki | Gabriel Sabanai e Samuel Avila |
+ 1.0    | 10/07 | Inserção dos outros aplicativos analisados e revisão| Laís Ramos |
 
 _Tabela 1: Versionamento_
 
@@ -27,6 +28,11 @@ O Jitsi é um software open-source, disponibilizados para diversas plataformas, 
 Até o dia de hoje, 29 de Junho de 2022, não existem repositórios públicos que visam documentar o aplicativo Jitsi. Por enquanto, todos os respositórios existentes relacionados a aplicação são implementações de funcionalidades no software, ou criação de clones da plataforma pelo front-end ou, então, o próprio repositorio existente, já que, é uma aplicação open-source.
 
 Dessa forma, não existe nenhum repositório, que visa documentar o sistema, no qual a nossa equipe conseguiria se basear ou retirar informações que possam prejudicar a aplicação do aprendizado da disciplina.
+
+## Outros aplicativos analisados
+Inicialmente o grupo havia optado por analisar os aplicativos Forest, aplicação de controle e gestão de tempo, e o aplicativo HBO Max, aplicativo de streaming da rede de canais HBO. Entretanto, após pesquisa nas políticas de utilização das aplicações, foi possível constatar que ambos não permitem a aplicação de Engenharia Reversa, impossibilitando assim o desenvolvimento do projeto.
+![policyForest](./assets/policyForest.png)
+![policyHBOMax](./assets/policyHBOMax.png)
 
 ## Equipe
 
