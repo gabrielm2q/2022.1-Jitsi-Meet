@@ -6,12 +6,14 @@
 | ------ | ---------- | :--------------------------: | :----------: |
 | 1.0    | 29/06/2022 | Documentação das ferramentas | Samuel Avila |
 | 1.1    | 05/07/2022 | Correção das imagens         | André Alves  |
+| 1.2    | 06/07 | Revisão do artigo | Gabriel Sabanai |
+
 
 _Tabela 1: versionamento_
 
 ## Introdução
 
-<p> As ferramentas são os softwares utilizados pela equipe para garantir um bom desenvolvimento do projeto.</p>
+<p> As ferramentas são os softwares utilizados que auxiliem a equipe em suas atividades para garantir um bom desenvolvimento do projeto ao longo de seu ciclo.</p>
 
 _Tabela 2: introdução_
 
