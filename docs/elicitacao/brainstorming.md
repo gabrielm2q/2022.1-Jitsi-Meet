@@ -23,7 +23,7 @@ O Brainstorming é uma técnica utilizada pelo grupo de um projeto que visa deix
 
  ### O que é necessário para realizar uma video conferencia?
   
-  ![brainstorming](../assets/Brainstorm.jpg){width: 200px}
+  ![brainstorming](../assets/Brainstorm.jpg){width="900"}
   *Imagem brainstorming realizado* 
 
 ## Requisitos Elicitados
