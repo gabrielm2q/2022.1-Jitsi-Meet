@@ -5,7 +5,8 @@
 | Versão | Data  |   Modificação   |             Autor              |
 | ------ | ----- | :-------------: | :----------------------------: |
 | 1.0    | 28/06 | Criação da wiki | Gabriel Sabanai e Samuel Avila |
- 1.0    | 10/07 | Inserção dos outros aplicativos analisados e revisão| Laís Ramos |
+ 1.1    | 10/07 | Inserção dos outros aplicativos analisados e revisão| Laís Ramos |
+ 1.2    | 13/07 | Correção de semântica textual| Laís Ramos |
 
 _Tabela 1: Versionamento_
 
