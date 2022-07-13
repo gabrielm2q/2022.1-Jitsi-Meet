@@ -20,7 +20,9 @@ nav:
          - Políticas: ./planejamento/politicas.md
    - Pré-Rastreabilidade:
          - Rich Picture: ./preRastreabilidade/richPicture.md
-   - Elicitação:
+   - Elicitação - Técnicas e Priorização:
          - Brainstorming: ./elicitacao/brainstorming.md
+         - Personas e Storytelling: ./elicitacao/personas.md
+
 markdown_extensions:
   - attr_list

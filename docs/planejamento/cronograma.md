@@ -2,8 +2,8 @@
 
 | Versão | Data  |   Modificação   |             Autor              |
 | ------ | ----- | :-------------: | :----------------------------: |
-| 1.0    | 30/06 | Criação do cronograma |  Gabriel Mariano, Laís Ramos |
-| 1.1    | 13/07 | Revisäo do cronograma |  Felipe Moura            |
+| 1.0    | 30/06 | Criação do cronograma |  Gabriel Mariano, Laís Ramos  |
+| 1.1    | 13/07 | Revisäo do cronograma |  Felipe Moura  |
 
 *Tabela 1: versionamento*
 
