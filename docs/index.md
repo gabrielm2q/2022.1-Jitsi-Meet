@@ -30,7 +30,7 @@ Até o dia de hoje, 29 de Junho de 2022, não existem repositórios públicos qu
 Dessa forma, não existe nenhum repositório, que visa documentar o sistema, no qual a nossa equipe conseguiria se basear ou retirar informações que possam prejudicar a aplicação do aprendizado da disciplina.
 
 ## Outros aplicativos analisados
-O grupo havia pré-selecionado  os aplicativos Forest - aplicação de controle e gestão de tempo - e o aplicativo HBO Max- aplicativo de streaming da rede de canais HBO. Entretanto, após analisar as políticas de utilização das aplicações, foi possível constatar que ambos não permitem a aplicação de Engenharia Reversa, impossibilitando assim o desenvolvimento do projeto.
+O grupo havia pré-selecionado  os aplicativos Forest - software de controle e gestão de tempo - e  HBO Max- software de streaming da rede de canais HBO. Entretanto, após analisar suas respectivas políticas de utilização, foi possível constatar que ambos não permitem o uso de Engenharia Reversa, impossibilitando assim o desenvolvimento do projeto.
 
 <br>
 
