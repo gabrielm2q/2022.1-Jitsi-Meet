@@ -24,5 +24,6 @@ nav:
         - Análise de Protocolo: ./elicitacao/analiseProtocolo.md
         - Brainstorming: ./elicitacao/brainstorming.md
         - Personas e Storytelling: ./elicitacao/personas.md
+        - Requisitos Elicitados: ./elicitacao/requisitoselicitados.md
 markdown_extensions:
   - attr_list

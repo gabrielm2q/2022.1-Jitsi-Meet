@@ -6,6 +6,8 @@
 | 1.2  | 07/07 | Elicitação do Brainstorming em um Backlog |  Gabriel Sabanai |
 | 1.3  | 12/07 | Documentação do Brainstorming |  Gabriel Sabanai |
 
+_Tabela de versionamento_
+
 ## Introdução
 
 O Brainstorming é uma técnica utilizada pelo grupo de um projeto que visa deixar fluir ideias e pensamentos sem julgamento entre os membros da equipe, também é ideal sempre ter um mediador que vai prescrevendo todas as ideias relatadas entre a equipe. Tem como objetivo criar novas formas de enxergar um problema e explorar a criatividade dos membros. Logo, o Brainstorming agrega o conhecimento e estimula o pensamento ativo na gestão de problemas (SERRANO, 2022).
@@ -18,10 +20,15 @@ Nesse caso, o grupo se baseou em uma pergunta principal, sendo ela: "O que é ne
 | ----- | ---- | ---- |
 | Casa do Samuel | 05/07 | 16:42 |
 
+_Tabela de informações_
+
 | Membros Participantes |
 | --------------------- |
 | Gabriel Sabanai |
 | Samuel Avila |
+
+_Tabela de membros participantes_
+
 
  ### O que é necessário para realizar uma video conferencia?
   
@@ -81,6 +88,8 @@ Nesse caso, o grupo se baseou em uma pergunta principal, sendo ela: "O que é ne
 | BS41 | A aplicação deve permitir que o usuário possa recusar uma reunião marcada para que possa negar caso não queira participar da mesma | RF | MUST |
 | BS42 | A aplicação deve permitir que o usuário possa visualizar uma lista e a quantidade de participantes que estão presente na video chamada | RF | MUST |
 | BS43 | A aplicação deve permitir que o usuário dê um titulo para a reunião para que possa identifica-la para outros usuarios | RF | MUST |
+
+_Tabela: Requisitos elicitados_
 
 ## Referências
 
