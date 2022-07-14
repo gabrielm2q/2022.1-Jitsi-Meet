@@ -3,8 +3,8 @@
 | Versão | Data       |   Modificação   |             Autor              |
 | ------ | ---------- | :-------------: | :----------------------------: |
 | 1.0    | 29/06/2022 | Criação do Rich Picture | Felipe Moura, Andre Alves e Gabriel Sabanai |
-| 2.0    | 29/06/2022 | Segunda Versão do Rich Picure | Andre Alves e Felipe Moura |
-| 2.1    | 13/07/2022 | Adição da legenda | Andre Alves |
+| 1.1.0    | 29/06/2022 | Segunda Versão do Rich Picure | Andre Alves e Felipe Moura |
+| 1.1.1    | 13/07/2022 | Adição da legenda | Andre Alves |
 
 *Tabela 1 versionamento*
 
@@ -29,12 +29,12 @@ Visando obter o panorama geral de como funciona o Jitsi, foi desenvolvido pela e
 
 ![RichPictureFelipe](../assets/richPictures/richPicure.png)
 
-*Imagem 1: Rich Picture Autor: Felipe Moura*
+*Imagem 1: Rich Picture, Autor: Felipe Moura, Versão: 1.0*
 
 ## Rich Picture 2 - Andre Alves
 
 ![RichPictureAndre](../assets/richPictures/richPictureAndre.png)
-*Imagem 2: Rich Picture Autor: Andre Alves*
+*Imagem 2: Rich Picture, Autor: Andre Alves, Versão: 1.1*
 
 ## Legenda - Rich Picture
 
