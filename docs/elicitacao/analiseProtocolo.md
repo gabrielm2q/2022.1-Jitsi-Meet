@@ -63,7 +63,7 @@ _Tabela 3: Documentação da análise de protocolo_
 
 ### Vídeo da Análise de Protocolo
 
-[![Análise de Protocolo](../assets/analise-protocolo-thumb.webp)
+[![Análise de Protocolo](../assets/elicitacao/analise-protocolo-thumb.webp)
 ](https://youtu.be/qnnkIhUYSos)
 
 _Imagem 1: thumbnail do vídeo da análise de protocolo_
@@ -72,8 +72,12 @@ _Imagem 1: thumbnail do vídeo da análise de protocolo_
 
 Após a análise de protocolo, fizemos algumas perguntas para nosso usuário voluntário, essas perguntas nos ajudaram a chegar a alguns dos requisitos - principalmente os não-funcionais - elicitados
 
-[! [Entrevista](../assets/entrevista-thumb.jpg)
+### Vídeo da entrevista
+
+[![Entrevista](../assets/elicitacao/entrevista-thumb.jpg)
 ](https://youtu.be/hZ7Hnsjyrfk)
+
+_Imagem 2: thumbnail do vídeo da entrevista_
 
 ## Requisitos elicitados
 

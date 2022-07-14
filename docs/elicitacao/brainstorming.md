@@ -31,7 +31,7 @@ _Tabela de membros participantes_
 
 ### O que é necessário para realizar uma video conferencia?
 
-![brainstorming](../assets/Brainstorm.jpg){width="900"}
+![brainstorming](../assets/elicitacao/Brainstorm.jpg){width="900"}
 _Imagem brainstorming realizado_
 
 ## Requisitos Elicitados
