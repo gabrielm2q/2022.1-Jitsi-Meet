@@ -6,6 +6,7 @@
 | ------ | ----- | :-------------------------------------------------------------: | :----------------------------: |
 | 1.0    | 05/07 |               Realização da Análise de Protocolo                | Samuel Avila e Gabriel Sabanai |
 | 1.1    | 13/07 | Elicitação de Requisitos e Documentação da Análise de Protocolo |          Samuel Avila          |
+| 1.2    | 13/07 |                   Documentação da entrevista                    |          Samuel Avila          |
 
 _Tabela 1: Versionamento_
 
@@ -66,6 +67,13 @@ _Tabela 3: Documentação da análise de protocolo_
 ](https://youtu.be/qnnkIhUYSos)
 
 _Imagem 1: thumbnail do vídeo da análise de protocolo_
+
+## Entrevista
+
+Após a análise de protocolo, fizemos algumas perguntas para nosso usuário voluntário, essas perguntas nos ajudaram a chegar a alguns dos requisitos - principalmente os não-funcionais - elicitados
+
+[! [Entrevista](../assets/entrevista-thumb.jpg)
+](https://youtu.be/hZ7Hnsjyrfk)
 
 ## Requisitos elicitados
 
