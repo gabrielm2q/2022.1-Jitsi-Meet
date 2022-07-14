@@ -1,7 +1,7 @@
 | Versão | Data  |   Modificação   |             Autor              |
 | ------ | ----- | :-------------: | :----------------------------: |
-| 1.0    | 29/06 | Adição das metodologias usadas | Gabriel Mariano, Laís Ramos |
-| 1.1    | 06/07 | Revisão do artigo | Gabriel Sabanai |
+| 1.0    | 29/06/2022 | Adição das metodologias usadas | Gabriel Mariano, Laís Ramos |
+| 1.1    | 06/07/2022 | Revisão do artigo | Gabriel Sabanai |
 
 *Tabela 1: versionamento*
 
