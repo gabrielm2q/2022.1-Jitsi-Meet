@@ -3,7 +3,7 @@
 
 | Versão | Data | Modificação | Autor |
 |-|-|:-:|:-:|
-| 1.0 | 08/02/2022 | Adição da política de contribuição | Gabriel Sabanai |
+| 1.0 | 29/06/2022 | Adição da política de contribuição | Gabriel Sabanai |
 
 *Tabela 1: versionamento*
 
