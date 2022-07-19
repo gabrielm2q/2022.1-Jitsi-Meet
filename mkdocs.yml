@@ -26,5 +26,11 @@ nav:
         - Brainstorming: ./elicitacao/brainstorming.md
         - Personas e Storytelling: ./elicitacao/personas.md
         - Requisitos Elicitados: ./elicitacao/requisitoselicitados.md
+   - Modelagem de Requisitos:
+        - Cenários: ./modelagem/cenarios.md
+        - Léxico: ./modelagem/lexico.md
+        - Use Case: ./modelagem/useCase.md
+        - Especificação Suplementar: ./modelagem/especificacaoSuplementar.md
+
 markdown_extensions:
    - attr_list
