@@ -6,6 +6,7 @@
 | ------ | ----- | :---------------: | :----------------------------: |
 | 1.0    | 28/06 | Criação da página | Gabriel Sabanai e Samuel Avila |
 | 1.1    | 13/07 | Revisão e Adição do Vídeo da Apresentação | Gabriel Mariano |
+| 1.2    | 19/07 | Revisão da Legenda | Gabriel Mariano |
 
 _Tabela 1: Versionamento_
 
@@ -15,3 +16,5 @@ Esse documento contém a apresentação do primeiro ponto de controle, que tem c
 
 ## Apresentação
 [![Primeira apresentação (Planejamento) - Grupo 06 - Requisitos 2022.1](https://img.youtube.com/vi/Dr2-mjbicxo/0.jpg)](https://www.youtube.com/watch?v=Dr2-mjbicxo)
+
+_Vídeo 1: vídeo da primeira apresentação_

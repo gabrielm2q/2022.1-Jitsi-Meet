@@ -12,6 +12,7 @@ nav:
    - Início: ./index.md
    - Apresentações:
         - Primeira Apresentação: ./apresentacoes/apresentacao1.md
+        - Segunda Apresentação: ./apresentacoes/apresentacao2.md
    - Planejamento:
         - Metodologia: ./planejamento/metodologia.md
         - Ferramentas Utilizadas: ./planejamento/ferramentas.md
@@ -26,4 +27,4 @@ nav:
         - Personas e Storytelling: ./elicitacao/personas.md
         - Requisitos Elicitados: ./elicitacao/requisitoselicitados.md
 markdown_extensions:
-  - attr_list
+   - attr_list
