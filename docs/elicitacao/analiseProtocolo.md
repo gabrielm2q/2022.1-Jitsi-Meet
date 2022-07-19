@@ -66,7 +66,7 @@ _Tabela 3: Documentação da análise de protocolo_
 [![Análise de Protocolo](../assets/elicitacao/analise-protocolo-thumb.webp)
 ](https://youtu.be/qnnkIhUYSos)
 
-_Imagem 1: thumbnail do vídeo da análise de protocolo_
+_Vídeo 1: thumbnail do vídeo da análise de protocolo_
 
 ## Entrevista
 
@@ -77,7 +77,7 @@ Após a análise de protocolo, fizemos algumas perguntas para nosso usuário vol
 [![Entrevista](../assets/elicitacao/entrevista-thumb.jpg)
 ](https://youtu.be/hZ7Hnsjyrfk)
 
-_Imagem 2: thumbnail do vídeo da entrevista_
+_Vídeo 2: thumbnail do vídeo da entrevista_
 
 ## Requisitos elicitados
 

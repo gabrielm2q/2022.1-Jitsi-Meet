@@ -12,7 +12,7 @@ _Tabela de versionamento_
 
 O Brainstorming é uma técnica utilizada pelo grupo de um projeto que visa deixar fluir ideias e pensamentos sem julgamento entre os membros da equipe, também é ideal sempre ter um mediador que vai prescrevendo todas as ideias relatadas entre a equipe. Tem como objetivo criar novas formas de enxergar um problema e explorar a criatividade dos membros. Logo, o Brainstorming agrega o conhecimento e estimula o pensamento ativo na gestão de problemas (SERRANO, 2022).
 
-Nesse caso, o grupo se baseou em uma pergunta principal, sendo ela: "O que é necesário para realizar uma video conferencia?" e com isso foi jogado diversas ideias que eram anotadas em uma folha de papel.
+Nesse caso, o grupo se baseou em uma pergunta principal, sendo ela: "O que é necesário para realizar uma video conferencia?" e com isso foram jogadas diversas ideias que eram anotadas em uma folha de papel.
 
 ## Brainstorm
 
@@ -32,7 +32,7 @@ _Tabela de membros participantes_
 ### O que é necessário para realizar uma video conferencia?
 
 ![brainstorming](../assets/elicitacao/Brainstorm.jpg){width="900"}
-_Imagem brainstorming realizado_
+_Imagem: brainstorming realizado_
 
 ## Requisitos Elicitados
 
