@@ -8,7 +8,7 @@
 | 1.1    | 19/07/2022 | Criação da Documentação |        Gabriel Sabanai         |
 | 1.2    | 20/07/2022 |         Revisão         | Gabriel Mariano e Samuel Avila |
 
-_Tabela 1: Versioanemnto dos Léxicos_
+_Tabela 1: Versionamento dos Léxicos_
 
 ## Introdução
 
@@ -47,7 +47,7 @@ _Tabela 2: Legenda dos léxicos_
 
 ### Léxico 3
 
-| L03           | Versionamento                                                                                    |
+| L03           | Branch                                                                                    |
 | ------------- | ------------------------------------------------------------------------------------------------ |
 | Sinônimos     | Galho                                                                                            |
 | Classificação | Objeto                                                                                           |
