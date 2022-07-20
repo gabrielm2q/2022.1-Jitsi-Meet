@@ -7,14 +7,15 @@
 | 1.0    | 19/07 |               Realização da Especificação Suplementar           | André Alves e Laís Ramos       |
 | 1.1    | 20/07 |               Versão definitiva                                 | Laís Ramos                     |
 | 1.2    | 20/07 |               Criação da Documentação                           | André Alves                    |
+| 1.3    | 20/07 |               Revisão da Documentação                           | Gabriel Mariano                |
 
 _Tabela 1: Versionamento_
 
 ## Introdução
 
-Especificação Suplementar é um documento em linguagem natural, onde são descritos os Requisitos Não Funcionais.Os  requisitos capturados pela Especificação Suplementar não são prontamente capturados nos casos de uso do Modelo de Caso de Uso, e por isso, é considerado um importante complemento para o mesmo. Juntos, capturam todos os requisitos de software (funcionais e não  funcionais) que precisam ser descritos para servir como uma Especificação de Requisitos de Software completa.
+Especificação Suplementar é um documento em linguagem natural, onde são descritos os Requisitos Não Funcionais. Os  requisitos capturados pela Especificação Suplementar não são prontamente capturados nos casos de uso do Modelo de Caso de Uso, e por isso, é considerado um importante complemento para o mesmo. Juntos, capturam todos os requisitos de software (funcionais e não  funcionais) que precisam ser descritos para servir como uma Especificação de Requisitos de Software completa.
 
-Entre os requisitos capturados, estão incluídos:
+Entre os requisitos capturados, de acordo com o [**CIn - UFPE**](https://www.cin.ufpe.br/~gta/rup-vc/core.base_rup/workproducts/rup_supplementary_specification_F5ACAA22.html), estão incluídos:
 
 - Requisitos legais e de regulamentação e padrões de aplicativo;
 - Atributos de qualidade do sistema a ser desenvolvido, incluindo requisitos de usabilidade, confiabilidade, desempenho e suportabilidade;
@@ -23,9 +24,9 @@ Entre os requisitos capturados, estão incluídos:
 
 ## Metodologia
 
-Para a classificação dos requisitos não funcionais do projeto foi utilizados o modelo FURPS+. O acrônimo FURPS+ descreve as principais categorias de requisitos, sendo descritas como:
+Para a classificação dos requisitos não funcionais do projeto foi utilizados o modelo FURPS+. O acrônimo FURPS+ descreve as principais categorias de requisitos, sendo descritas, de acordo com o [**CIn - UFPE**](https://www.cin.ufpe.br/~gta/rup-vc/core.base_rup/guidances/concepts/requirements_62E28784.html), como:
 
-### F- Funcionality (Funcionalidade) 
+### F - Funcionality (Funcionalidade) 
 
 Os requisitos funcionais podem incluir:
 
@@ -33,7 +34,7 @@ Os requisitos funcionais podem incluir:
 2. Habilidades
 3. segurança
 
-### U- Usability(Usabilidade) 
+### U - Usability (Usabilidade) 
 
 Os requisitos de usabilidade lidão com os requisitos relacionado a facilidade do usuário de interagir com a aplicação, e podem incluir :
 
@@ -53,7 +54,7 @@ Os requisitos deste tópico estão relacionados ao grau de confiabilidade da apl
 2. Possibilidade de recuperação
 3. Possibilidade de previsão, exatidão, e etc.
 
-### P- Performance (Performance) 
+### P - Performance (Performance) 
 
 Esta seção visa especificar as características do sistema relacionadas ao desempenho.Um requisito de performance, ou, desempenho, pode incluir:
 
@@ -64,7 +65,7 @@ Esta seção visa especificar as características do sistema relacionadas ao des
 5. Tempo de Recuperação
 6. Uso de recurso
 
-### S- Supportability (Suportabilidade)
+### S - Supportability (Suportabilidade)
 
 Os requisitos deste tópico estão relacionados à :
 
@@ -91,13 +92,13 @@ Por resultado da categorização dos requisitos não funcionais elencados na eta
 
 ### Funcionalidade 
 
-Tendo sido modelados os requisitos funcionais - por meio das técnicas de Brainstorming, Personas e Análise de Protocolo - de forma categórica, estes podem ser encontrados neste documento. [Casos de Uso](https://requisitos-de-software.github.io/2022.1-Jitsi-Meet/modelagem/useCase/)
+Tendo sido modelados os requisitos funcionais - por meio das técnicas de Brainstorming, Personas e Análise de Protocolo - de forma categórica, estes podem ser encontrados nestes documentos: [Elicitação de Requisitos](../elicitacao/requisitoselicitados.md) e [Use Case](./useCase.md).
 
 ### Usabilidade/Utilidade
 
 #### Usabilidade intuitiva e interface minimalista
 
-O Jits Meeti terá uma interface minimalista e intuitiva a fim de reduzir o tempo requerido para que os usuários se tornem produtivos na plataforma, visando facilitar a interação tanto para aqueles mais experientes quanto para os menos experientes ou recentes na aplicação.
+O Jits Meet terá uma interface minimalista e intuitiva a fim de reduzir o tempo requerido para que os usuários se tornem produtivos na plataforma, visando facilitar a interação tanto para aqueles mais experientes quanto para os menos experientes ou recentes na aplicação.
 
 Rastro: [Análise de Protocolo](https://requisitos-de-software.github.io/2022.1-Jitsi-Meet/analiseProtocolo/) e [Personas e Storytelling](https://requisitos-de-software.github.io/2022.1-Jitsi-Meet/personas/)
 
@@ -173,14 +174,13 @@ O Jitsi pode ser acessado por dispositivos desktop Debian, entretanto para siste
 
 O Design do sistema deverá seguir as regras de contribuição disponíveis no repositório do Jitsi Meet. Além disso, as tecnologias utilizadas deverão ser mantidas, como o Javascript, e para o design do frontend, deverá ser mantido o padrão de estilização.
 
-
 Rastro: [Regras de Contribuição](https://github.com/jitsi/jitsi-meet/blob/master/CONTRIBUTING.md)
 
 ### Requisitos de Licença
 
 #### Termos de Uso
 
-O jitsi Meet disponibiliza os termos de uso para que o usuário concorde com os serviços que o sistema irá oferecer, os componentes da máquina do usuário que serão utilizados e informações sobre privacidade durante o uso da aplicação. 
+O Jitsi Meet disponibiliza os termos de uso para que o usuário concorde com os serviços que o sistema irá oferecer, os componentes da máquina do usuário que serão utilizados e informações sobre privacidade durante o uso da aplicação. 
 
 Rastro: [Termos de Uso](https://jitsi.org/meet-jit-si-terms-of-service/)
 
@@ -192,13 +192,20 @@ Rastro: [Licença Apache](https://github.com/jitsi/jitsi-meet/blob/master/LICENS
 
 ## Referências Bibliográficas
 
-SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 11;
-https://www.cin.ufpe.br/~gta/rup-vc/core.base_rup/workproducts/rup_supplementary_specification_F5ACAA22.html
-https://www.cin.ufpe.br/~gta/rup-vc/core.base_rup/guidances/concepts/requirements_62E28784.html
-Suportabilidade web:https://meet.jit.si/
-Suportabilidade mobile: https://jitsi.org/downloads/
-Suportabilidade desktop: https://desktop.jitsi.org/Main/Download.html
+**SERRANO, Maurício; SERRANO, Milene.** "Requisitos - Aula 11".
 
-Restrições de Design do Jitsi:  https://github.com/jitsi/jitsi-meet/blob/master/CONTRIBUTING.md
-Requisitos de Licença do Jitsi: https://jitsi.org/meet-jit-si-terms-of-service/
-Licença Apache do Jitsi:https://github.com/jitsi/jitsi-meet/blob/master/LICENSE
+**CIn - UFPE**. "Artefato: Especificações Suplementares". Disponível em: <https://www.cin.ufpe.br/~gta/rup-vc/core.base_rup/workproducts/rup_supplementary_specification_F5ACAA22.html>.
+
+**CIn - UFPE**. "Conceito: Requisitos". Disponível em: <https://www.cin.ufpe.br/~gta/rup-vc/core.base_rup/guidances/concepts/requirements_62E28784.html>.
+
+**Suportabilidade web:** https://meet.jit.si/
+
+**Suportabilidade mobile:** https://jitsi.org/downloads/
+
+**Suportabilidade desktop:** https://desktop.jitsi.org/Main/Download.html
+
+**Restrições de Design do Jitsi:**  https://github.com/jitsi/jitsi-meet/blob/master/CONTRIBUTING.md
+
+**Requisitos de Licença do Jitsi:** https://jitsi.org/meet-jit-si-terms-of-service/
+
+**Licença Apache do Jitsi:** https://github.com/jitsi/jitsi-meet/blob/master/LICENSE
