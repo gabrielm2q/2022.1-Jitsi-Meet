@@ -203,6 +203,8 @@ Abaixo estão os requisitos elicitados com a técnica do Storytelling e prioriza
 
 **Técnica MoSCoW**. Disponível em: <https://unbarqdsw.github.io/2020.1_G1_Triagil/modelagem/extra/priorizacao/moscow/>
 
+DISNEY PLUS. Disponível em: (https://requisitos-de-software.github.io/2021.1-DisneyPlus/elicitacao/personas/)[https://requisitos-de-software.github.io/2021.1-DisneyPlus/elicitacao/personas/]. Acessado em: 13 de julho de 2022.
+
 ## Fonte das Imagens
 
 **Karras et al. and Nvidia**. “thispersondoesnotexist”. Disponível em: <https://thispersondoesnotexist.com/>. Acesso em 11 jul. 2022.

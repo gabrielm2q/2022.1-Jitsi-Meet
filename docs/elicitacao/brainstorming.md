@@ -94,3 +94,5 @@ _Tabela: Requisitos elicitados_
 SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 07. 1º/2022. 50 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
 
 Tutorial: Como fazer Brainstorming Passo a Passo. Disponível em: https://www.siteware.com.br/metodologias/como-fazer-brainstorming-passo-a-passo/ Acesso em: 05 de Julho de 2022.
+
+DUOLINGO. Disponível em: (https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Brainstorming/)[https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Brainstorming/]. Acessado em: 07 de julho de 2022.

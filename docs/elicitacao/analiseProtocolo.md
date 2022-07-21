@@ -118,3 +118,5 @@ _Tabela 4: requisitos elicitados a partir da análise de protocolo_
 ## Referências
 
 SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 07. 1º/2019. 50 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
+
+DUOLINGO. Disponível em: (https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/AnaliseDeProtocolo/)[https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/AnaliseDeProtocolo/]. Acessado em: 07 de julho de 2022.
