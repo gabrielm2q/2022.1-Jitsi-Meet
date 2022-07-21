@@ -4,7 +4,9 @@
 
 | Versão | Data  | Descrição            | Autor        |
 | ------ | :---: | -------------------- | ------------ |
-| 1.0    | 20/07/2022 | Criação do documento | Samuel Avila e Felipe Moura |
+| 1.0   | 20/07/2022 | Criação do documento | Samuel Avila e Felipe Moura |
+| 1.1   | 20/07/2022 | Revisão da documentação | Gabriel Mariano |
+| 1.2   | 20/07/2022 | Revisão complementar da documentação | Gabriel Sabanai |
 
 _Tabela 1: Versionamento_
 
