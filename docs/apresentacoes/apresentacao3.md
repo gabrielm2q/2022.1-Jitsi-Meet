@@ -4,8 +4,9 @@
 
 | Versão | Data  |    Modificação    |             Autor              |
 | ------ | ----- | :---------------: | :----------------------------: |
-| 1.0    | 20/07 | Criação da Página | Gabriel Mariano |
-| 1.1    | 20/07 | Adição do Vídeo da Apresentação | Gabriel Mariano |
+| 1.0    | 20/07 | Criação da Página | Gabriel Mariano                |
+| 1.1    | 20/07 | Adição do Vídeo da Apresentação | Gabriel Mariano  |
+| 1.2    | 20/07 | Revisão da Apresentação | André Alves              |
 
 _Tabela 1: Versionamento_
 
