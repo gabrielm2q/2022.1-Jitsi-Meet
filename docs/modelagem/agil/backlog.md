@@ -7,6 +7,7 @@
 | 1.0   | 01/08/2022 | Criação do documento | Gabriel Mariano e Felipe Moura |
 | 1.1   | 02/08/2022 | Criação do Backlog | Gabriel Mariano e Felipe Moura |
 | 1.2   | 02/08/2022 | Inserção da Apresentação | Gabriel Mariano e Felipe Moura |
+| 1.3   | 02/08/2022 | Correção de Erro de Escrita | Gabriel Mariano  |
 _Tabela 1: Versionamento_
 
 ## Introdução 
@@ -51,7 +52,7 @@ _Vídeo 1: vídeo da criação do backlog do produto_
 |---------|----|--------------------|
 | </br>FT04 - Transmissão de vídeo | US06 </br></br></br> US07 | Eu gostaria de transmitir o meu vídeo para outros participantes </br></br> Eu gostaria de visualizar os vídeo compartilhados |
 | </br>FT05 - Transmissão de áudio | US08 </br></br></br> US09 | Eu gostaria de transmitir o meu áudio para outros participantes </br></br> Eu gostaria de ouvir o áudio de outros participantes |
-| Feature 06 - Estatísticas da videochamada | US10 | Eu gostaria de visualizar estatísticas referentes aos participantes|
+| FT06 - Estatísticas da videochamada | US10 | Eu gostaria de visualizar estatísticas referentes aos participantes|
 | </br>FT07 - Compartilhamento de tela | US11 </br></br></br> US12 | Eu gostaria de compartilhar minha tela com outros participantes </br></br> Eu gostaria de visualizar a tela compartilhada por outros participante |
 | FT08 - Criação de breakout rooms | US13  | Eu gostaria de criar salas de chamadas internas à minha reunião |
 | FT09 - Convidar pessoas | US14 | Eu gostaria de enviar o link da chamada para outras pessoas |
