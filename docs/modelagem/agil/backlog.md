@@ -2,15 +2,17 @@
 
 ## Versionamento
 
-| Versão | Data  | Descrição            | Autor        |
-| ------ | :---: | -------------------- | ------------ |
-| 1.0   | 01/08/2022 | Criação do documento | Gabriel Mariano e Felipe Moura |
-| 1.1   | 02/08/2022 | Criação do Backlog | Gabriel Mariano e Felipe Moura |
-| 1.2   | 02/08/2022 | Inserção da Apresentação | Gabriel Mariano e Felipe Moura |
-| 1.3   | 02/08/2022 | Correção de Erro de Escrita | Gabriel Mariano  |
+| Versão |    Data    | Descrição                   | Autor                          |
+| ------ | :--------: | --------------------------- | ------------------------------ |
+| 1.0    | 01/08/2022 | Criação do documento        | Gabriel Mariano e Felipe Moura |
+| 1.1    | 02/08/2022 | Criação do Backlog          | Gabriel Mariano e Felipe Moura |
+| 1.2    | 02/08/2022 | Inserção da Apresentação    | Gabriel Mariano e Felipe Moura |
+| 1.3    | 02/08/2022 | Correção de Erro de Escrita | Gabriel Mariano                |
+| 1.4    | 03/08/2022 | Revisão                     | Samuel Avila                   |
+
 _Tabela 1: Versionamento_
 
-## Introdução 
+## Introdução
 
 O _Product Backlog_ é, basicamente, uma listagem das funcionalidades de um produto que visa orientar a equipe de desenvolvimento na construção do produto de software. Conforme apresentado no [**SEVOCAB**](https://pascal.computer.org/sev_display/printSearch.action?term=Backlog&source=), um backlog é um "conjunto de features de software aguardando desenvolvimento em uma iteração subsequente" (traduzido). </br>
 Segundo Maurício e Milene Serrano, o conteúdo do backlog "é definido pelo **Product Owner**", sendo que "o **Product Backlog** não precisa estar completo no início de um projeto".
@@ -22,14 +24,14 @@ Para tal, foi realizada uma reunião entre um membro da equipe de desenvolviment
 
 ## Legenda
 
-| Feature | ID | História de Usuário|
-|---------|----|--------------------|
-| FTXX - Nome da Feature | USXX  | Descrição das __User Stories__ |
-_Tabela 2: Legenda_
+| Feature                | ID   | História de Usuário            |
+| ---------------------- | ---- | ------------------------------ |
+| FTXX - Nome da Feature | USXX | Descrição das **User Stories** |
+
+_Tabela 2: Legenda da Metodologia_
 
 **FTXX**: Identificação da Feature (XX é a numeração) </br>
-**USXX**: Identificação da __User Story__ (XX é a Numeração) </br>
-
+**USXX**: Identificação da **User Story** (XX é a Numeração) </br>
 
 ## Gravação
 
@@ -38,43 +40,52 @@ _Tabela 2: Legenda_
 _Vídeo 1: vídeo da criação do backlog do produto_
 
 ## Backlog
+
 ### Épico 01 - Tela Inicial
 
-| Feature | ID | História de Usuário|
-|---------|----|--------------------|
-|FT01 - Sincronização com o calendário | US01 </br></br> US02 | Eu gostaria de sincronizar com o meu calendário </br></br> Eu gostaria de agendar uma reunião|
-| </br>FT02 - Criar a reunião | US03 </br></br> US04| Eu quero gerar um link para uma reunião </br></br> Eu quero ser redirecionado à videoconferência criada |
-| FT03 - Visualização do histórico de reuniões | US05 | Eu gostaria de visualizar as reuniões que participei no passado|
+| Feature                                      | ID                   | História de Usuário                                                                                     |
+| -------------------------------------------- | -------------------- | ------------------------------------------------------------------------------------------------------- |
+| FT01 - Sincronização com o calendário        | US01 </br></br> US02 | Eu gostaria de sincronizar com o meu calendário </br></br> Eu gostaria de agendar uma reunião           |
+| </br>FT02 - Criar a reunião                  | US03 </br></br> US04 | Eu quero gerar um link para uma reunião </br></br> Eu quero ser redirecionado à videoconferência criada |
+| FT03 - Visualização do histórico de reuniões | US05                 | Eu gostaria de visualizar as reuniões que participei no passado                                         |
+
+_Tabela 3: Descrição do Épico 01 - Tela Inicial_
 
 ### Épico 02 - Vídeochamada
 
-| Feature | ID | História de Usuário|
-|---------|----|--------------------|
-| </br>FT04 - Transmissão de vídeo | US06 </br></br></br> US07 | Eu gostaria de transmitir o meu vídeo para outros participantes </br></br> Eu gostaria de visualizar os vídeo compartilhados |
-| </br>FT05 - Transmissão de áudio | US08 </br></br></br> US09 | Eu gostaria de transmitir o meu áudio para outros participantes </br></br> Eu gostaria de ouvir o áudio de outros participantes |
-| FT06 - Estatísticas da videochamada | US10 | Eu gostaria de visualizar estatísticas referentes aos participantes|
+| Feature                              | ID                        | História de Usuário                                                                                                                               |
+| ------------------------------------ | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| </br>FT04 - Transmissão de vídeo     | US06 </br></br></br> US07 | Eu gostaria de transmitir o meu vídeo para outros participantes </br></br> Eu gostaria de visualizar os vídeo compartilhados                      |
+| </br>FT05 - Transmissão de áudio     | US08 </br></br></br> US09 | Eu gostaria de transmitir o meu áudio para outros participantes </br></br> Eu gostaria de ouvir o áudio de outros participantes                   |
+| FT06 - Estatísticas da videochamada  | US10                      | Eu gostaria de visualizar estatísticas referentes aos participantes                                                                               |
 | </br>FT07 - Compartilhamento de tela | US11 </br></br></br> US12 | Eu gostaria de compartilhar minha tela com outros participantes </br></br> Eu gostaria de visualizar a tela compartilhada por outros participante |
-| FT08 - Criação de breakout rooms | US13  | Eu gostaria de criar salas de chamadas internas à minha reunião |
-| FT09 - Convidar pessoas | US14 | Eu gostaria de enviar o link da chamada para outras pessoas |
+| FT08 - Criação de breakout rooms     | US13                      | Eu gostaria de criar salas de chamadas internas à minha reunião                                                                                   |
+| FT09 - Convidar pessoas              | US14                      | Eu gostaria de enviar o link da chamada para outras pessoas                                                                                       |
+
+_Tabela 4: Descrição do Épico 02 - Vídeochamada_
 
 ### Épico 03 - Chat e Reações
 
-| Feature | ID | História de Usuário|
-|---------|----|--------------------|
+| Feature                                       | ID                        | História de Usuário                                                                                                                   |
+| --------------------------------------------- | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | </br>FT10 - Implementação de um chat de texto | US15 </br></br></br> US16 | Eu gostaria de me comunicar com outros participantes por texto em um chat </br></br> Eu gostaria de mencionar outros usuários no chat |
-| </br>FT11 - Enquetes dentro do chat de texto | US17 </br></br> US18 | Eu gostaria de criar enquetes </br></br> Eu gostaria de responder às enquetes de outros participantes |
-| FT12 - Enviar emotes | US19 | Eu gostaria de enviar reações (emotes) na videochamada |
-| FT13 - Levantar a mão | US20 | Eu gostaria de ‘levantar a mão’ na chamada |
+| </br>FT11 - Enquetes dentro do chat de texto  | US17 </br></br> US18      | Eu gostaria de criar enquetes </br></br> Eu gostaria de responder às enquetes de outros participantes                                 |
+| FT12 - Enviar emotes                          | US19                      | Eu gostaria de enviar reações (emotes) na videochamada                                                                                |
+| FT13 - Levantar a mão                         | US20                      | Eu gostaria de ‘levantar a mão’ na chamada                                                                                            |
+
+_Tabela 5: Descrição do Épico 03 - Chat e Reações_
 
 ### Épico 04 - Configurações
 
-| Feature | ID | História de Usuário|
-|---------|----|--------------------|
-| FT14 - Configurar perfil | US21 </br></br> US22 | Eu gostaria de me identificar com nome </br></br> Eu gostaria de me identificar com foto |
-| FT15 - Configurar idioma | US23 | Eu gostaria de poder selecionar o idioma da plataforma |
-| </br>FT16 - Configuração de vídeo | US24 </br></br></br> US25 | Eu gostaria de poder selecionar a entrada de vídeo que será mostrada </br></br> Eu gostaria de desabilitar ou habilitar o meu vídeo |
-| </br>FT17 - Configuração de áudio | US26 </br></br></br> US27 | Eu gostaria de poder selecionar a entrada de áudio </br></br> Eu gostaria de selecionar entre áudio mutado ou não-mutado |
-| FT18 - Configuração e moderação da videochamada | US28 </br></br> US29 | Eu gostaria de silenciar outros participantes </br></br> Eu gostaria de expulsar outros participantes |
+| Feature                                         | ID                        | História de Usuário                                                                                                                 |
+| ----------------------------------------------- | ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| FT14 - Configurar perfil                        | US21 </br></br> US22      | Eu gostaria de me identificar com nome </br></br> Eu gostaria de me identificar com foto                                            |
+| FT15 - Configurar idioma                        | US23                      | Eu gostaria de poder selecionar o idioma da plataforma                                                                              |
+| </br>FT16 - Configuração de vídeo               | US24 </br></br></br> US25 | Eu gostaria de poder selecionar a entrada de vídeo que será mostrada </br></br> Eu gostaria de desabilitar ou habilitar o meu vídeo |
+| </br>FT17 - Configuração de áudio               | US26 </br></br></br> US27 | Eu gostaria de poder selecionar a entrada de áudio </br></br> Eu gostaria de selecionar entre áudio mutado ou não-mutado            |
+| FT18 - Configuração e moderação da videochamada | US28 </br></br> US29      | Eu gostaria de silenciar outros participantes </br></br> Eu gostaria de expulsar outros participantes                               |
+
+_Tabela 6: Descrição do Épico 04 - Configurações_
 
 ## Referências
 
