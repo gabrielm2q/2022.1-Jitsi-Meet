@@ -38,6 +38,6 @@ Foi analisado o cronograma do semestre letivo, os prazos da disciplina e a dispo
 
 ## Cronograma Detalhado
 
-![Cronograma Detalhado(../assets/cronograma-detalhado.png)
+![Cronograma Detalhado](../assets/cronograma-detalhado.png)
 
 *Tabela 3: Cronograma Detalhado das Sprints*
