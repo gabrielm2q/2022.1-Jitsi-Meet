@@ -13,11 +13,11 @@ _Tabela 1: Versionamento_
 
 ## Introdução
 
-O NFR framework é uma abordagem para análisar e representar os requisitos não funcionais. Dessa forma, ele orienta a engenharia de requisitos em volta aos requisitos não funcionais e inclui características de prioridades e carga de trabalho, tudo isso a partir da utilização do modelo SIG (Softgoal Interdepency Graph). (CHUNG et al., 2000) 
+O NFR framework é uma abordagem para análisar e representar os requisitos não funcionais. Dessa forma, ele orienta a engenharia de requisitos em volta aos requisitos não funcionais e inclui características de prioridades e carga de trabalho, tudo isso a partir da utilização do modelo SIG (Softgoal Interdepency Graph). (SILVA., 2019)
 
 ## Metodologia
 
-Para elaborar os diagramas (cada um gerenciando um requisito não funcional da Especificação Suplementar) abordamos os NFRs a partir de uma decomposição destes requisitos em um nível operacional, facilitando em seu entendimento, em sua priorização e garantindo que as necessidades do cliente sejam atendidas.
+Para elaborar os diagramas (cada um gerenciando um requisito não funcional da Especificação Suplementar) abordamos os NFRs a partir de uma decomposição destes requisitos em um nível operacional, facilitando em seu entendimento, em sua priorização e garantindo que as necessidades do cliente sejam atendidas (PARADKAR, 2017).
 
 Os tipos de contribuição utilizados nos diagramas foram:
 
@@ -70,3 +70,9 @@ _Imagem 7: NFR Suportabilidade_
 ### Suportabilidade Propagação
 ![Suportabilidade NFR](../../assets/modelagem/suportabilidadenfrpropagacao.jpeg)
 _Imagem 8: NFR Suportabilidade Propagação_
+
+## Referencias
+
+  SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Universidade Federal de Pernambuco, Recife, 2019. 2.4 - NFR Framework.
+
+  PARADKAR, Mastering Non-Functional Requirements. Universidade Federal de Pernambuco, Recife, 2017.
