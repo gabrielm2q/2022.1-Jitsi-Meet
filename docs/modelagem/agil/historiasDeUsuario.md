@@ -5,16 +5,17 @@
 | 1.0   | 02/08/2022 | Criação do documento | André Alves e Laís Ramos |
 | 1.1   | 02/08/2022 | Introdução, metodologia e épicos | André Alves e Laís Ramos |
 | 1.2   | 03/08/2022 | Histórias de usuário | André Alves e Laís Ramos |
+| 1.3   | 03/08/2022 | Revisão: Correção de Pequenos Erros | Gabriel Mariano |
 
 _Tabela 1: Versionamento_
 
 ## Introdução
 
-É um detalhamento curto, informal e em linguagem simples do que o usuário deseja fazer dentro de um produto de software
+É um detalhamento curto, informal e em linguagem simples do que o usuário deseja fazer dentro de um produto de software.
 
 ## Metodologia
 
-Para o desenvolvimento das Histórias de Usuários, foi desenvolvido _cards_, seguindo a estrutura abaixo:
+Para o desenvolvimento das Histórias de Usuários, foram desenvolvidos _cards_, seguindo a estrutura abaixo:
 
 | **Id** | **Significado**  |
 |:----------|:-------------:|
@@ -25,13 +26,14 @@ Para o desenvolvimento das Histórias de Usuários, foi desenvolvido _cards_, se
 | **Local** | **Data**  |Hora|
 |:----------|:-------------:|:-------------:|
 | Discord|02/08|21:00|
- <br>
+
+
 
 ## Épicos
 
 **Legenda**:
 
-- E: Épico.
+- EXX: Épico de Numeração _XX_.
 
 | **Épico**            |                               **Descrição**                                | **Features**                                                                                                                                                                               |
 | :------------------- | :------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -153,7 +155,7 @@ Para o desenvolvimento das Histórias de Usuários, foi desenvolvido _cards_, se
 | Critérios de Aceitação | Deve conter as seguintes opções: </br> > Ícone que indica onde iniciar o chat<br> > Aba prórpia para o *chat* de texto</br> > Campo para digitar as mensagens   </br> > Mecanismo que possibilite mencionar outros usuários no *chat*  de texto |**ID** | **Nome** |:-------|:---------|
 | US16 | Implementação de um chat de texto |
 |Descrição | Eu gostaria de  mencionar outros usuários no chat. 
-| Critérios de Aceitação | Deve conter as seguintes opções:  > Mecanismo que possibilite mencionar outros usuários no *chat*  de texto |
+| Critérios de Aceitação | Deve conter as seguintes opções: </br>  > Mecanismo que possibilite mencionar outros usuários no *chat*  de texto |
 
 ### Feature 11 - Enquetes dentro do chat de texto.
 
@@ -161,7 +163,7 @@ Para o desenvolvimento das Histórias de Usuários, foi desenvolvido _cards_, se
 |:-------|:---------|
 | US17 | Enquetes dentro do chat de texto |
 | Descrição |Eu gostaria de criar enquetes 
-|Critérios de Aceitação | Deve conter as seguintes opções: </br> > Aba própria para realizar as enquetes  </br> >  </br> > Mecanismo para a criação de enquete   </br> > Campos que indiquem a pergunta e as opções da votação </br> > Possibilidade de adicionar mais opções de enquete </br> > Botão para o envio ou o descarte da enquete |
+|Critérios de Aceitação | Deve conter as seguintes opções: </br> > Aba própria para realizar as enquetes  </br> > Mecanismo para a criação de enquete   </br> > Campos que indiquem a pergunta e as opções da votação </br> > Possibilidade de adicionar mais opções de enquete </br> > Botão para o envio ou o descarte da enquete |
 | US17 | Enquetes dentro do chat de texto |
 | Descrição |Eu gostaria de  responder às enquetes de outros participantes
 |Critérios de Aceitação | Deve conter as seguintes opções: </br> > Aba própria para realizar as enquetes  </br> >  Botão para a votação de enquetes |
