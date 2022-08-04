@@ -4,6 +4,7 @@
 | ------ | ----- | :-------------: | :----------------------------: |
 | 1.0    | 30/06/2022 | Criação do cronograma |  Gabriel Mariano, Laís Ramos  |
 | 1.1    | 13/07/2022 | Revisäo do cronograma |  Felipe Moura  |
+| 1.2    | 03/08/2022 | Revisäo do cronograma |  Gabriel Mariano |
 
 *Tabela 1: versionamento*
 
@@ -37,6 +38,6 @@ Foi analisado o cronograma do semestre letivo, os prazos da disciplina e a dispo
 
 ## Product Backlog
 
-![Product Backlog](../assets/productBacklog.png)
+![Product Backlog](../assets/cronograma-detalhado.png)
 
-*Tabela 3: Product Backlog*
+*Tabela 3: Cronograma Detalhado das Sprints*
