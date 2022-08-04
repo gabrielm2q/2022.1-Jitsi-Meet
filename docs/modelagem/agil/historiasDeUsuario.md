@@ -1,3 +1,13 @@
+## Versionamento
+
+| Versão | Data  | Descrição            | Autor        |
+| ------ | :---: | -------------------- | ------------ |
+| 1.0   | 02/08/2022 | Criação do documento | André Alves e Laís Ramos |
+| 1.1   | 02/08/2022 | Introdução, metodologia e épicos | André Alves e Laís Ramos |
+| 1.2   | 03/08/2022 | Histórias de usuário | André Alves e Laís Ramos |
+
+_Tabela 1: Versionamento_
+
 ## Introdução
 
 É um detalhamento curto, informal e em linguagem simples do que o usuário deseja fazer dentro de um produto de software
@@ -204,3 +214,14 @@ Para o desenvolvimento das Histórias de Usuários, foi desenvolvido _cards_, se
 |:-------|:---------|
 | **US23** |Configuração e moderação da videochamada|
 | Descrição |Eu gostaria de silenciar outros participantes e de expulsar  participantes indesejados da chamada|Critérios de Aceitação | Deve conter as seguintes opções: </br> > Opção para silenciar todos os participantes  </br> > Opção para parar o vídeo de todos os participantes  </br> > Opção para permitir que os participantes reativem seus sons   </br> > Opção para que os participantes reativem seus vídeos  </br> > Opção para remover participantes indesejados da reunião |
+
+
+## Referências
+
+**SERRANO, Maurício; SERRANO, Milene**. Requisitos - Aula 15. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB - FGA. Acesso em: 02 ago. 2022
+
+**Duolingo**. "Histórias de usuário". Disponível em: <https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/>. Acesso em 02 ago. 2022.
+
+**Tembici**. "Histórias de usuário". Disponível em: <https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/backlog/historias_de_usuario/>. Acesso em 02 ago. 2022.
+
+**SEVOCAB**. "Backlog". Disponível em: <https://pascal.computer.org/sev_display/printSearch.action?term=userstories&source=>. Acesso em 02 ago. 2022.
