@@ -7,6 +7,7 @@
 | 1.0    | 01/08 |               Elaboração do NFR          |   Gabriel Sabanai e Samuel Avila    |
 | 1.1    | 02/08 |               Criação da Documentação                   |  Gabriel Sabanai e Samuel Avila |
 | 1.2    | 03/08 |               Finalização da Documentação                           |  Gabriel Sabanai e Samuel Avila |
+| 1.3    | 03/08 |               Revisão: Correção de Pequenos Erros no Documento                         |  Gabriel Mariano |
 
 _Tabela 1: Versionamento_
 
@@ -16,7 +17,7 @@ O NFR framework é uma abordagem para análisar e representar os requisitos não
 
 ## Metodologia
 
-Para elaborar os diagramas -cada um gerenciando um requisito não funcional da Especificação Suplementar- abordamos os NFRs a partir de uma decomposição destes requisitos em um nível operacional, facilitando em seu entendimento, em sua priorização e garantindo que as necessidades do cliente sejam atendidas.
+Para elaborar os diagramas (cada um gerenciando um requisito não funcional da Especificação Suplementar) abordamos os NFRs a partir de uma decomposição destes requisitos em um nível operacional, facilitando em seu entendimento, em sua priorização e garantindo que as necessidades do cliente sejam atendidas.
 
 Os tipos de contribuição utilizados nos diagramas foram:
 
@@ -30,42 +31,42 @@ Rótulos:
 
 | Rótulo | Descrição |
 | :----: | :-------: |
-| ![Simbolo check](../assets/modelagem/check.png) | Satisfeito |
-| ![Simbolo Wrong](../assets/modelagem/wrong.png) | Negado |
+| ![Simbolo check](../../assets/modelagem/check.png) | Satisfeito |
+| ![Simbolo Wrong](../../assets/modelagem/wrong.png) | Negado |
 
-Os diagramas foram montados pelos membros Gabriel Sabanai e Samuel Avila sendo e em seguida foi válidado e revisado por demais membros do grupo. Além disso, eles foram feitos utilizando a plataforma Draw.io e lucidchart no dia 01 de agosto de 2022.
+Os diagramas foram montados pelos membros Gabriel Sabanai e Samuel Ávila sendo e em seguida foi validado e revisado por demais membros do grupo. Além disso, eles foram feitos utilizando a plataforma Draw.io e Lucidchart no dia 01 de agosto de 2022.
 
 ## Resultados
 
 ## Gráfico de Interdependencia de Softgoal (SIG)
 
 ### Usabilidade 
-![Usabilidade NFR](../assets/modelagem/usabilidadenfr.png)
+![Usabilidade NFR](../../assets/modelagem/usabilidadenfr.png)
 _Imagem 1: NFR Usabilidade_
 
 ### Usabilidade Propagação
-![Usabilidade Propagação NFR](../assets/modelagem/usabilidadenfrpropagacao.png)
+![Usabilidade Propagação NFR](../../assets/modelagem/usabilidadenfrpropagacao.png)
 _Imagem 2: NFR Usabilidade Propragação_
 
 ### Confiabilidade
-![Confiabilidade NFR](../assets/modelagem/confiabilidadenfr.png)
+![Confiabilidade NFR](../../assets/modelagem/confiabilidadenfr.png)
 _Imagem 3: NFR confiabilidade_
 
 ### Confiabilidade Propagacao
-![Confiabilidade NFR](../assets/modelagem/confiabilidadenfrpropagacao.png)
+![Confiabilidade NFR](../../assets/modelagem/confiabilidadenfrpropagacao.png)
 _Imagem 4: NFR confiabilidade propagacao_
 ### Desempenho
-![Desempenho NFR](../assets/modelagem/desempenhonfr.png)
+![Desempenho NFR](../../assets/modelagem/desempenhonfr.png)
 _Imagem 5: NFR Desempenho_
 
 ### Desempenho Propagação
-![Desempenho Propagação NFR](../assets/modelagem/desempenhonfrpropagacao.png)
+![Desempenho Propagação NFR](../../assets/modelagem/desempenhonfrpropagacao.png)
 _Imagem 6: NFR Desempenho Propragação_
 
 ### Suportabilidade
-![Suportabilidade NFR](../assets/modelagem/suportabilidadenfr.png)
+![Suportabilidade NFR](../../assets/modelagem/suportabilidadenfr.png)
 _Imagem 7: NFR Suportabilidade_
 
 ### Suportabilidade Propagação
-![Suportabilidade NFR](../assets/modelagem/suportabilidadenfrpropagacao.png)
+![Suportabilidade NFR](../../assets/modelagem/suportabilidadenfrpropagacao.jpeg)
 _Imagem 8: NFR Suportabilidade Propagação_
