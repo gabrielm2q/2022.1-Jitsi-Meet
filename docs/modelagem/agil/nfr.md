@@ -8,6 +8,7 @@
 | 1.1    | 02/08 |               Criação da Documentação                   |  Gabriel Sabanai e Samuel Avila |
 | 1.2    | 03/08 |               Finalização da Documentação                           |  Gabriel Sabanai e Samuel Avila |
 | 1.3    | 03/08 |               Revisão: Correção de Pequenos Erros no Documento                         |  Gabriel Mariano |
+| 1.4    | 03/08 |               Revisão: Adição das Referências                         |  Gabriel Sabanai |
 
 _Tabela 1: Versionamento_
 
@@ -71,7 +72,7 @@ _Imagem 7: NFR Suportabilidade_
 ![Suportabilidade NFR](../../assets/modelagem/suportabilidadenfrpropagacao.jpeg)
 _Imagem 8: NFR Suportabilidade Propagação_
 
-## Referencias
+## Referências
 
   SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Universidade Federal de Pernambuco, Recife, 2019. 2.4 - NFR Framework.
 
