@@ -32,6 +32,7 @@ nav:
         - Léxico: ./modelagem/lexico.md
         - Use Case: ./modelagem/useCase.md
         - Especificação Suplementar: ./modelagem/especificacaoSuplementar.md
+        - NFR Framework: ./modelagem/nfr.md
 
 markdown_extensions:
    - attr_list
