@@ -33,9 +33,13 @@ nav:
         - Léxico: ./modelagem/lexico.md
         - Use Case: ./modelagem/useCase.md
         - Especificação Suplementar: ./modelagem/especificacaoSuplementar.md
+        - NFR Framework: ./modelagem/agil/nfr.md
         - Ágil:
           - Backlog: ./modelagem/agil/backlog.md
           - Histórias de Usuário: ./modelagem/agil/historiasDeUsuario.md
-          - NFR Framework: ./modelagem/agil/nfr.md
+   - Análise de Requisitos:
+        - Verificação: ./analiseDeRequisitos/verificacao.md
+        - Validação: ./analiseDeRequisitos/validacao.md
+
 markdown_extensions:
   - attr_list
