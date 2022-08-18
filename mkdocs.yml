@@ -47,6 +47,7 @@ nav:
             - Modelagem de Requisitos: ./analiseDeRequisitos/checklists/modelagem_cl.md
             - Modelagem de Requisitos Ágil: ./analiseDeRequisitos/checklists/modelagem_agil_cl.md
         - Validação:
+            - Validação Informal: ./analiseDeRequisitos/validacao/validacao-informal.md
             - Viewpoint: ./analiseDeRequisitos/validacao/viewpoint.md
 
 markdown_extensions:
