@@ -69,8 +69,19 @@ _Tabela 4: Checklist 08 - Léxico_
 
 | ID | Questão | Justificativa | Inspeção |
 |----|---------|---------------|----------|
-| 1 |  |  | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
-| 2 |  |  | ![Simbolo wrong](../../assets/modelagem/wrong.png){width="20"}  |
+| 1 | É apresentado a especificação do diagrama de caso de uso (com Nome, Descrição, Atores, Pré-Condição,Pós-Condição) |Através da especificação do Diagrama de Caso de Uso, o leitor consegue abstrair como é o funcionamento do software | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+| 2 | A descrição da Especificação de casos de Uso é clara? | É necessário clareza e objetividade para que o leitor entenda o objetivo de cada componente do diagrama | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+| 3 | Os verbos do diagrama se encontram no infinitivo, indicando que é uma ação? | Os verbos devem representar a ação a ser realizada pelo ator  | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+| 4 | Há a  presença de fluxos principais? | É importante a representação dos fluxos principais, pois estes tratam da maneira que o ator utilizará primordiamente a funcionalidade. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+| 5 |Há a presença de fluxos alternativos?  | É importante a representação dos fluxos alternativos, pois estes exprimem as escolhas que o usuário poderá fazer na execução da funcionalidade | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+| 6 | Há a  presença de fluxos de exceção | É importante a representação clara dos fluxos de exceções pois estes tratam as possíveis exceções que podem aparecer durante a utilização do sistema | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+| 7 | Os relacionamentos Include e Extend estão bem representados? | É imprescindível a clara representação dos relacionamentos Include e Extend, pois eles trazem as respectivas noções de obrigatoriedade para os relacionamentos | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+| 8 | Há presença de atores principais e atores secundários? | A importância da representação de atores se dá porque estes representam o diversos tipos de usuários que tem contato com o sistema | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+| 9 | O ator principal está do lado esquerdo do sistema? | Caso o ator principal não esteja representado do lado esquerdo,sua denominação como ator principal perde o sentido | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+| 10 | Os atores estão fora da caixa de limite do sistema? | Os atores devem esta fora da caixa pois os mesmos não fazem parte do sistema | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+| 11 | As referências possuem links para os documentos referenciados? | A presença do link nas referências do artefato ajudam na construção da pós-rastreabilidade | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+| 12 | É possível acessar as referências através dos links? |O link deve ser usável para a construção da pós-rastreabilidade | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+
 
 _Tabela 5: Checklist 09 - Use Case_ 
 
