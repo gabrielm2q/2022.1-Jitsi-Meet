@@ -10,6 +10,8 @@
 | 1.3    | 17/08 | Checklist da NFR Framework | Felipe Moura |
 | 1.4    | 17/08 | Elaboração dos Checklists dos Cenários e Léxicos | Laís Ramos |
 | 1.5    | 17/08 | Revisão | Gabriel Sabanai |
+| 1.6   | 18/08 | Adição do checklist do Use Case | Laís Ramos |
+| 1.7   | 18/08 | Revisão e modificação do checklist do Use Case | Laís Ramos |
 
 _Tabela 1: Versionamento_
 
