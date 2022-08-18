@@ -7,14 +7,15 @@
 | 1.0    | 16/08 | Discovery | Gabriel Sabanai |
 | 1.1    | 17/08 | Criação do documento | Gabriel Sabanai |
 | 1.2    | 17/08 | Adição dos esquemas de viewpoints | Gabriel Sabanai |
+| 1.3    | 17/08 | Revisão: Correção de Pequenos Erros de Escrita | Gabriel Mariano |
 
 ## Introdução
 
-A utilização de viewpoints como forma de validação tem por objetivo realizar uma validação prévia dos requisito de um projeto (Leite; Freeman, 1991). Atuando como uma forma de validação informal, utilizando-a conseguimos prever diferentes contextos do sistema a partir de diferentes pontos de vista, e que a diferença entre a avaliação resultante entre os diferentes casos pode ser usado como uma forma de auxiliar na validação inicial dos requisitos (Messaoudi, 2013).
+A utilização de viewpoints como forma de validação tem por objetivo realizar uma validação prévia dos requisitos de um projeto (Leite; Freeman, 1991). Atuando como uma forma de validação informal, utilizando-a conseguimos prever diferentes contextos do sistema a partir de diferentes pontos de vista, e que a diferença entre a avaliação resultante entre os diferentes casos pode ser usado como uma forma de auxiliar na validação inicial dos requisitos (Messaoudi, 2013).
 
 ## Metodologia
 
-Para executar a validação por meio de viewpoints, foi utilizado a metodologia proposta por Julio Cesar Sampaio do Prado Leite e por Peter A. Freeman. Esse modelo consiste, em utilizar 2 viewpoints, tais quais, o de perspectiva de processo e o de perspectiva de usuário, na qual a de processo mostrará o ponto de vista da equipe em relação ao universo do discurso elaborado e o de usuário envolverá a visão do usuário que participou da [Análise de Protocolo](../../elicitacao/analiseProtocolo.md).
+Para executar a validação por meio de *viewpoints*, foi utilizado a metodologia proposta por Julio Cesar Sampaio do Prado Leite e por Peter A. Freeman. Esse modelo consiste, em utilizar 2 *viewpoints*, tais quais, o de perspectiva de processo e o de perspectiva de usuário, na qual a de processo mostrará o ponto de vista da equipe em relação ao universo do discurso elaborado e o de usuário envolverá a visão do usuário que participou da [Análise de Protocolo](../../elicitacao/analiseProtocolo.md).
 
 Vale ressaltar que a validação será feita levando apenas o domínio dos artefatos produzidos pela equipe e seu escopo irá desconsiderar quaisquer documentos proposto pelo app, visto que não foram elaborados pelos membros do projeto de requisitos.
 
@@ -78,7 +79,7 @@ Segue o universo a seguir:
 
 ## Conclusão sobre os resultado
 
-O objetivo dessa seção é fazer a identificação e comparação das duas viewpoints e ver se existe alguma inconsistência, fato errado ou faltante dado os dois pontos de vista.
+O objetivo dessa seção é fazer a identificação e comparação das duas *viewpoints* e ver se existe alguma inconsistência, fato errado ou faltante dados os dois pontos de vista.
 
 ### Inconsistências
 
@@ -102,12 +103,12 @@ O objetivo dessa seção é fazer a identificação e comparação das duas view
 
 ## Avaliação e Integração
 
-Percebe-se que os elementos expostos na perspecitiva de processo estão melhor detalhados, já que nesse caso representam uma visão geral sobre o projeto. Logo é importante ressaltar aque as inconsistencias apontadas pelo usuário não são inconsistencias na perspectiva de processo já que acompanham uma visão mais téncica e não de uso do produto em si.
+Percebe-se que os elementos expostos na perspectiva de processo estão melhor detalhados, já que nesse caso representam uma visão geral sobre o projeto. Logo é importante ressaltar aque as inconsistências apontadas pelo usuário não são inconsistências na perspectiva de processo já que acompanham uma visão mais técnica e não de uso do produto em si.
 
 ## Bibliografia
 
-Messaoudi M. Requirements Engineering Through Viewpoints. Faculty of Sciences, Imam University, Riyadh, Saudi Arabia. 2013.
+**Messaoudi M**. Requirements Engineering Through Viewpoints. Faculty of Sciences, Imam University, Riyadh, Saudi Arabia. 2013.
 
-Leite, J. C. S. P.; Freeman, P. A. Requirements Validation Through Viewpoint Resolution. IEEE TRANSACTIONS ON SOFTWARE ENGINEERING. vol. 17, no. 12, dezembro 1991.
+**Leite, J. C. S. P.; Freeman, P. A**. Requirements Validation Through Viewpoint Resolution. IEEE TRANSACTIONS ON SOFTWARE ENGINEERING. vol. 17, no. 12, dezembro 1991.
 
-INGRESSO.COM. Disponível em: (https://requisitos-de-software.github.io/2021.1-Ingresso.com/validacao/viewpoint/)[https://requisitos-de-software.github.io/2021.1-Ingresso.com/validacao/viewpoint/]. Acessado em: 16 de agosto de 2022.
+**INGRESSO.COM**. Disponível em: <https://requisitos-de-software.github.io/2021.1-Ingresso.com/validacao/viewpoint/>. Acesso em 16 de Agosto de 2022.
