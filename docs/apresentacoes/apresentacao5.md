@@ -6,6 +6,7 @@
 | ------ | ----- | :---------------: | :----------------------------: |
 | 1.0    | 17/08 | Criação da Página | Gabriel Mariano                |
 | 1.1    | 17/08 | Adição da Apresentação 5 | Gabriel Mariano                |
+| 1.2    | 17/08 | Revisão | Felipe Moura                |
 
 _Tabela 1: Versionamento_
 
