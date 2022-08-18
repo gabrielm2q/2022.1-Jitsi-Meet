@@ -7,6 +7,7 @@
 | 1.2   | 03/08/2022 | Histórias de usuário | André Alves e Laís Ramos |
 | 1.3   | 03/08/2022 | Revisão: Correção de Pequenos Erros | Gabriel Mariano |
 | 1.4   | 16/08/2022 | Revisão Informal | André Alves e Laís Ramos |
+| 1.5   | 17/08/2022 | Adição da tabela e vídeo de priorização | André Alves |
 
 _Tabela 1: Versionamento_
 
