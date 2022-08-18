@@ -39,7 +39,8 @@ nav:
           - Histórias de Usuário: ./modelagem/agil/historiasDeUsuario.md
    - Análise de Requisitos:
         - Verificação: ./analiseDeRequisitos/verificacao.md
-        - Validação: ./analiseDeRequisitos/validacao.md
+        - Validação: 
+          - Validação Informal: ./analiseDeRequisitos/validacao/validacao-informal.md
 
 markdown_extensions:
   - attr_list
