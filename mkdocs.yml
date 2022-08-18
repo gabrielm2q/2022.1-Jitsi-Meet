@@ -1,13 +1,13 @@
 site_name: Jitsi Meet
 theme:
-  name: material
-  features:
-    - navigation.tabs
-  palette:
-    primary: indigo
-    accent: indigo
-  favicon: assets/jitsiFavcon.png
-  logo: assets/jitsiLogo.png
+   name: material
+   features:
+      - navigation.tabs
+   palette:
+      primary: indigo
+      accent: indigo
+   favicon: assets/jitsiFavcon.png
+   logo: assets/jitsiLogo.png
 nav:
    - Início: ./index.md
    - Apresentações:
@@ -35,11 +35,12 @@ nav:
         - Especificação Suplementar: ./modelagem/especificacaoSuplementar.md
         - NFR Framework: ./modelagem/nfr.md
         - Ágil:
-          - Backlog: ./modelagem/agil/backlog.md
-          - Histórias de Usuário: ./modelagem/agil/historiasDeUsuario.md
+             - Backlog: ./modelagem/agil/backlog.md
+             - Histórias de Usuário: ./modelagem/agil/historiasDeUsuario.md
    - Análise de Requisitos:
         - Verificação: ./analiseDeRequisitos/verificacao.md
-        - Validação: ./analiseDeRequisitos/validacao.md
+        - Validação:
+             - Protótipo: ./analiseDeRequisitos/validacao/prototipo
 
 markdown_extensions:
-  - attr_list
+   - attr_list
