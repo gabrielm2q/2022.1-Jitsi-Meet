@@ -15,6 +15,7 @@ nav:
         - Segunda Apresentação: ./apresentacoes/apresentacao2.md
         - Terceira Apresentação: ./apresentacoes/apresentacao3.md
         - Quarta Apresentação: ./apresentacoes/apresentacao4.md
+        - Quinta Apresentação: ./apresentacoes/apresentacao5.md
    - Planejamento:
         - Metodologia: ./planejamento/metodologia.md
         - Ferramentas Utilizadas: ./planejamento/ferramentas.md
@@ -39,8 +40,15 @@ nav:
           - Histórias de Usuário: ./modelagem/agil/historiasDeUsuario.md
    - Análise de Requisitos:
         - Verificação: ./analiseDeRequisitos/verificacao.md
-        - Validação: 
-          - Validação Informal: ./analiseDeRequisitos/validacao/validacao-informal.md
+        - Checklists:
+            - Planejamento: ./analiseDeRequisitos/checklists/cronograma_cl.md
+            - Pré-Rastreabilidade: ./analiseDeRequisitos/checklists/pre_rastreabilidade_cl.md
+            - Elicitação: ./analiseDeRequisitos/checklists/elicitacao_cl.md
+            - Modelagem de Requisitos: ./analiseDeRequisitos/checklists/modelagem_cl.md
+            - Modelagem de Requisitos Ágil: ./analiseDeRequisitos/checklists/modelagem_agil_cl.md
+        - Validação:
+            - Validação Informal: ./analiseDeRequisitos/validacao/validacao-informal.md
+            - Viewpoint: ./analiseDeRequisitos/validacao/viewpoint.md
 
 markdown_extensions:
   - attr_list
