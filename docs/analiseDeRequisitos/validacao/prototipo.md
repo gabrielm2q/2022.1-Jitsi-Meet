@@ -7,6 +7,7 @@
 | 1.0    | 15/08/2022 | Iniciando elaboração do protótipo                     | Samuel Avila    |
 | 1.1    | 17/08/2022 | Elaboração da documentação e finalização do protótipo | Samuel Avila    |
 | 1.2    | 17/08/2022 | Revisão do protótipo e documentação                   | Gabriel Sabanai |
+| 1.3    | 17/08/2022 | Revisão: Pequenos Erros de Escrita                    | Gabriel Mariano |
 
 _Tabela 1: Versionamento_
 
@@ -16,7 +17,7 @@ Ao longo do projeto, elicitamos alguns requisitos que ainda não foram implement
 
 ## Metodologia
 
-A origem do protótipo vem dos [Requisitos Funcionais](https://requisitos-de-software.github.io/2022.1-Jitsi-Meet/elicitacao/requisitoselicitados/), especificamente os RF28, RF29, RF30 e RF31.
+A origem do protótipo vem dos [Requisitos Funcionais](https://requisitos-de-software.github.io/2022.1-Jitsi-Meet/elicitacao/requisitoselicitados/), especificamente os **RF28**, **RF29**, **RF30** e **RF31**.
 
 ## Resultado: Protótipo
 
@@ -62,7 +63,7 @@ _Figura 7: Quarta tela do fluxo demonstrativo do RF28_
 
 ### RF29: Compartilhar quadro durante a reunião
 
-Junto às opções adicionais do Jitsi, prototipamos a adição da opção de compartilhar um quadro para que todos na reunião possam visualizar e editar um conteúdo simultâneamente.
+Juntamente às opções adicionais do Jitsi, prototipamos a adição da opção de compartilhar um quadro para que todos na reunião possam visualizar e editar um conteúdo simultaneamente.
 
 ![Tela 01 do Protótipo do RF29](../../assets/prototipo/RF29_01.png)
 
