@@ -7,6 +7,7 @@
 | 1.2   | 03/08/2022 | Histórias de usuário | André Alves e Laís Ramos |
 | 1.3   | 03/08/2022 | Revisão: Correção de Pequenos Erros | Gabriel Mariano |
 | 1.4   | 16/08/2022 | Revisão Informal | André Alves e Laís Ramos |
+| 1.5   | 17/08/2022 | Adição da tabela e vídeo de priorização | André Alves |
 
 _Tabela 1: Versionamento_
 
@@ -236,6 +237,25 @@ Para o desenvolvimento das Histórias de Usuários, foram desenvolvidos _cards_,
 | Descrição |Eu gostaria de  expulsar  participantes indesejados da chamada
 |Critérios de Aceitação | Deve conter as seguintes opções:  </br> > Opção para remover participantes indesejados da reunião |
 
+## Priorização das Histórias de Usuário
+
+### Metodologia
+
+Para a realização da priorização das histórias de usuário foi utilizada a
+metodologia de personas. A persona escolhida foi o Matheus. Foi feita uma
+análse de cada história onde a persona às avaliou em baixa, média ou alta
+prioridade e também checou se os critérios de aceitação estavam de acordo com o
+esperado.
+
+### Gravação
+
+A gravação do processo de priorização pode ser encontrado aqui:
+
+[Link do vídeo](https://youtu.be/8LT94188G4w)
+
+### Resultado da priorização
+
+![Tabela de priorização](../../assets/modelagem/priorizacao.png)
 
 ## Referências
 
