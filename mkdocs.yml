@@ -46,7 +46,8 @@ nav:
             - Elicitação: ./analiseDeRequisitos/checklists/elicitacao_cl.md
             - Modelagem de Requisitos: ./analiseDeRequisitos/checklists/modelagem_cl.md
             - Modelagem de Requisitos Ágil: ./analiseDeRequisitos/checklists/modelagem_agil_cl.md
-        - Validação: ./analiseDeRequisitos/validacao.md
+        - Validação:
+            - Viewpoint: ./analiseDeRequisitos/validacao/viewpoint.md
 
 markdown_extensions:
   - attr_list
