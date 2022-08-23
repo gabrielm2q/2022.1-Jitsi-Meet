@@ -54,6 +54,7 @@ nav:
    - Pós-Rastreabilidade:
         - Backward-From: ./posRastreabilidade/backwardFrom.md
         - Forward-From: ./posRastreabilidade/forwardFrom.md
+        - Telas: ./posRastreabilidade/telas.md
         - Matriz Geral: ./posRastreabilidade/matrizGeral.md
 
 markdown_extensions:
