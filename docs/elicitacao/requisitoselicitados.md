@@ -3,6 +3,8 @@
 | Versão | Data       |        Modificação        | Autor |
 | ------ | ---------- | :-----------------------: | :---: |
 | 1.0    | 13/07/2022 | Elicitação dos requisitos | Grupo |
+| 1.2    |   24/08    |   Revisão do artefato     | Felipe Moura    |
+
 
 _Tabela 01: Versionamento_
 

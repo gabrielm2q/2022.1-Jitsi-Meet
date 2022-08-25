@@ -7,6 +7,7 @@
 | 1.0    | 23/08 |      Criação do Documento      | Gabriel Mariano |
 | 1.1    | 23/08 |    Documentação das tabelas    |  Samuel Ávila   |
 | 1.2    | 24/08 | Complementação da documentação |  Samuel Ávila   |
+| 1.3    | 24/08 |       Revisão do artefato      | Felipe Moura    |
 
 _Tabela 1: Versionamento_
 
