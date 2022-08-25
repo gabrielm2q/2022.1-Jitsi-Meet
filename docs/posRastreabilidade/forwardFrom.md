@@ -11,9 +11,11 @@
 _Tabela 1: Versionamento_
 
 ## Introdução
-
+  O Forward-From é um framework que visa vincular os requisitos elicitados com os artefatos e meios que foram levantados no projeto (SERRANO; SERRANO, 2020). Dessa forma, melhorando sistematicamente sua rastreabilidade.
 ## Metodologia
+  Os requisitos são vinculados a artefatos criados durante o ciclo de vida de desenvolvimento de sistema, no momento da pós-rastreabilidade. A fim de verificar a pós-rastreabilidade entre os requisitos, elementos de impementação, arquitetura e desenho utilizamos o Forward-From. A implementação dessa rastreabilidade ocorre com a utilização de links entre os requisitos e as fontes que implementam estes (TORANZO, 2002). O artefato foi feito pelos integrantes Gabriel Sabanai, Samuel Avilla e Laís Ramos.
 
+  Na tabela 1, abaixo, mostraremos os requisitos e seus relacionamentos com as telas e seus critérios de aceitação.
 ## Legenda
 
 | Id              | Descrição              | Artefatos                                | Categoria                     | Elo                                        | Tela                                     |
@@ -50,19 +52,19 @@ _Tabela 3: Legenda de nomenclatura dos artefatos_
 | RF11  | Eu quero que seja possível "levantar a mão" durante as chamadas                                                                                 | C10, FT13, US20                       |      |
 | RF12  | Eu quero que seja possível aplicar filtros no plano de fundo do vídeo transmitido                                                               | C13, FT14                             |      |
 | RF13  | Eu quero que seja possível escolher a forma de visualização e organização das telas/pessoas                                                     | L18, E04                              |      |
-| RF14  | Eu quero que seja possível se identificar na plataforma com nome                                                                                |                                       |      |
-| RF15  | Eu quero que seja possível se identificar na plataforma com foto                                                                                |                                       |      |
-| RF16  | Eu quero que o usuário possa ativar um filtro de ruídos do áudio                                                                                |                                       |      |
-| RF17  | Eu quero que seja possível ver meu próprio vídeo durante o uso da plataforma                                                                    |                                       |      |
-| RF18  | Eu quero que seja possível alternar o idioma da plataforma                                                                                      |                                       |      |
-| RF19  | O Jitsi permite a visualização do histórico de reuniões                                                                                         |                                       |      |
-| RF20  | O Jitsi permite que o usuário configure o próprio áudio e vídeo                                                                                 |                                       |      |
-| RF21  | O Jitsi permite a interação entre os participantes por voz e vídeo                                                                              |                                       |      |
-| RF22  | O Jitsi permite que enquetes sejam feitas e respondidas em tempo real                                                                           |                                       |      |
-| RF23  | O Jitsi permite reação com emotes pelos usuários                                                                                                |                                       |      |
-| RF24  | O Jitsi permite alterações no perfil durante a reunião                                                                                          |                                       |      |
-| RF25  | O Jitsi permite que o usuário saia a qualquer momento da reunião                                                                                |                                       |      |
-| RF26  | A aplicação deve permitir que o usuário possa parar a transmissão de seu video para que o mesmo não seja visto caso não queira                  |                                       |      |
+| RF14  | Eu quero que seja possível se identificar na plataforma com nome                                                                                | C01, C02, C14, FT14 |      |
+| RF15  | Eu quero que seja possível se identificar na plataforma com foto                                                                                | C01, C02, C14, FT14 |      |
+| RF16  | Eu quero que o usuário possa ativar um filtro de ruídos do áudio                                                                                | C15, FT17, FT05 |      |
+| RF17  | Eu quero que seja possível ver meu próprio vídeo durante o uso da plataforma                                                                    | C01, C02, C13, C15, FT04, FT16 |      |
+| RF18  | Eu quero que seja possível alternar o idioma da plataforma                                                                                      | C14, FT15 |      |
+| RF19  | O Jitsi permite a visualização do histórico de reuniões                                                                                         | C08,FT03 |      |
+| RF20  | O Jitsi permite que o usuário configure o próprio áudio e vídeo                                                                                 | C15, FT16, FT17, FT18 |      |
+| RF21  | O Jitsi permite a interação entre os participantes por voz e vídeo                                                                              | C01, C02, FT04, FT05 |      |
+| RF22  | O Jitsi permite que enquetes sejam feitas e respondidas em tempo real                                                                           | C11, C12, FT11 |      |
+| RF23  | O Jitsi permite reação com emotes pelos usuários                                                                                                | C07, FT12 |      |
+| RF24  | O Jitsi permite alterações no perfil durante a reunião                                                                                          | C14, FT14 |      |
+| RF25  | O Jitsi permite que o usuário saia a qualquer momento da reunião                                                                                | C05 |      |
+| RF26  | A aplicação deve permitir que o usuário possa parar a transmissão de seu video para que o mesmo não seja visto caso não queira                  | C03, FT07 |      |
 | RF27  | A aplicação deve permitir referenciar pessoas no chat da transmissão para que o usuário consiga destacar um usuário em sua mensagem             |                                       |      |
 | RF28  | A aplicação deve permitir a mensagem privada entre usuários para que os mesmos possam conversar em particular durante uma conferência           |                                       |      |
 | RF29  | A aplicação deve permitir que um usuário possa compartilhar um quadro de tarefas para que todos os usuários possam visualizar e mexer com ele   |                                       |      |
@@ -76,3 +78,11 @@ _Tabela 3: Legenda de nomenclatura dos artefatos_
 | RNF06 | Eu quero que as funcionalidades da plataforma possuam indicações visuais intuitivas                                                             |                                       |      |
 | RNF07 | O Jitsi deve permitir que o usuário altere configurações dos dispositivos de áudio e vídeo durante a reunião                                    |                                       |      |
 | RNF08 | A aplicação deve aceitar entrada e saída de som para que o usuário consiga transmitir sua voz                                                   |                                       |
+
+__Tabela 1: Resultados Forward-From__
+
+## Referências
+
+SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 26. Acesso em: 24 de Agosto de 2022.
+
+TORANZO, M.; CASTRO, J.; MELLO, E. Uma proposta para melhorar o rastreamento de requisitos. In: WORKSHOP DE ENGENHARIA DE REQUISITOS, 2002, Valência, Espanha. Anais... [S.l.]: [S.n.], 2002. p. 194–209. ISBN 84–96023–01–X. 19, 29, 44, 45, 47, 51, 55, 61.
