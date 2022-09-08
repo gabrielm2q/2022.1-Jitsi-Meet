@@ -12,6 +12,7 @@
 | 1.5    | 17/08 | Revisão | Gabriel Sabanai |
 | 1.6   | 18/08 | Adição do checklist do Use Case | Laís Ramos |
 | 1.7   | 18/08 | Revisão e modificação do checklist do Use Case | Laís Ramos |
+| 1.8 | 08/09 | Revisão cenários e use cases | Gabriel Sabanai |
 
 _Tabela 1: Versionamento_
 
@@ -38,16 +39,20 @@ _Tabela 2: Legenda dos Checklists_
 |  2 | Os cenários possuem título?                                    | Os cenários precisam de um título para serem identificados e para entender o seu contexto. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}       |
 |  3 | Os cenários possuem objetivo?                                  | Para que se entenda o objetivo de um cenário, esse precisa ser descrito.                   | ![Simbolo check](../../assets/modelagem/check.png){width="20"}       |
 |  4 | Os cenários possuem contexto?                                  | Os cenários precisam de um contexto para que façam sentido.                                | ![Simbolo check](../../assets/modelagem/check.png){width="20"}       |
-|  5 | Os contextos possuem local?                                    | O contexto precisa de um local para que faça sentido.                                      | ![Simbolo check](../../assets/modelagem/wrong.png){width="20"}       |
-|  6 | Os contextos possuem tempo?                                    | O contexto precisa de um tempo para que faça sentido.                                      | ![Simbolo check](../../assets/modelagem/wrong.png){width="20"}       |
-|  7 | Os contextos possuem pré-condição?                             | O contexto precisa de uma pré-condição para que faça sentido.                              | ![Simbolo check](../../assets/modelagem/wrong.png){width="20"}       |
-|  8 | Os cenários possuem atores?                                    | Os atores são importantes para o entendimento do cenário.                                  | ![Simbolo check](../../assets/modelagem/check.png){width="20"}       |
-|  9 | Os cenários possuem episódios?                                 | Os episódios são importantes para o entendimento do cenário.                               | ![Simbolo check](../../assets/modelagem/check.png){width="20"}       |
-| 10 | Os cenários possuem recursos?                                  | Os recurso são importantes para o entendimento do cenário.                                 | ![Simbolo check](../../assets/modelagem/check.png){width="20"}       |
-| 11 | Os cenários possuem restrições?                                | As restrições são importantes para o entendimento do cenário.                              | ![Simbolo check](../../assets/modelagem/check.png){width="20"}       |
-| 12 | Os cenários possuem exceções?                                  | As exceções são importantes para o entendimento do cenário.                                | ![Simbolo check](../../assets/modelagem/check.png){width="20"}       |
-| 13 | As referências possuem links para os documentos referenciados? | As referências são essenciais para evitar casos de plágio.                                 | ![Simbolo check](../../assets/modelagem/check.png){width="20"}       |
-| 14 | É possível acessar as referências através dos links?           | Os links devem estar funcionais no documento final.                                        | ![Simbolo check](../../assets/modelagem/check.png){width="20"}       |
+|  5 | Os contextos possuem local?                                    | O contexto precisa de um local para que faça sentido.                                      | ![Simbolo check](../../assets/modelagem/check.png){width="20"}       |
+|  6 | Os contextos possuem tempo?                                    | O contexto precisa de um tempo para que faça sentido.                                      | ![Simbolo check](../../assets/modelagem/check.png){width="20"}       |
+|  7 | Os contextos possuem pré-condição?                             | O contexto precisa de uma pré-condição para que faça sentido.                              | ![Simbolo check](../../assets/modelagem/check.png){width="20"}       |
+|  8 | Os contextos possuem pós-condição?                             | O contexto precisa de uma pós-condição para que faça sentido com a finalização do cenário.                              | ![Simbolo check](../../assets/modelagem/wrong.png){width="20"}       |
+|  9 | Os cenários possuem atores?                                    | Os atores são importantes para o entendimento do cenário.                                  | ![Simbolo check](../../assets/modelagem/check.png){width="20"}       |
+|  10 | Os cenários possuem episódios?                                 | Os episódios são importantes para o entendimento do cenário.                               | ![Simbolo check](../../assets/modelagem/check.png){width="20"}       |
+| 11 | Os cenários possuem recursos?                                  | Os recurso são importantes para o entendimento do cenário.                                 | ![Simbolo check](../../assets/modelagem/check.png){width="20"}       |
+| 12 | Os cenários possuem restrições?                                | As restrições são importantes para o entendimento do cenário.                              | ![Simbolo check](../../assets/modelagem/check.png){width="20"}       |
+| 13 | Os cenários possuem exceções?                                  | As exceções são importantes para o entendimento do cenário.                                | ![Simbolo check](../../assets/modelagem/check.png){width="20"}       |
+| 14 | Os cenários realmente ajudam a atingir o objetivo descrito?                               | É necessário que o cenário detalhado seja coerente com a utilização da aplicação e que port meio dele seja possível atingir seu objetivo.                                | ![Simbolo check](../../assets/modelagem/check.png){width="20"}       |
+| 15 | As referências possuem links para os documentos referenciados? | As referências são essenciais para evitar casos de plágio.                                 | ![Simbolo check](../../assets/modelagem/check.png){width="20"}       |
+| 16 | É possível acessar as referências através dos links?           | Os links devem estar funcionais no documento final.                                        | ![Simbolo check](../../assets/modelagem/check.png){width="20"}       |
+| 17 | É apresentado uma introdução explicando o contexto do artefato?           | Como padrão de projeto é necessário haver uma introdução descritiva sobre cada artefato elaborado pelo grupo.                                       | ![Simbolo check](../../assets/modelagem/check.png){width="20"}       |
+| 18 | Os cenários possuem uma descrição do que representa? | Um texto introdutorio sobre o cenário e o seu contexto. | ![Simbolo check](../../assets/modelagem/wrong.png){width="20"} |
 
 _Tabela 3: Checklist 07 - Cenários_ 
 
@@ -63,7 +68,7 @@ _Tabela 3: Checklist 07 - Cenários_
 | 6 | Os léxicos possuem noções? | A definição de noções é importante para o entendimento do artefato produzido. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
 | 7 | Nas noções de cada léxico há a presença de hiperlinks que interligam o significado das palavras sublinhadas? | A existência de *hiperlinks* permite uma melhor rastreabilidade dentro do artefato. | ![Simbolo wrong](../../assets/modelagem/wrong.png){width="20"}  |
 | 8 | Os léxicos possuem impacto? | O impacto dos léxicos é importante para o bom entendimento da importância destes. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
-| 9 | ;Todas as referências possuem links para os documentos referenciados? | A existência de *links* nas referências auxilia no processo de identificação da origem das informações contidas no artefato. | ![Simbolo wrong](../../assets/modelagem/check.png){width="20"}  |
+| 9 | Todas as referências possuem links para os documentos referenciados? | A existência de *links* nas referências auxilia no processo de identificação da origem das informações contidas no artefato. | ![Simbolo wrong](../../assets/modelagem/check.png){width="20"}  |
 
 _Tabela 4: Checklist 08 - Léxico_ 
 
@@ -83,6 +88,14 @@ _Tabela 4: Checklist 08 - Léxico_
 | 10 | Os atores estão fora da caixa de limite do sistema? | Os atores devem esta fora da caixa pois os mesmos não fazem parte do sistema | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
 | 11 | As referências possuem links para os documentos referenciados? | A presença do link nas referências do artefato ajudam na construção da pós-rastreabilidade | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
 | 12 | É possível acessar as referências através dos links? |O link deve ser usável para a construção da pós-rastreabilidade | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+| 13 | É apresentado uma introdução explicando o contexto do artefato?           | Como padrão de projeto é necessário haver uma introdução descritiva sobre cada artefato elaborado pelo grupo.                                       | ![Simbolo check](../../assets/modelagem/check.png){width="20"}       |
+| 14 | É apresentado uma legenda explicando cada simbolo e icone do diagrama? | Como padrão de projeto é necessário haver uma legenda explicando cada simbologia presente dentro de um diagrama | ![Simbolo check](../../assets/modelagem/check.png){width="20"} |
+| 15 | Os verbos estão no infinitivo no diagrama? | Como padrão os verbos devem estar no infinitivo. | ![Simbolo check](../../assets/modelagem/check.png){width="20"} |
+| 16 | Possui fluxo de exceção? | Os fluxos de exceção são importantes para o entendimento dos casos de uso. | ![Simbolo check](../../assets/modelagem/wrong.png){width="20"} |
+| 17 | O caso de uso possuí rastreabilidade? | A rastreabilidade é importante para o entendimento dos casos de uso. | ![Simbolo check](../../assets/modelagem/wrong.png){width="20"} |
+| 18 | O caso de uso possuí uma descrição do que representa? | Um texto introdutorio sobre o caso de uso e o seu contexto. | ![Simbolo check](../../assets/modelagem/wrong.png){width="20"} |
+
+
 
 
 _Tabela 5: Checklist 09 - Use Case_ 

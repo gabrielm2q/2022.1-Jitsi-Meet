@@ -8,6 +8,7 @@
 | 1.1    | 16/08 | Introdução e Legenda | Gabriel Mariano |
 | 1.2    | 17/08 | Checklist e Inspeção | Gabriel Mariano |
 | 1.3    | 17/08 | Revisão | Gabriel Sabanai |
+| 1.4 | 08/09 | Revisão 2 | Gabriel Sabanai | 
 
 
 _Tabela 1: Versionamento_
@@ -38,6 +39,7 @@ _Tabela 2: Legenda da Tabela 3_
 | 6  | As atividades definidas no cronograma apresentam as respectivas dificuldades definidas através do método *Planning Poker*? | Conforme definido pela equipe, toda atividade a ser realizada deverá ter seu nível de dificuldade avaliado pelo grupo através da metodologia *Planning Poker*. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  | 
 | 7  | O cronograma apresenta os tópicos de cada atividade a ser realizada? | Conforme definido pelo docente na ementa da disciplina, as entregas serão realizadas de acordo com os 'tópicos' dos artefatos (por exemplo, temos o 'Planejamento' ou a 'Elicitação'). | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  | 
 | 8  | O cronograma é revisado conforme o decorrer do projeto? | O [framework SCRUM](../../planejamento/metodologia.md) prevê que as atividades previstas para serem realizadas em sprints são mutáveis e podem apresentar mudanças conforme o decorrer do projeto e a avalização da equipe de desenvolvimento (ou o *Product Owner*). | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  | 
+| 9 | É apresentado uma introdução explicando o cronograma e todas as metodologias utilizadas na elaboração do artefato? | Como padrão de projeto é necessário haver uma introdução descritiva sobre cada artefato elaborado pelo grupo |! [Simbolo check](../../assets/modelagem/check.png){width="20"} |
 
 _Tabela 3: Checklist e Inspeção_
 
