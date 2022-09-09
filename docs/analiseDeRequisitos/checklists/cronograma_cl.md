@@ -27,7 +27,9 @@ Com enfoque no [planejamento do projeto](../../planejamento/cronograma.md), ser�
 
 _Tabela 2: Legenda da Tabela 3_ 
 
-### C01 - Cronograma **Versão 0.1**
+### C01 - Cronograma 
+
+#### **Versão 0.1**
 
 | ID | Questão | Justificativa | Inspeção |
 |----|---------|---------------|----------|
@@ -42,7 +44,7 @@ _Tabela 2: Legenda da Tabela 3_
 
 _Tabela 3: Checklist e Inspeção_
 
-### C01 - Cronograma **Versão 0.2**
+#### **Versão 0.2**
 
 | ID | Questão | Justificativa | Inspeção |
 |----|---------|---------------|----------|
