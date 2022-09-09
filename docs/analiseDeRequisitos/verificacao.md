@@ -8,6 +8,7 @@
 | 1.1    | 16/08 | Introdução, Metodologia e Planejamento | Gabriel Mariano | 
 | 1.2    | 16/08 | Visão Geral, Preparação, Inspeção, Correção, Acompanhamento e Referências | Gabriel Mariano | 
 | 1.3    | 16/08 | Revisão | Gabriel Sabanai | 
+| 1.4    | 08/09 | Adição dos Revisores | Gabriel Mariano | 
 
 
 _Tabela 1: Versionamento_
@@ -46,19 +47,21 @@ Logo, foram definidos os responsáveis pela inspeção de cada artefato, que ser
 
 |  Checklist  |  Artefato  |  Inspetor  |  Revisor  |
 |-------------|------------|------------|-----------|
-| [C01](./checklists/cronograma_cl.md) | [Cronograma](../planejamento/cronograma.md) | Gabriel Mariano | a definir |
-| [C02](./checklists/pre_rastreabilidade_cl.md) | [Rich Picture](../preRastreabilidade/richPicture.md) | Gabriel Mariano | a definir |
-| [C03](./checklists/elicitacao_cl.md) | [Análise de Protocolo](../elicitacao/analiseProtocolo.md) | Gabriel Mariano | a definir |
-| [C04](./checklists/elicitacao_cl.md) | [Brainstorming](../elicitacao/brainstorming.md) | Gabriel Mariano | a definir |
-| [C05](./checklists/elicitacao_cl.md) | [Personas e Storytelling](../elicitacao/personas.md) | Gabriel Mariano | a definir |
-| [C06](./checklists/elicitacao_cl.md) | [Requisitos Elicitados](../elicitacao/requisitoselicitados.md) | Laís Ramos | a definir |
-| [C07](./checklists/modelagem_cl.md) | [Cenários](../modelagem/cenarios.md) | Laís Ramos | a definir |
-| [C08](./checklists/modelagem_cl.md) | [Léxico](../modelagem/lexico.md) | Laís Ramos | a definir |
-| [C09](./checklists/modelagem_cl.md) | [Use Case](../modelagem/useCase.md) | Laís Ramos | a definir |
-| [C10](./checklists/modelagem_cl.md) | [Especificação Suplementar](../modelagem/especificacaoSuplementar.md) | Felipe Moura | a definir |
-| [C11](./checklists/modelagem_cl.md) | [NFR Framework](../modelagem/nfr.md) | Felipe Moura | a definir |
-| [C12](./checklists/modelagem_agil_cl.md) | [Backlog](../modelagem/agil/backlog.md) | Felipe Moura | a definir |
-| [C13](./checklists/modelagem_agil_cl.md) | [Histórias de Usuário](../modelagem/agil/historiasDeUsuario.md) | Felipe Moura | a definir |
+| [C01](./checklists/cronograma_cl.md) | [Cronograma](../planejamento/cronograma.md) | Gabriel Mariano | Gabriel Sabanai |
+| [C02](./checklists/pre_rastreabilidade_cl.md) | [Rich Picture](../preRastreabilidade/richPicture.md) | Gabriel Mariano | Laís Ramos |
+| [C03](./checklists/elicitacao_cl.md) | [Análise de Protocolo](../elicitacao/analiseProtocolo.md) | Gabriel Mariano | Laís Ramos |
+| [C04](./checklists/elicitacao_cl.md) | [Brainstorming](../elicitacao/brainstorming.md) | Gabriel Mariano | André Alves |
+| [C05](./checklists/elicitacao_cl.md) | [Personas e Storytelling](../elicitacao/personas.md) | Gabriel Mariano | Samuel Ávila |
+| [C06](./checklists/elicitacao_cl.md) | [Requisitos Elicitados](../elicitacao/requisitoselicitados.md) | Laís Ramos | Gabriel Mariano |
+| [C07](./checklists/modelagem_cl.md) | [Cenários](../modelagem/cenarios.md) | Laís Ramos | Gabriel Sabanai |
+| [C08](./checklists/modelagem_cl.md) | [Léxico](../modelagem/lexico.md) | Laís Ramos | Felipe Moura |
+| [C09](./checklists/modelagem_cl.md) | [Use Case](../modelagem/useCase.md) | Laís Ramos | Gabriel Sabanai |
+| [C10](./checklists/modelagem_cl.md) | [Especificação Suplementar](../modelagem/especificacaoSuplementar.md) | Felipe Moura | Gabriel Mariano |
+| [C11](./checklists/modelagem_cl.md) | [NFR Framework](../modelagem/nfr.md) | Felipe Moura | Laís Ramos |
+| [C12](./checklists/modelagem_agil_cl.md) | [Backlog](../modelagem/agil/backlog.md) | Felipe Moura | André Alves |
+| [C13](./checklists/modelagem_agil_cl.md) | [Histórias de Usuário](../modelagem/agil/historiasDeUsuario.md) | Felipe Moura | Samuel Ávila |
+| [C14](./checklists/pos_rastreabilidade_cl.md) | [Backward-From](../posRastreabilidade/backwardFrom.md) | Gabriel Mariano | a definir |
+| [C13](./checklists/pos_rastreabilidade_cl.md) | [Forward-From](../posRastreabilidade/forwardFrom.md) | Felipe Moura | a definir |
 
 _Tabela 3: Checklists com Inspetores_
 
