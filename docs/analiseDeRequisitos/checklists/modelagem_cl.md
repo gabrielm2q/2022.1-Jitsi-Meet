@@ -13,6 +13,8 @@
 | 1.6   | 18/08 | Adição do checklist do Use Case | Laís Ramos |
 | 1.7   | 18/08 | Revisão e modificação do checklist do Use Case | Laís Ramos |
 | 1.8 | 08/09 | Revisão cenários e use cases | Gabriel Sabanai |
+| 1.9   | 08/09 | Revisão do Checklist C10 | Gabriel Mariano |
+
 
 _Tabela 1: Versionamento_
 
@@ -31,7 +33,9 @@ Com base nos artefatos produzidos na Modelagem de Requisitos ([Cenários](../../
 _Tabela 2: Legenda dos Checklists_ 
 
 
-### C07 - Cenários **Versão 0.1**
+### C07 - Cenários 
+
+####**Versão 0.1**
 
 | ID | Questão                                                        | Justificativa                                                                              | Inspeção |
 |----|----------------------------------------------------------------|--------------------------------------------------------------------------------------------|----------|
@@ -52,7 +56,7 @@ _Tabela 2: Legenda dos Checklists_
 
 _Tabela 3: Checklist 07 - Cenários_ 
 
-### C07 - Cenários **Versão 0.2**
+#### **Versão 0.2**
 
 | ID | Questão                                                        | Justificativa                                                                              | Inspeção |
 |----|----------------------------------------------------------------|--------------------------------------------------------------------------------------------|----------|
@@ -77,7 +81,9 @@ _Tabela 3: Checklist 07 - Cenários_
 
 _Tabela 4: Checklist 07 - Cenários 0.2_ 
 
-### C08 - Léxico **Versão 0.1**
+### C08 - Léxico 
+
+####**Versão 0.1**
 
 | ID | Questão | Justificativa | Inspeção |
 |----|---------|---------------|----------|
@@ -92,7 +98,7 @@ _Tabela 4: Checklist 07 - Cenários 0.2_
 
 _Tabela 5: Checklist 08 - Léxico_ 
 
-### C08 - Léxico **Versão 0.2**
+#### **Versão 0.2**
 
 | ID | Questão | Justificativa | Inspeção |
 |----|---------|---------------|----------|
@@ -108,7 +114,9 @@ _Tabela 5: Checklist 08 - Léxico_
 
 _Tabela 6: Checklist 08 - Léxico 0.2_ 
 
-### C09 - Use Case **Versão 0.1**
+### C09 - Use Case 
+
+#### **Versão 0.1**
 
 | ID | Questão | Justificativa | Inspeção |
 |----|---------|---------------|----------|
@@ -127,7 +135,7 @@ _Tabela 6: Checklist 08 - Léxico 0.2_
 
 _Tabela 7: Checklist 09 - Use Case_ 
 
-### C09 - Use Case **Versão 0.2**
+#### **Versão 0.2**
 
 | ID | Questão | Justificativa | Inspeção |
 |----|---------|---------------|----------|
@@ -154,6 +162,8 @@ _Tabela 8: Checklist 09 - Use Case 0.2_
 
 ### C10 - Especificação Suplementar
 
+#### **Versão 0.1**
+
 | ID |                                                                                                     Questão                                                               | Justificativa                                      | Inspeção |
 |----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------|----------|
 |  1 | Foi feito o versionamento do artefato?                                                                                                                                    | Para o mantenimento da rastreabilidade do artefato, o versionamento é essencial. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}|
@@ -168,7 +178,29 @@ _Tabela 8: Checklist 09 - Use Case 0.2_
 | 10 | Os requisitos descritos como Supportability (Suportabilidade) estão de acordo com a categoria definida pelo FURPS+?                                                        | Garantir que os requisitos não funcionais de suportabilidade estão na categoria correta.                  |  ![Simbolo check](../../assets/modelagem/check.png){width="20"}        |
 | 11 | Os requisitos descritos como + (Mais) estão de acordo com a categoria definida pelo FURPS+?                                                                                | Garantir que os requisitos não funcionais que não se encaixam nas outras categorias estão na categoria correta.                 | ![Simbolo check](../../assets/modelagem/check.png){width="20"}         |
 
-_Tabela 9: Checklist 10 - Especificação Suplementar_ 
+_Tabela 9: Checklist 10 - Especificação Suplementar. Produzido por Felipe Moura._ 
+
+#### **Versão 0.2**
+
+| ID |  Questão | Justificativa | Inspeção |
+|----|--|-----|------|
+|  1 | Foi feito o versionamento do artefato?  | Para a manutenção da rastreabilidade do artefato, o versionamento é essencial. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}|
+|  2 | O documento possui referências bibliográficas?  | A citação das referências bibliográficas é necessária para evitar casos de plágio, dando os devidos créditos para o dententor original do conhecimento.   | ![Simbolo check](../../assets/modelagem/check.png){width="20"}          |
+|  3 | Foram citadas as origens dos requisitos não funcionais? | A rastreabilidade dos requisitos não funcionais é necessária para que se saiba de onde surgiram.                  | ![Simbolo check](../../assets/modelagem/check.png){width="20"}          |
+|  4 | Foi utilizado o método FURPS+? | A especificação suplementar, no caso deste projeto, prevê o uso do FURPS+.   | ![Simbolo check](../../assets/modelagem/check.png){width="20"}         |
+|  5 | Os requisitos descritos como Funcionality (Funcionalidade) estão de acordo com a categoria definida pelo FURPS+? | Garantir que os requisitos não funcionais de funcionalidade estão na categoria correta. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}         |
+|  6 | Os requisitos descritos como Usability (Usabilidade) estão de acordo com a categoria definida pelo FURPS+? | Garantir que os requisitos não funcionais de usabilidade estão na categoria correta. | ![Simbolo wrong](../../assets/modelagem/wrong.png){width="20"}         |
+|  7 | Os requisitos descritos como Usability (Usabilidade) são apenas requisitos não funcionais? | A especificação suplementar abrange apenas requisitos não funcionais. | ![Simbolo wrong](../../assets/modelagem/wrong.png){width="20"}         |
+|  8 | Os requisitos descritos como Reliability (Confiabilidade) estão de acordo com a categoria definida pelo FURPS+?  | Garantir que os requisitos não funcionais de confiabilidade estão na categoria correta.                   | ![Simbolo check](../../assets/modelagem/check.png){width="20"}         |
+|  9 | Na Confiabilidade há uma previsão do tempo necessário de atividade da aplicação (e possíveis interrupções)? | Um fator importante da confiabilidade é o tempo de operação do aplicativo ininterruptamente. |  ![Simbolo wrong](../../assets/modelagem/wrong.png){width="20"}  |
+|  10 | Os requisitos descritos como Performance (Performance) estão de acordo com a categoria definida pelo FURPS+? | Garantir que os requisitos não funcionais de performance estão na categoria correta.|  ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+|  11 | Na performance é definido o tamanho da aplicação? | Um fator importante de performance/desempenho é o tamanho físico da aplicação. |  ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+| 12 | Os requisitos descritos como Supportability (Suportabilidade) estão de acordo com a categoria definida pelo FURPS+? | Garantir que os requisitos não funcionais de suportabilidade estão na categoria correta. |  ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+| 13 | Em suportabilidade, são apresentados exemplos de navegadores web onde a aplicação pode ser acessada? | No quesito suportabilidade é importante citar exemplos de softwares que suportem a execução de suas aplicações. |  ![Simbolo wrong](../../assets/modelagem/wrong.png){width="20"}  |
+| 14 | Os requisitos descritos como + (Mais) estão de acordo com a categoria definida pelo FURPS+?  | Garantir que os requisitos não funcionais que não se encaixam nas outras categorias estão na categoria correta.                 | ![Simbolo check](../../assets/modelagem/check.png){width="20"}         |
+|  15 | Todos os rastros existentes estão descritos e referenciados?  | Para a rastreabilidade das informações, é importante citar seus rastros e referenciar suas origens. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}|
+
+_Tabela 10: Checklist 10 - Especificação Suplementar. Revisado por Gabriel Mariano._ 
 
 ### C11 - NFR Framework
 
@@ -185,7 +217,7 @@ _Tabela 9: Checklist 10 - Especificação Suplementar_
 |  9 | O artefato possui legenda correspondente para cada uma das representações usadas?              | Legendas são essenciais para que o leitor entenda o que está sendo representado.| ![Simbolo check](../../assets/modelagem/wrong.png){width="20"} |
 | 10 | Os autores das SIGs são descritos?                                                             | Os autores das SIGs devem ser devidamente creditados, para evitar, principalmentem casos de plágio.|![Simbolo check](../../assets/modelagem/wrong.png){width="20"} |
 
-_Tabela 10: Checklist 11 - NFR Framework_ 
+_Tabela 11: Checklist 11 - NFR Framework_ 
 
 
 ## Melhorias

@@ -10,6 +10,7 @@
 | 1.3    | 17/08 | Checklist do Brainstorming, Personas e Storytelling | Gabriel Mariano |
 | 1.4    | 17/08 | Elaboração do Checklist dos Requisitos Elicitados | Laís Ramos |
 | 1.5    | 17/08 | Revisão | Gabriel Sabanai |
+| 1.7    | 17/08 | Revisão do Checklist 06 | Gabriel Mariano |
 
 _Tabela 1: Versionamento_
 
@@ -81,6 +82,8 @@ _Tabela 5: Checklist 05 - Personas e Storytelling_
 
 ### C06 - Requisitos Elicitados
 
+#### **Versão 0.1**
+
 | ID | Questão | Justificativa | Inspeção |
 |----|---------|---------------|----------|
 | 1 | É possível saber qual a origem dos requisitos elicitados? | A rastreabilidade dos requisitos elicitados é importante para o processo de documentação dos requisitos, de modo a permitir a rastreabilidade destes. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
@@ -93,7 +96,24 @@ _Tabela 5: Checklist 05 - Personas e Storytelling_
 | 8 | As referências possuem links para os documentos referenciados? | Utilizar *links* para referenciar fontes externas é importante para a rastreabilidade e documentação dos artefatos. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
 | 9 | É possível acessar as todas as referências através dos links? | Os *links* devem ser todos funcionais. | ![Simbolo wrong](../../assets/modelagem/wrong.png){width="20"}  |
 
-_Tabela 6: Checklist 06 - Requisitos Elicitados_ 
+_Tabela 6: Checklist 06 - Requisitos Elicitados. Produzido por Laís Ramos._ 
+
+#### **Versão 0.2**
+
+| ID | Questão | Justificativa | Inspeção |
+|----|---------|---------------|----------|
+| 1 | É possível saber qual a origem dos requisitos elicitados? | A rastreabilidade dos requisitos elicitados é importante para o processo de documentação dos requisitos, de modo a permitir a rastreabilidade destes. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+| 2 | É possível acessar a origem dos requisitos elicitados via _links_? | A presença de links é importante para facilitar o acesso às origens dos requisitos.| ![Simbolo wrong](../../assets/modelagem/wrong.png){width="20"}  |
+| 3 | Os requisitos elicitados foram subdivididos entre Requisitos Funcionais e Requisitos Não-funcionais? | A elicitação de requisitos prevê, resumidamente, a existência de requisitos funcionais e/ou não funcionais. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+| 4 | A técnica de priorização utilizada foi diferente das demais utilizadas nas outras metodologias de elicitação? | Para uma boa habilitação dos discentes quanto às técnicas de priorização de requisitos, é importante que várias técnicas de priorização sejam utilizadas. | ![Simbolo wrong](../../assets/modelagem/wrong.png){width="20"}  |
+| 4 | Houve a participação do cliente e/ou persona no processo de priorização? | A priorização deve ser realizada com apoio de pessoa externa à equipe de desenvolvimento. | ![Simbolo wrong](../../assets/modelagem/wrong.png){width="20"}  |
+| 5 | As legendas se encontram depois das respectivas tabelas e estão bem descritas? | A legenda de tabelas e/ou figuras é essencial na documentação dos artefatos produzidos. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+| 6 | Há gravação e registros da atividade de priorização dos requisitos? | A gravação do processo de priorização com o cliente/persona é essencial na documentação dos artefatos. | ![Simbolo wrong](../../assets/modelagem/wrong.png){width="20"}  |
+| 7 | A gravação da priorização dos requisitos está bem documentada, informando os clientes/personas entrevistados, o local e o horário de realização? | A descrição das condições de execução da gravação é essencial na documentação do artefato. | ![Simbolo wrong](../../assets/modelagem/wrong.png){width="20"}  |
+| 8 | As referências possuem links para os documentos referenciados? | Utilizar *links* para referenciar fontes externas é importante para a rastreabilidade e documentação dos artefatos. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+| 9 | A introdução é clara e explicativa quanto ao artefato elaborado? | A introdução de um artefato é essencial em sua descrição, auxiliando na construção do significado da mesma. | ![Simbolo wrong](../../assets/modelagem/wrong.png){width="20"}  |
+
+_Tabela 7: Checklist 06 - Requisitos Elicitados. Revisado por Gabriel Mariano._ 
 
 ## Melhorias
 
