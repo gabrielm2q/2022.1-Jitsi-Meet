@@ -13,7 +13,7 @@
 | 1.6   | 18/08 | Adição do checklist do Use Case | Laís Ramos |
 | 1.7   | 18/08 | Revisão e modificação do checklist do Use Case | Laís Ramos |
 | 1.8   | 08/09 | Revisão do Checklist C10 | Gabriel Mariano |
-| 1.9   | 09/09 | Revisáo do Checklist C08 | Felipe Moura |
+| 1.9   | 09/09 | Revisão do Checklist C08 | Felipe Moura |
 
 _Tabela 1: Versionamento_
 
