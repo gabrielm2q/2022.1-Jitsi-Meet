@@ -11,6 +11,8 @@
 | 1.4    | 17/08 | Elaboração do Checklist dos Requisitos Elicitados | Laís Ramos |
 | 1.5    | 17/08 | Revisão | Gabriel Sabanai |
 
+| 1.7    | 17/08 | Revisão do Checklist 06 | Gabriel Mariano |
+
 _Tabela 1: Versionamento_
 
 ## Introdução

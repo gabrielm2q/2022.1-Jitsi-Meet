@@ -47,6 +47,7 @@ nav:
             - Elicitação: ./analiseDeRequisitos/checklists/elicitacao_cl.md
             - Modelagem de Requisitos: ./analiseDeRequisitos/checklists/modelagem_cl.md
             - Modelagem de Requisitos Ágil: ./analiseDeRequisitos/checklists/modelagem_agil_cl.md
+            - Pós-Rastreabilidade: ./analiseDeRequisitos/checklists/pos_rastreabilidade_cl.md
         - Validação:
             - Validação Informal: ./analiseDeRequisitos/validacao/validacao-informal.md
             - Protótipo: ./analiseDeRequisitos/validacao/prototipo.md
