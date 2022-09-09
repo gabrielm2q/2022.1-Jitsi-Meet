@@ -27,7 +27,7 @@ Com enfoque no [planejamento do projeto](../../planejamento/cronograma.md), ser�
 
 _Tabela 2: Legenda da Tabela 3_ 
 
-### C01 - Cronograma **Versão 1.0**
+### C01 - Cronograma **Versão 0.1**
 
 | ID | Questão | Justificativa | Inspeção |
 |----|---------|---------------|----------|
@@ -42,7 +42,7 @@ _Tabela 2: Legenda da Tabela 3_
 
 _Tabela 3: Checklist e Inspeção_
 
-### C01 - Cronograma **Versão 2.0**
+### C01 - Cronograma **Versão 0.2**
 
 | ID | Questão | Justificativa | Inspeção |
 |----|---------|---------------|----------|
@@ -56,7 +56,7 @@ _Tabela 3: Checklist e Inspeção_
 | 8  | O cronograma é revisado conforme o decorrer do projeto? | O [framework SCRUM](../../planejamento/metodologia.md) prevê que as atividades previstas para serem realizadas em sprints são mutáveis e podem apresentar mudanças conforme o decorrer do projeto e a avalização da equipe de desenvolvimento (ou o *Product Owner*). | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  | 
 | 9 | É apresentado uma introdução explicando o cronograma e todas as metodologias utilizadas na elaboração do artefato? | Como padrão de projeto é necessário haver uma introdução descritiva sobre cada artefato elaborado pelo grupo |! [Simbolo check](../../assets/modelagem/check.png){width="20"} |
 
-_Tabela 4: Checklist e Inspeção 2.0_
+_Tabela 4: Checklist e Inspeção 0.2_
 
 ## Melhorias
 

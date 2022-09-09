@@ -31,7 +31,7 @@ Com base nos artefatos produzidos na Modelagem de Requisitos ([Cenários](../../
 _Tabela 2: Legenda dos Checklists_ 
 
 
-### C07 - Cenários **Versão 1.0**
+### C07 - Cenários **Versão 0.1**
 
 | ID | Questão                                                        | Justificativa                                                                              | Inspeção |
 |----|----------------------------------------------------------------|--------------------------------------------------------------------------------------------|----------|
@@ -52,7 +52,7 @@ _Tabela 2: Legenda dos Checklists_
 
 _Tabela 3: Checklist 07 - Cenários_ 
 
-### C07 - Cenários **Versão 2.0**
+### C07 - Cenários **Versão 0.2**
 
 | ID | Questão                                                        | Justificativa                                                                              | Inspeção |
 |----|----------------------------------------------------------------|--------------------------------------------------------------------------------------------|----------|
@@ -75,9 +75,9 @@ _Tabela 3: Checklist 07 - Cenários_
 | 17 | É apresentado uma introdução explicando o contexto do artefato?           | Como padrão de projeto é necessário haver uma introdução descritiva sobre cada artefato elaborado pelo grupo.                                       | ![Simbolo check](../../assets/modelagem/check.png){width="20"}       |
 | 18 | Os cenários possuem uma descrição do que representa? | Um texto introdutorio sobre o cenário e o seu contexto. | ![Simbolo check](../../assets/modelagem/wrong.png){width="20"} |
 
-_Tabela 4: Checklist 07 - Cenários 2.0_ 
+_Tabela 4: Checklist 07 - Cenários 0.2_ 
 
-### C08 - Léxico **Versão 1.0**
+### C08 - Léxico **Versão 0.1**
 
 | ID | Questão | Justificativa | Inspeção |
 |----|---------|---------------|----------|
@@ -92,7 +92,7 @@ _Tabela 4: Checklist 07 - Cenários 2.0_
 
 _Tabela 5: Checklist 08 - Léxico_ 
 
-### C08 - Léxico **Versão 2.0**
+### C08 - Léxico **Versão 0.2**
 
 | ID | Questão | Justificativa | Inspeção |
 |----|---------|---------------|----------|
@@ -106,9 +106,9 @@ _Tabela 5: Checklist 08 - Léxico_
 | 8 | Os léxicos possuem impacto? | O impacto dos léxicos é importante para o bom entendimento da importância destes. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
 | 9 | Todas as referências possuem links para os documentos referenciados? | A existência de *links* nas referências auxilia no processo de identificação da origem das informações contidas no artefato. | ![Simbolo wrong](../../assets/modelagem/check.png){width="20"}  |
 
-_Tabela 6: Checklist 08 - Léxico 2.0_ 
+_Tabela 6: Checklist 08 - Léxico 0.2_ 
 
-### C09 - Use Case **Versão 1.0**
+### C09 - Use Case **Versão 0.1**
 
 | ID | Questão | Justificativa | Inspeção |
 |----|---------|---------------|----------|
@@ -125,9 +125,9 @@ _Tabela 6: Checklist 08 - Léxico 2.0_
 | 11 | As referências possuem links para os documentos referenciados? | A presença do link nas referências do artefato ajudam na construção da pós-rastreabilidade | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
 | 12 | É possível acessar as referências através dos links? |O link deve ser usável para a construção da pós-rastreabilidade | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
 
-_Tabela 7: Checklist 09 - Use Case 2.0_ 
+_Tabela 7: Checklist 09 - Use Case_ 
 
-### C09 - Use Case **Versão 2.0**
+### C09 - Use Case **Versão 0.2**
 
 | ID | Questão | Justificativa | Inspeção |
 |----|---------|---------------|----------|
@@ -150,7 +150,7 @@ _Tabela 7: Checklist 09 - Use Case 2.0_
 | 17 | O caso de uso possuí rastreabilidade? | A rastreabilidade é importante para o entendimento dos casos de uso. | ![Simbolo check](../../assets/modelagem/wrong.png){width="20"} |
 | 18 | O caso de uso possuí uma descrição do que representa? | Um texto introdutorio sobre o caso de uso e o seu contexto. | ![Simbolo check](../../assets/modelagem/wrong.png){width="20"} |
 
-_Tabela 8: Checklist 09 - Use Case_ 
+_Tabela 8: Checklist 09 - Use Case 0.2_ 
 
 ### C10 - Especificação Suplementar
 
