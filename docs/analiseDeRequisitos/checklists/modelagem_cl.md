@@ -83,7 +83,7 @@ _Tabela 4: Checklist 07 - Cenários 0.2_
 
 ### C08 - Léxico 
 
-####**Versão 0.1**
+#### **Versão 0.1**
 
 | ID | Questão | Justificativa | Inspeção |
 |----|---------|---------------|----------|
