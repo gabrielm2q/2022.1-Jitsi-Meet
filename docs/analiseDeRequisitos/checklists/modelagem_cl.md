@@ -13,6 +13,7 @@
 | 1.6   | 18/08 | Adição do checklist do Use Case | Laís Ramos |
 | 1.7   | 18/08 | Revisão e modificação do checklist do Use Case | Laís Ramos |
 | 1.8   | 08/09 | Revisão do Checklist C10 | Gabriel Mariano |
+| 1.9   | 09/09 | Revisáo do Checklist C08 | Felipe Moura |
 
 _Tabela 1: Versionamento_
 
@@ -54,19 +55,22 @@ _Tabela 3: Checklist 07 - Cenários_
 
 ### C08 - Léxico
 
+#### **Versão 0.1**
+
+
 | ID | Questão | Justificativa | Inspeção |
 |----|---------|---------------|----------|
-| 1 | A definição de Léxico está presente? | É importante que sejam definidos os conceitos utilizados | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
-| 2 | Os léxicos possuem ligações entre si? | Para facilitar a rastreabilidade e propiciar um melhor entendimento do artefato, é necessário ligar os conceitos com suas definições. | ![Simbolo wrong](../../assets/modelagem/wrong.png){width="20"}  |
-| 3 | Os léxicos utilizam a estrutura de dicionário (verbo, objeto, estado)? | Para uma boa estruturação deste artefato, a estrutura de dicionário é importante. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
-| 4 | Os léxicos possuem sinônimos? | Os sinônimos auxiliam na identificação dos conceitos quando descritos de outras formas. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
-| 5 | Os léxicos possuem classificação? | A classificação dos léxicos é importante para uma boa estruturação do artefato. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
-| 6 | Os léxicos possuem noções? | A definição de noções é importante para o entendimento do artefato produzido. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
-| 7 | Nas noções de cada léxico há a presença de hiperlinks que interligam o significado das palavras sublinhadas? | A existência de *hiperlinks* permite uma melhor rastreabilidade dentro do artefato. | ![Simbolo wrong](../../assets/modelagem/wrong.png){width="20"}  |
-| 8 | Os léxicos possuem impacto? | O impacto dos léxicos é importante para o bom entendimento da importância destes. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
-| 9 | ;Todas as referências possuem links para os documentos referenciados? | A existência de *links* nas referências auxilia no processo de identificação da origem das informações contidas no artefato. | ![Simbolo wrong](../../assets/modelagem/check.png){width="20"}  |
+| 1 | A definição de Léxico está presente?                                                                          | É importante que sejam definidos os conceitos utilizados | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+| 2 | Os léxicos possuem ligações entre si?                                                                         | Para facilitar a rastreabilidade e propiciar um melhor entendimento do artefato, é necessário ligar os conceitos com suas definições. | ![Simbolo wrong](../../assets/modelagem/wrong.png){width="20"}  |
+| 3 | Os léxicos utilizam a estrutura de dicionário (verbo, objeto, estado)?                                        | Para uma boa estruturação deste artefato, a estrutura de dicionário é importante. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+| 4 | Os léxicos possuem sinônimos?                                                                                 | Os sinônimos auxiliam na identificação dos conceitos quando descritos de outras formas. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+| 5 | Os léxicos possuem classificação?                                                                             | A classificação dos léxicos é importante para uma boa estruturação do artefato. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+| 6 | Os léxicos possuem noções?                                                                                    | A definição de noções é importante para o entendimento do artefato produzido. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+| 7 | Nas noções de cada léxico há a presença de hiperlinks que interligam o significado das palavras sublinhadas?  | A existência de *hiperlinks* permite uma melhor rastreabilidade dentro do artefato. | ![Simbolo wrong](../../assets/modelagem/wrong.png){width="20"}  |
+| 8 | Os léxicos possuem impacto?                                                                                   | O impacto dos léxicos é importante para o bom entendimento da importância destes. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+| 9 | Todas as referências possuem links para os documentos referenciados?                                         | A existência de *links* nas referências auxilia no processo de identificação da origem das informações contidas no artefato. | ![Simbolo wrong](../../assets/modelagem/check.png){width="20"}  |
 
-_Tabela 4: Checklist 08 - Léxico_ 
+_Tabela 4: Checklist 08 - Léxico. Produzido por Laís Ramos_ 
 
 ### C09 - Use Case
 
