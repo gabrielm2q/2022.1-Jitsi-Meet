@@ -9,6 +9,7 @@
 | 1.2    | 17/08 | Checklist do Backlog | Felipe Moura |
 | 1.3    | 17/08 | Checklist das Histórias de Usuário | Felipe Moura |
 | 1.4    | 17/08 | Revisão | Gabriel Sabanai |
+| 1.5    | 09/09 | Revisão checklist 12 | André Alves |
 
 _Tabela 1: Versionamento_
 
@@ -29,6 +30,8 @@ _Tabela 2: Legenda dos Checklists_
 
 ### C12 - Backlog
 
+#### Versão 0.1
+
 | ID | Questão                                                            |Justificativa | Inspeção |
 |----|--------------------------------------------------------------------|--------------|----------|
 |  1 | Foi feito o versionamento do artefato?                              | Para o mantenimento da rastreabilidade do artefato, o versionamento é essencial. | ![Simbolo check](../../assets/modelagem/check.png){width="20"} |
@@ -45,6 +48,25 @@ _Tabela 2: Legenda dos Checklists_
 
 _Tabela 3: Checklist 12 - Backlog_ 
 
+#### Versão 0.2
+
+| ID | Questão                                                            |Justificativa | Inspeção |
+|----|--------------------------------------------------------------------|--------------|----------|
+|  1 | Foi feito o versionamento do artefato?                              | Para o mantenimento da rastreabilidade do artefato, o versionamento é essencial. | ![Simbolo check](../../assets/modelagem/check.png){width="20"} |
+|  2 | As referências bibliográficas foram feitas corretamente?            | A citação das referências bibliográficas é necessária para evitar casos de plágio, dando os devidos créditos para o dententor original do conhecimento.| ![Simbolo check](../../assets/modelagem/check.png){width="20"} |
+|  3 | Foram definidos um ou mais épicos?                                  | Para que haja um Backlog, deve-se haver pelo menos um épico. | ![Simbolo check](../../assets/modelagem/check.png){width="20"} |
+|  4 | Foram definidos um ou mais features para cada épico?                | Cada épico deve ter pelo menos uma feature para que faça sentido.| ![Simbolo check](../../assets/modelagem/check.png){width="20"} |
+|  5 | Foram definidos uma ou mais histórias de usuário para cada feature? | Cada feature deve ter pelo menos uma história de usuário para que faça sentido.| ![Simbolo check](../../assets/modelagem/check.png){width="20"} |
+|  6 | Os épicos seguem um padrão?                                         | Os épicos devem seguir um mesmo padrão, para que o entendimento do artefato seja facilitado.| ![Simbolo check](../../assets/modelagem/check.png){width="20"} |
+|  7 | As features seguem um padrão?                                       | As features devem seguir um mesmo padrão, para que o entendimento do artefato seja facilitado.| ![Simbolo check](../../assets/modelagem/check.png){width="20"} |
+|  8 | As histórias de usuário seguem um padrão?                           | As Histórias de Usuário devem seguir um mesmo padrão, para que o entendimento do artefato seja facilitado.| ![Simbolo check](../../assets/modelagem/check.png){width="20"} |
+|  9 | O backlog foi feito em conjunto com o PO (Product Owner)?           | Para que o Backlog atenda os desejos do cliente, é importante que esse seja montado junto com o mesmo.| ![Simbolo check](../../assets/modelagem/check.png){width="20"} |
+| 10 | Os temas dos epicos foram bem definidos?                            | É importante que os temas dos épicos estejam bem definidos, para que o entendimento desses e de suas features e histórias relacionadas faça sentido de acordo com a proposta do projeto.| ![Simbolo check](../../assets/modelagem/wrong.png){width="20"} |
+| 11 | Uma legenda foi feita, para um melhor entendimento das tabelas?     | A legenda é essencial para que o leitor tenha entendimento do que está sendo representado no artefato.| ![Simbolo check](../../assets/modelagem/check.png){width="20"} |
+| 12 | Existe uma rastreabilidade para os artefatos originais? | As histórias de usuário devem possuir links para os artefatos originais, visando uma melhor rastreabilidade. | ![Simbolo check](../../assets/modelagem/wrong.png){width="20"} |
+
+_Tabela 4: Checklist 12 - Backlog. Revisado por André Alves_ 
+
 ### C13 - Histórias de Usuário  
 
 | ID | Questão                                                                                     |Justificativa     | Inspeção |
@@ -57,7 +79,7 @@ _Tabela 3: Checklist 12 - Backlog_
 |  6 | As histórias de usuários foram validadas com o PO (Product Owner)?                               | É importante que as histórias estejam de acordo com as demanda do PO, por isso esse precisa validá-las.| ![Simbolo check](../../assets/modelagem/wrong.png){width="20"} |
 |  7 | O artefato possui legendas bem definidas, para o entendimento das tabelas?                       | A legenda é essencial para que o leitor tenha entendimento do que está sendo representado no artefato.| ![Simbolo check](../../assets/modelagem/check.png){width="20"} |
 
-_Tabela 4: Checklist 13 - Histórias de Usuário_ 
+_Tabela 5: Checklist 13 - Histórias de Usuário_ 
 ## Melhorias
 
 Com base nos *Checklists* realizados, verificamos que, por parte do *Backlog*, é preciso uma definição melhor dos temas dos épicos; e por parte das *Histórias de Usuário*, é necessária a validação com o PO (Product Owner) e a definição da rastreabilidade para cada uma das histórias.
