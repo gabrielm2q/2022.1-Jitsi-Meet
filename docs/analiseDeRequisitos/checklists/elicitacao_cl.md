@@ -10,8 +10,10 @@
 | 1.3    | 17/08 | Checklist do Brainstorming, Personas e Storytelling | Gabriel Mariano |
 | 1.4    | 17/08 | Elaboração do Checklist dos Requisitos Elicitados | Laís Ramos |
 | 1.5    | 17/08 | Revisão | Gabriel Sabanai |
+| 1.6    | 08/09 | Revisão do checklist da Análise de Protocolo | Laís Ramos |
 | 1.7    | 08/09 | Revisão do Checklist 06 | Gabriel Mariano |
 | 1.8    | 09/09 | Revisão do Checklist 04 | André Alves |
+
 
 _Tabela 1: Versionamento_
 
