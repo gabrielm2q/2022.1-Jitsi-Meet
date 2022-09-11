@@ -14,6 +14,8 @@
 | 1.7   | 18/08 | Revisão e modificação do checklist do Use Case | Laís Ramos |
 | 1.8 | 08/09 | Revisão cenários e use cases | Gabriel Sabanai |
 | 1.9   | 08/09 | Revisão do Checklist C10 | Gabriel Mariano |
+| 2.0   | 09/09 | Revisão do Checklist C08 | Felipe Moura |
+
 
 
 _Tabela 1: Versionamento_
@@ -100,6 +102,7 @@ _Tabela 5: Checklist 08 - Léxico_
 
 #### **Versão 0.2**
 
+
 | ID | Questão | Justificativa | Inspeção |
 |----|---------|---------------|----------|
 | 1 | A definição de Léxico está presente? | É importante que sejam definidos os conceitos utilizados | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
@@ -113,6 +116,7 @@ _Tabela 5: Checklist 08 - Léxico_
 | 9 | Todas as referências possuem links para os documentos referenciados? | A existência de *links* nas referências auxilia no processo de identificação da origem das informações contidas no artefato. | ![Simbolo wrong](../../assets/modelagem/check.png){width="20"}  |
 
 _Tabela 6: Checklist 08 - Léxico 0.2_ 
+
 
 ### C09 - Use Case 
 

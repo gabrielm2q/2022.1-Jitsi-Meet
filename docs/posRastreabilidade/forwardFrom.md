@@ -83,7 +83,7 @@ _Tabela 3: Legenda de nomenclatura dos artefatos_
 | RNF07 | O Jitsi deve permitir que o usuário altere configurações dos dispositivos de áudio e vídeo durante a reunião                                    |      [C15](../modelagem/cenarios.md),[F16](../modelagem/agil/historiasDeUsuario.md),[US24](../modelagem/agil/historiasDeUsuario.md),[US26](../modelagem/agil/historiasDeUsuario.md),[F17](../modelagem/agil/historiasDeUsuario.md)                             | [RNF07](../assets/posRastreabilidade/configuracoesAudio.jpg)     |
 | RNF08 | A aplicação deve aceitar entrada e saída de som para que o usuário consiga transmitir sua voz                                                   |      [F05](../modelagem/agil/historiasDeUsuario.md),[F17](../modelagem/agil/historiasDeUsuario.md),[US27](../modelagem/agil/historiasDeUsuario.md)                                |[RNF08](../assets/posRastreabilidade/configuracoesCamera.jpg)
 
-__Tabela 1: Resultados Forward-From__
+_Tabela 4: Resultados Forward-From_
 
 
 ## Referências
