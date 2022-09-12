@@ -9,6 +9,7 @@
 | 1.2    | 24/08 | Adicionando Elos dos Requisitos Funcionais | André Alves, Felipe Moura e Gabriel Mariano |
 | 1.3    | 24/08 | Adicionando Elos dos Requisitos Não Funcionais | Gabriel Mariano |
 | 1.3 | 24/08 | Revisão | Gabriel Sabanai |
+| 1.4 | 12/09 | Revisão: Adicionando Introdução aos Elos de Rastreabilidade | Gabriel Mariano |
 
 _Tabela 1: Versionamento_
 
@@ -19,6 +20,17 @@ Segundo Sayão e Leite (2005), "o rastreamento de requisitos é utilizado para p
 ## Metodologia
 
 Inicialmente, será desenvolvida uma _matriz de rastreabilidade_ contendo o ID do requisito, a descrição do mesmo e a origem de cada um. A partir disto, utilizando o **Meta-Modelo proposto por Toranzo** e descrito por Sayão e Leite (2005), serão descritos os elos de cada requisito descrito na matriz de rastreabilidade, especificando suas categorias, elementos rastreáveis e o elo de cada um.
+
+## Introdução aos Elos de Rastreabilidade
+
+De acordo com Sayão e Leite (2005), o **Meta-Modelo proposto por Toranzo** prevê alguns Elos de Rastreabilidade, sendo estes, segundo Sayão e Leite (2005)s:
+
+* **Satisfação:** o requisito de origem pode satisfazer o requisito de destino.
+* **Recurso:** o requisito de destino depende de recurso proveniente do requisito de destino.
+* **Responsabilidade:** um requisito é responsável pelo outro.
+* **Representação:** um requisito pode ser representado por outro.
+* **Alocado:** o requisito original aloca o requisito de destino.
+* **Agregação:** um requisito é composto por outro.
 
 ## Matriz de Rastreabilidade
 
