@@ -7,6 +7,7 @@
 | 1.0    | 20/07/2022 | Criação do documento                 | Samuel Avila e Felipe Moura |
 | 1.1    | 20/07/2022 | Revisão da documentação              | Gabriel Mariano             |
 | 1.2    | 20/07/2022 | Revisão complementar da documentação | Gabriel Sabanai             |
+| 1.3    | 12/09/2022 | Revisão dos cenários                 | Samuel Avila                |
 
 _Tabela 1: Versionamento_
 
@@ -45,6 +46,8 @@ _Tabela 2: Legenda dos Cenários_
 | Restrições | Acesso internet diponível.                                                                                                                |
 | Exceções   | Sem acesso à internet. <br>Sem acesso a um computador ou smartphone.                                                                      |
 
+_Tabela 3: Descrição do Cenário 01_
+
 ### Cenário 02 - Acessar uma sala
 
 | Título     | Cenário 02                                                                                                                                                        |
@@ -56,6 +59,8 @@ _Tabela 2: Legenda dos Cenários_
 | Episódios  | Usuário querendo entrar em uma sala já criada.                                                                                                                    |
 | Restrições | Acesso internet diponível. <br>Sala já criada.                                                                                                                    |
 | Exceções   | Sem acesso à internet. <br>Sem acesso a um computador ou smartphone. <br>Sala não criada.                                                                         |
+
+_Tabela 4: Descrição do Cenário 02_
 
 ### Cenário 03 - Compartilhar a própria tela
 
@@ -69,6 +74,8 @@ _Tabela 2: Legenda dos Cenários_
 | Restrições | Acesso internet diponível. <br>Estar em uma sala criada.                                                                                                                                   |
 | Exceções   | Sem acesso à internet. <br>Sem acesso a um computador ou smartphone. <br>Não estar em uma sala criada.                                                                                     |
 
+_Tabela 5: Descrição do Cenário 03_
+
 ### Cenário 04 - Desligar o som e o microfone
 
 | Título     | Cenário 04                                                                                                                                                                                                                   |
@@ -80,6 +87,8 @@ _Tabela 2: Legenda dos Cenários_
 | Episódios  | Usuário querendo desligar seu som e microfone.                                                                                                                                                                               |
 | Restrições | Acesso internet diponível. <br>Estar em uma sala criada.                                                                                                                                                                     |
 | Exceções   | Sem acesso à internet.<br> Sem acesso a um computador ou smartphone.<br> Não estar em uma sala criada.                                                                                                                       |
+
+_Tabela 6: Descrição do Cenário 04_
 
 ### Cenário 05 - Sair da reunião
 
@@ -93,6 +102,8 @@ _Tabela 2: Legenda dos Cenários_
 | Restrições | Acesso internet diponível. <br>Estar em uma sala criada.                                                                                                                                              |
 | Exceções   | Sem acesso à internet. <br>Sem acesso a um computador ou smartphone.<br> Não estar em uma sala criada.                                                                                                |
 
+_Tabela 7: Descrição do Cenário 05_
+
 ### Cenário 06 - "Quebrar" a reunião em salas menores separadas
 
 | Título     | Cenário 06                                                                                                                                                                                                  |
@@ -104,6 +115,8 @@ _Tabela 2: Legenda dos Cenários_
 | Episódios  | Criador da sala querendo criar breakout rooms da sala já existente.                                                                                                                                         |
 | Restrições | Acesso internet diponível. <br>Estar em uma sala criada.                                                                                                                                                    |
 | Exceções   | Sem acesso à internet. <br>Sem acesso a um computador ou smartphone. <br>Não estar em uma sala criada. <br>Não for o criador da sala.                                                                       |
+
+_Tabela 8: Descrição do Cenário 06_
 
 ### Cenário 07 - Falar por mensagens de texto
 
@@ -117,6 +130,8 @@ _Tabela 2: Legenda dos Cenários_
 | Restrições | Acesso internet diponível. <br>Estar em uma sala criada.                                                                                                                                |
 | Exceções   | Sem acesso à internet. <br>Sem acesso a um computador ou smartphone. <br>Não estar em uma sala criada.                                                                                  |
 
+_Tabela 9: Descrição do Cenário 07_
+
 ### Cenário 08 - Visualizar histórico de reuniões
 
 | Título     | Cenário 08                                                                                                                                             |
@@ -128,6 +143,8 @@ _Tabela 2: Legenda dos Cenários_
 | Episódios  | Usuário querendo vizualizar as reuniões que já participou.                                                                                             |
 | Restrições | Acesso internet diponível.                                                                                                                             |
 | Exceções   | Sem acesso à internet. <br>Sem acesso a um computador ou smartphone.                                                                                   |
+
+_Tabela 10: Descrição do Cenário 08_
 
 ### Cenário 09 - Visualizar calendário
 
@@ -141,6 +158,8 @@ _Tabela 2: Legenda dos Cenários_
 | Restrições | Acesso internet diponível.                                                                                                                    |
 | Exceções   | Sem acesso à internet.<br> Sem acesso a um computador ou smartphone.                                                                          |
 
+_Tabela 11: Descrição do Cenário 09_
+
 ### Cenário 10 - Levantar a mão
 
 | Título     | Cenário 10                                                                                                                                                                                    |
@@ -152,6 +171,8 @@ _Tabela 2: Legenda dos Cenários_
 | Episódios  | Usuário pedindo a permissão para falar em uma reunião.                                                                                                                                        |
 | Restrições | Acesso internet diponível.<br> Estar em uma sala criada.                                                                                                                                      |
 | Exceções   | Sem acesso à internet.<br> Sem acesso a um computador ou smartphone.<br> Não estar em uma sala criada.                                                                                        |
+
+_Tabela 12: Descrição do Cenário 10_
 
 ### Cenário 11 - Criar enquetes
 
@@ -165,6 +186,8 @@ _Tabela 2: Legenda dos Cenários_
 | Restrições | Acesso internet diponível.<br> Estar em uma sala criada.                                                                                                                           |
 | Exceções   | Sem acesso à internet.<br> Sem acesso a um computador ou smartphone.<br> Não estar em uma sala criada.                                                                             |
 
+_Tabela 13: Descrição do Cenário 11_
+
 ### Cenário 12 - Responder enquetes
 
 | Título     | Cenário 12                                                                                                                                                             |
@@ -176,6 +199,8 @@ _Tabela 2: Legenda dos Cenários_
 | Episódios  | Convidado querendo responder uma enquete em andamento.                                                                                                                 |
 | Restrições | Acesso internet diponível.<br> Estar em uma sala criada.                                                                                                               |
 | Exceções   | Sem acesso à internet.<br> Sem acesso a um computador ou smartphone.<br> Não estar em uma sala criada.                                                                 |
+
+_Tabela 14: Descrição do Cenário 12_
 
 ### Cenário 13 - Mudar planos de fundo do vídeo
 
@@ -189,6 +214,8 @@ _Tabela 2: Legenda dos Cenários_
 | Restrições | Acesso internet diponível. <br>Estar em uma sala criada.                                                                                                                              |
 | Exceções   | Sem acesso à internet.<br> Sem acesso a um computador ou smartphone. <br>Não estar em uma sala criada.                                                                                |
 
+_Tabela 15: Descrição do Cenário 13_
+
 ### Cenário 14 - Editar perfil
 
 | Título     | Cenário 14                                                                                                                                                 |
@@ -200,6 +227,8 @@ _Tabela 2: Legenda dos Cenários_
 | Episódios  | Usuário querendo editar o próprio perfil durante uma reunião.                                                                                              |
 | Restrições | Acesso internet diponível.<br> Estar em uma sala criada.                                                                                                   |
 | Exceções   | Sem acesso à internet. <br>Sem acesso a um computador ou smartphone.<br> Não estar em uma sala criada.                                                     |
+
+_Tabela 16: Descrição do Cenário 14_
 
 ### Cenário 15 - Configurar som e vídeo
 
@@ -213,6 +242,8 @@ _Tabela 2: Legenda dos Cenários_
 | Restrições | Acesso internet diponível.<br> Estar em uma sala criada.                                                                                                                             |
 | Exceções   | Sem acesso à internet.<br> Sem acesso a um computador ou smartphone.<br> Não estar em uma sala criada.                                                                               |
 
+_Tabela 17: Descrição do Cenário 15_
+
 ### Cenário 16 - Moderação de outros usuários
 
 | Título     | Cenário 16                                                                                                                                                                                 |
@@ -224,6 +255,8 @@ _Tabela 2: Legenda dos Cenários_
 | Episódios  | Criador da sala querendo moderar os convidados.                                                                                                                                            |
 | Restrições | Acesso internet diponível.<br> Estar em uma sala criada.                                                                                                                                   |
 | Exceções   | Sem acesso à internet.<br> Sem acesso a um computador ou smartphone. <br>Não estar em uma sala criada.                                                                                     |
+
+_Tabela 18: Descrição do Cenário 16_
 
 ## Referências
 
