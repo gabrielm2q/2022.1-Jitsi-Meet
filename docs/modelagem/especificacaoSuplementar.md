@@ -8,7 +8,7 @@
 | 1.1    | 20/07 |            Versão definitiva             |        Laís Ramos        |
 | 1.2    | 20/07 |         Criação da Documentação          |       André Alves        |
 | 1.3    | 20/07 |         Revisão da Documentação          |     Gabriel Mariano      |
-| 1.4    | 12/08 | Correção de pontos listados na checklist |       André Alves        |
+| 1.4    | 12/08 | Correção de pontos listados na checklist |       André Alves e Laís Ramos        |
 
 _Tabela 1: Versionamento_
 
@@ -123,6 +123,10 @@ O Jitsi prioriza a estabilidade da reunião em detrimento à qualidade do vídeo
 
 O Jitsi zela pela privacidade dos usuários, não tornando obrigatório a entrada do participante com a câmera aberta, com o áudio aberto ,ou com alguma foto de perfil. Além disso, permite que esse coloque um filtro de fundo. Também não exige email, ou conta logada para a participação de reuniões.
 
+#### Disponibilidade
+
+Como o  Jitse Meet é basicamente stateless, isso é, não guarda estado (com uma possível exceção para o método de autenticação escolhido), ele possui uma elasticidade muito grande, um ponto que ajuda bastante na parte de custos em especial em ambientes em clound. Logo, o software fica disponível na maioria do tempo. Caso haja indisponibilidade, geralmente o usuário é avisado prevamente.
+
 ### Performance/ Desempenho
 
 #### Comunicação em tempo real
@@ -141,7 +145,26 @@ O servidor do Jitsi Meet deverá ser capaz de suportar milhares de usuários se 
 
 #### Web
 
-O Jitsi pode ser acessado através por meio de navegadores em Desktop, SmartPhone e Microcomputadores portáteis.
+O Jitsi pode ser acessado através de navegadores em Desktop, SmartPhone e Microcomputadores portáteis.
+
+Browsers suportados:
+
+- Desktop browsers
+    - Chrome - Versão >= 72
+    - Firefox -Versão >= 68
+    - Safari -Versão >=14
+    - Edge - Versão >=79
+    - Internet Explorer - Não
+
+- Mobile browsers Android
+    - Chrome
+    - Firefox
+
+- Mobile browsers IOS
+    - Chrome
+    - Firefox
+    - Safari
+    - Edge
 
 #### IOS
 
