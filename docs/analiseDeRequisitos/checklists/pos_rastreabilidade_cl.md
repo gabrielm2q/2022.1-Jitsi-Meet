@@ -7,6 +7,7 @@
 | 1.0    | 08/09 | Criação do Documento | Gabriel Mariano |
 | 1.1    | 09/09 | Elaboração do Checklist C14 | Gabriel Mariano |
 | 1.2    | 09/09 | Elaboração do Checklist C15 | Felipe Moura |
+| 1.3    | 12/09 | Revisão: Incremento da Melhoria e da Conclusão | Gabriel Mariano |
 
 _Tabela 1: Versionamento_
 
@@ -58,16 +59,18 @@ _Tabela 3: Checklist 14 - Backward-From. Produzido por Gabriel Mariano._
 | 5 | É possível verificar todos os artefatos de origem de cada requisito abordado? | Para que a pós-rastreabilidade seja bem feita, deve ser possível verificar a origem dos requisitos elicitados. | ![Simbolo check](../../assets/modelagem/wrong.png){width="20"}   |
 | 6 | Foram desenvolvidos protótipos ou outras evidências para tudo que foi e ainda será produzido, com base nos requisitos elicitados?  | Evidências são necessárias para comprovar o andamento do projeto. | ![Simbolo check](../../assets/modelagem/wrong.png){width="20"}   |
 
-_Tabela 4: Checklist 15 - Backward-From. Produzido por Felipe Moura_
+_Tabela 4: Checklist 15 - Forward-From. Produzido por Felipe Moura_
 ## Melhorias
 
-Com base na checklist C14, verificamos que nenhuma melhoria aparente será necessária.
+Com base na checklist C14, verificamos que nenhuma melhoria aparente será necessária. Todavia, em revisão apontada por orientador, foi constatado que a análise backward-from carecia de explicação dos elos de rastreabilidade, fato que já foi corrigido na documentação.
 
 Já com base na checklist C15, identificamos que falta indicar os artefatos de orgiem de um requisito; e que faltam evidências e protótipos para vários requisitos abordados.
 
 ## Conclusão
 
-Concluímos, com base nas checklists desenvolvidas, que serão necessárias correções no artefato [Forward-From](../../posRastreabilidade/forwardFrom.md).
+Concluímos, com base nas checklists desenvolvidas, que serão necessárias correções no artefato [Forward-From](../../posRastreabilidade/forwardFrom.md). 
+
+Além disso, as mudanças necessárias no artefato [Backward-From](../../posRastreabilidade/backwardFrom.md) já foram realizadas e o artefato condiz com o esperado.
 
 ## Referências
 

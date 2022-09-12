@@ -49,8 +49,6 @@ Todos os integrantes do grupo participaram de forma assíncrona colocando os hor
 
 ![Heatmap](../assets/heatmap.png)
 
-_Imagem 1: Heatmap de horários_
+Figura 1: Heatmap de horários_
 
-_Autor: Samuel Avila, Gabriel Sabanai_
-
-## Referências
+_Autores: Samuel Avila, Gabriel Sabanai_
