@@ -14,6 +14,8 @@ Mendes e Pietrobon (2013, pág.81) versam que  técnica de Storytelling se resum
 ## Introdução a Personas
 Personas são, em resumo, _modelos_ que buscam representar o modo como os usuários do produto em questão se comportam ao entrar em contato com o mesmo (Cooper et al., 2007). Ainda segundo Cooper, Reimann e Cronin (2007, pág. 75), "personas nos provém com um modo preciso de pensar e comunicar como usuários se comportam, como eles pensam, o que eles querem realizar e por que".
 
+## Perfil do usuário
+Por ser uma coleção de projetos de código aberto que fornecem recursos de videoconferência de última geração que são seguros, fáceis de usar e fáceis de auto-hospedar,o Jitsi-Meet possui como principal público alvo  jovens e adultos que possuem por objetivo principal a marcação e realização facilitada de reuniões com caráter mais formal. Vale destacar que o no público-alvo também se equadram pessoas bastante orientada a privacidade, visto que não é necessário que o usuário faça login para participar da reunião. Tal perfil foi baseado tanto no (guia do usuário do Jitse Meet)[https://jitsi.github.io/handbook/docs/intro], quanto nos (fóruns oficiais)[https://community.jitsi.org/] disponíveis.
 ---
 
 ### **Persona 1: Estudante de Graduação**
@@ -204,6 +206,10 @@ Abaixo estão os requisitos elicitados com a técnica do Storytelling e prioriza
 **Técnica MoSCoW**. Disponível em: <https://unbarqdsw.github.io/2020.1_G1_Triagil/modelagem/extra/priorizacao/moscow/>
 
 DISNEY PLUS. Disponível em: (https://requisitos-de-software.github.io/2021.1-DisneyPlus/elicitacao/personas/)[https://requisitos-de-software.github.io/2021.1-DisneyPlus/elicitacao/personas/]. Acessado em: 13 de julho de 2022.
+
+**Comunidade Jitse Meet**. Disponível em: (https://community.jitsi.org/)[https://community.jitsi.org/]. Acessado em 10 de Setembro de 2022
+
+**Guia do usuário Jitsi Meet**. Disponível em: (https://jitsi.github.io/handbook/)[https://jitsi.github.io/handbook/]. Acessado em 10 de Setembro de 2022.
 
 ## Fonte das Imagens
 
