@@ -99,19 +99,19 @@ Tendo sido modelados os requisitos funcionais - por meio das técnicas de Brains
 
 O Jits Meet terá uma interface minimalista e intuitiva a fim de reduzir o tempo requerido para que os usuários se tornem produtivos na plataforma, visando facilitar a interação tanto para aqueles mais experientes quanto para os menos experientes ou recentes na aplicação.
 
-Rastro: [Análise de Protocolo](https://requisitos-de-software.github.io/2022.1-Jitsi-Meet/analiseProtocolo/) e [Personas e Storytelling](https://requisitos-de-software.github.io/2022.1-Jitsi-Meet/personas/)
+Rastro: [Análise de Protocolo](https://requisitos-de-software.github.io/2022.1-Jitsi-Meet/elicitacao/analiseProtocolo/) e [Personas e Storytelling](https://requisitos-de-software.github.io/2022.1-Jitsi-Meet/elicitacao/personas/)
 
 #### Resposta instantânea em vídeo chamadas
 
 Durante as reuniões, a resposta das interações entre os usuários deve ser instantânea, para que haja uma troca de informações flúida e imediata entre os usuários, sem delays e travamentos.
 
-Rastro: [Brainstorming](https://requisitos-de-software.github.io/2022.1-Jitsi-Meet/brainstorming/)
+Rastro: [Brainstorming](https://requisitos-de-software.github.io/2022.1-Jitsi-Meet/elicitacao/brainstorming/)
 
 #### Indicações visuais
 
 A aplicação deverá possuir indicações visuais claras e intuitivas que ilustrem as funcionalidades disponíveis na plataforma.
 
-Rastro: [Personas e Storytelling](https://requisitos-de-software.github.io/2022.1-Jitsi-Meet/personas/)
+Rastro: [Personas e Storytelling](https://requisitos-de-software.github.io/2022.1-Jitsi-Meet/elicitacao/personas/)
 
 ### Confiabilidade
 
