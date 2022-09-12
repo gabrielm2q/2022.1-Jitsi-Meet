@@ -72,6 +72,17 @@ _Vídeo 1: thumbnail do vídeo da análise de protocolo_
 
 Após a análise de protocolo, fizemos algumas perguntas para nosso usuário voluntário, essas perguntas nos ajudaram a chegar a alguns dos requisitos - principalmente os não-funcionais - elicitados
 
+### Perguntas feitas na entrevista
+
+1. Você já utilizou outras plataformas de vídeoconferência?
+2. Foi fácil utilizar todas as funcionalidades do Jitsi?
+    - Você já havia utilizado o Jitsi antes?
+3. O que você mais gostou na plataforma?
+    - Algum outro ponto que você gostaria de destacar?
+4. Alguma sugestão de melhoria?
+    - Teve algo que você não gostou?
+    - Mais algum feedback?
+
 ### Vídeo da entrevista
 
 [![Entrevista](../assets/elicitacao/entrevista-thumb.jpg)
