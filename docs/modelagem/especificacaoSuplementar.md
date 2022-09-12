@@ -9,6 +9,7 @@
 | 1.2    | 20/07 |         Criação da Documentação          |       André Alves        |
 | 1.3    | 20/07 |         Revisão da Documentação          |     Gabriel Mariano      |
 | 1.4    | 12/09 | Correção de pontos listados na checklist |       André Alves e Laís Ramos        |
+| 1.5    | 12/09 | Revisão do Artefato |       Gabriel Mariano        |
 
 _Tabela 1: Versionamento_
 

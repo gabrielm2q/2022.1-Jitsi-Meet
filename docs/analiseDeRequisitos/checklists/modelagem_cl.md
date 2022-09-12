@@ -16,6 +16,7 @@
 | 1.9    | 08/09 |             Revisão do Checklist C10             | Gabriel Mariano |
 | 2.0    | 09/09 |             Revisão do Checklist C08             |  Felipe Moura   |
 | 2.1    | 12/09 |            Atualização checklist C10             |   André Alves   |
+| 2.2    | 12/09 |            Revisão do Artefato             |   Gabriel Mariano   |
 
 _Tabela 1: Versionamento_
 
