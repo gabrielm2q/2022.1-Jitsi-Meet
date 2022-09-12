@@ -17,6 +17,7 @@ nav:
         - Quarta Apresentação: ./apresentacoes/apresentacao4.md
         - Quinta Apresentação: ./apresentacoes/apresentacao5.md
         - Sexta Apresentação: ./apresentacoes/apresentacao6.md
+        - Apresentação Final: ./apresentacoes/apresentacao7.md
    - Planejamento:
         - Metodologia: ./planejamento/metodologia.md
         - Ferramentas Utilizadas: ./planejamento/ferramentas.md
@@ -57,6 +58,7 @@ nav:
         - Forward-From: ./posRastreabilidade/forwardFrom.md
         - Telas: ./posRastreabilidade/telas.md
         - Matriz Geral: ./posRastreabilidade/matrizGeral.md
+   - Post Mortem: ./apresentacoes/postMortem.md
 
 markdown_extensions:
    - attr_list

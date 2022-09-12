@@ -1,10 +1,10 @@
 # Requisitos Elicitados
 
-| Versão | Data       |        Modificação        | Autor |
-| ------ | ---------- | :-----------------------: | :---: |
-| 1.0    | 13/07/2022 | Elicitação dos requisitos | Grupo |
-| 1.1    |   24/08    |   Revisão do artefato     | Felipe Moura    |
-
+| Versão | Data       |        Modificação        |    Autor     |
+| ------ | ---------- | :-----------------------: | :----------: |
+| 1.0    | 13/07/2022 | Elicitação dos requisitos |    Grupo     |
+| 1.1    | 23/08/2022 | Reestruturando as tabelas | Samuel Ávila |
+| 1.2    |   24/08    |   Revisão do artefato     | Felipe Moura    |
 
 _Tabela 01: Versionamento_
 
@@ -14,7 +14,21 @@ Com o objetivo de facilitar futuras consultas, os requisitos elicitados serão c
 
 ## Metodologia
 
-A partir dos metodos utilizados, vários requisitos funcionais e não funcionais foram elicitados. A partir disso, todos foram compilados com sua prioridade e metodo de origem.
+A partir dos métodos utilizados, vários requisitos funcionais e não funcionais foram elicitados. A partir disso, todos foram compilados com sua prioridade e método de origem. Para fazer a priorização dos requisitos nós fizemos uma entrevista com o usuário, fazendo perguntas que seguiam a ideia da Escala de Likert e organizamos a priorização pelo método MoSCoW.
+
+### Entrevista com usuário
+
+Abaixo encontra-se o vídeo usado como referência para a priorização dos requisitos.
+
+| Versão | Data  | Entrevistadores                | Entrevistado(a)   |
+| ------ | ----- | ------------------------------ | ----------------- |
+| 1.0    | 23/08 | Gabriel Sabanai e Samuel Avila | Fernanda Cordeiro |
+| 2.0    | 08/08 | Gabriel Sabanai e Samuel Avila | Fernanda Cordeiro |
+
+[![Entrevista da Priorização](../assets/elicitacao/priorizacao-thumb.jpg)
+](https://youtu.be/LOdaob7c1Bc)
+
+_Imagem 01: Vídeo da entrevista com usuário_
 
 # MoSCoW
 
@@ -39,13 +53,14 @@ Tendo base no repositório da aplicação Triagil,é possível se constatar que 
 |   BS   | Brainstorming             |
 |   AP   | Análise de Protocolo      |
 
-_Tabela 02: Legenda_
+_Tabela 02:Legenda para artefatos_
 
 Os requisitos elicitados da análise de protocolo possuí tabelas separadas de Funcionais e Não funcionais. Para melhor entendimento ao agruparmos, levamos em consideração os seguimentos de cada tabela para enumeração com seus respectivos tipos de requisitos.
 
 ## Requisitos Funcionais
 
-| Id   | Descrição                                                                                                                                       | Origem                       | Priorização |
+
+| ID   | DESCRIÇÃO                                                                                                                                       | ORIGEM                       | PRIORIZAÇÃO |
 | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | ----------- |
 | RF01 | Eu quero me reunir com duas ou mais pessoas                                                                                                     | ST01, BS28, AP01             | MUST        |
 | RF02 | Eu quero me comunicar via chat de texto                                                                                                         | ST03, BS04, AP10             | SHOULD      |
