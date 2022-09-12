@@ -53,10 +53,10 @@ Conforme o andamento do projeto e a verificação de novas necessidades ou de pr
 
 ## REFERÊNCIAS BIBLIOGRÁFICAS
 
-SCHWABER, Ken; SUTHERLAND, Jeff. “Guia do Scrum: Um guia definitivo para o Scrum”, julho de 2013. Disponível em: <https://scrumguides.org/docs/scrumguide/v1/Scrum-Guide-Portuguese-BR.pdf>. Acesso em 28 jun. 2022 às 23:51. 
+**SCHWABER, Ken; SUTHERLAND, Jeff**. “Guia do Scrum: Um guia definitivo para o Scrum”, julho de 2013. Disponível em: <https://scrumguides.org/docs/scrumguide/v1/Scrum-Guide-Portuguese-BR.pdf>. Acesso em 28 jun. 2022 às 23:51. 
 
-WELLS, Don. “Pair Programming”, 1999. Disponível em: <http://www.extremeprogramming.org/rules/pair.html>. Acesso em 29 jun. 2022 às 00:20.
+**WELLS, Don**. “Pair Programming”, 1999. Disponível em: <http://www.extremeprogramming.org/rules/pair.html>. Acesso em 29 jun. 2022 às 00:20.
 
-Equipe TOTVS. “Kanban: conceito, como funciona, vantagens e implementação”, 12 jan. 2021. Disponível em: <https://www.totvs.com/blog/negocios/kanban/>. Acesso em 29 jun. 2022 às 00:41.
+**Equipe TOTVS**. “Kanban: conceito, como funciona, vantagens e implementação”, 12 jan. 2021. Disponível em: <https://www.totvs.com/blog/negocios/kanban/>. Acesso em 29 jun. 2022 às 00:41.
 
 **DevMedia.** "Planning Poker e Ideal Day: Técnicas de Abordagem de Estimativa Ágil" por Roger, 2014. Disponível em: <https://www.devmedia.com.br/planning-poker-e-ideal-day-tecnicas-de-abordagem-de-estimativa-agil/31220>. Acesso em 12 set. 2022.
