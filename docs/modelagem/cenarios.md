@@ -29,6 +29,7 @@ A descrição do cenário se dá pela tabela:
 | Episódios  | _detalhes e variações dos cenários_ |
 | Restrições | _descrição das restrições_          |
 | Exceções   | _descrição da exceção_              |
+| Origem     | _artefato que dá origem ao cenário_ |
 
 _Tabela 2: Legenda dos Cenários_
 
@@ -45,6 +46,7 @@ _Tabela 2: Legenda dos Cenários_
 | Episódios  | Usuário querendo criar uma nova sala.                                                                                                     |
 | Restrições | Acesso internet diponível.                                                                                                                |
 | Exceções   | Sem acesso à internet. <br>Sem acesso a um computador ou smartphone.                                                                      |
+| Origem     | [RF01 RF04 RF10 RF14 RF15 RF17 RF21](https://requisitos-de-software.github.io/2022.1-Jitsi-Meet/elicitacao/requisitoselicitados/)         |
 
 _Tabela 3: Descrição do Cenário 01_
 
@@ -59,6 +61,7 @@ _Tabela 3: Descrição do Cenário 01_
 | Episódios  | Usuário querendo entrar em uma sala já criada.                                                                                                                    |
 | Restrições | Acesso internet diponível. <br>Sala já criada.                                                                                                                    |
 | Exceções   | Sem acesso à internet. <br>Sem acesso a um computador ou smartphone. <br>Sala não criada.                                                                         |
+| Origem     | [RF01 RF04 RF08 RF14 RF15 RF17 RF21 RF30](https://requisitos-de-software.github.io/2022.1-Jitsi-Meet/elicitacao/requisitoselicitados/)                            |
 
 _Tabela 4: Descrição do Cenário 02_
 
@@ -73,6 +76,7 @@ _Tabela 4: Descrição do Cenário 02_
 | Episódios  | Usuário querendo compartilhar sua tela com outros usuários.                                                                                                                                |
 | Restrições | Acesso internet diponível. <br>Estar em uma sala criada.                                                                                                                                   |
 | Exceções   | Sem acesso à internet. <br>Sem acesso a um computador ou smartphone. <br>Não estar em uma sala criada.                                                                                     |
+| Origem     | [RF03 RF05 ](https://requisitos-de-software.github.io/2022.1-Jitsi-Meet/elicitacao/requisitoselicitados/)                                                                                  |
 
 _Tabela 5: Descrição do Cenário 03_
 
@@ -87,6 +91,7 @@ _Tabela 5: Descrição do Cenário 03_
 | Episódios  | Usuário querendo desligar seu som e microfone.                                                                                                                                                                               |
 | Restrições | Acesso internet diponível. <br>Estar em uma sala criada.                                                                                                                                                                     |
 | Exceções   | Sem acesso à internet.<br> Sem acesso a um computador ou smartphone.<br> Não estar em uma sala criada.                                                                                                                       |
+| Origem     | [RF06 ](https://requisitos-de-software.github.io/2022.1-Jitsi-Meet/elicitacao/requisitoselicitados/)                                                                                                                         |
 
 _Tabela 6: Descrição do Cenário 04_
 
@@ -101,6 +106,7 @@ _Tabela 6: Descrição do Cenário 04_
 | Episódios  | Usuário querendo sair da sala a qualquer momento.                                                                                                                                                     |
 | Restrições | Acesso internet diponível. <br>Estar em uma sala criada.                                                                                                                                              |
 | Exceções   | Sem acesso à internet. <br>Sem acesso a um computador ou smartphone.<br> Não estar em uma sala criada.                                                                                                |
+| Origem     | [RF25](https://requisitos-de-software.github.io/2022.1-Jitsi-Meet/elicitacao/requisitoselicitados/)                                                                                                   |
 
 _Tabela 7: Descrição do Cenário 05_
 
@@ -115,6 +121,7 @@ _Tabela 7: Descrição do Cenário 05_
 | Episódios  | Criador da sala querendo criar breakout rooms da sala já existente.                                                                                                                                         |
 | Restrições | Acesso internet diponível. <br>Estar em uma sala criada.                                                                                                                                                    |
 | Exceções   | Sem acesso à internet. <br>Sem acesso a um computador ou smartphone. <br>Não estar em uma sala criada. <br>Não for o criador da sala.                                                                       |
+| Origem     | [RF07](https://requisitos-de-software.github.io/2022.1-Jitsi-Meet/elicitacao/requisitoselicitados/)                                                                                                         |
 
 _Tabela 8: Descrição do Cenário 06_
 
@@ -129,6 +136,7 @@ _Tabela 8: Descrição do Cenário 06_
 | Episódios  | Usuário querendo mandar mensagens de texto em um chat.                                                                                                                                  |
 | Restrições | Acesso internet diponível. <br>Estar em uma sala criada.                                                                                                                                |
 | Exceções   | Sem acesso à internet. <br>Sem acesso a um computador ou smartphone. <br>Não estar em uma sala criada.                                                                                  |
+| Origem     | [RF02 RF23 RF28 ](https://requisitos-de-software.github.io/2022.1-Jitsi-Meet/elicitacao/requisitoselicitados/)                                                                          |
 
 _Tabela 9: Descrição do Cenário 07_
 
@@ -143,6 +151,7 @@ _Tabela 9: Descrição do Cenário 07_
 | Episódios  | Usuário querendo vizualizar as reuniões que já participou.                                                                                             |
 | Restrições | Acesso internet diponível.                                                                                                                             |
 | Exceções   | Sem acesso à internet. <br>Sem acesso a um computador ou smartphone.                                                                                   |
+| Origem     | [RF19](https://requisitos-de-software.github.io/2022.1-Jitsi-Meet/elicitacao/requisitoselicitados/)                                                    |
 
 _Tabela 10: Descrição do Cenário 08_
 
@@ -157,6 +166,7 @@ _Tabela 10: Descrição do Cenário 08_
 | Episódios  | Usuário querendo vizualizar marcadas no Google Agendas da conta sincronizada.                                                                 |
 | Restrições | Acesso internet diponível.                                                                                                                    |
 | Exceções   | Sem acesso à internet.<br> Sem acesso a um computador ou smartphone.                                                                          |
+| Origem     | [RF10](https://requisitos-de-software.github.io/2022.1-Jitsi-Meet/elicitacao/requisitoselicitados/)                                           |
 
 _Tabela 11: Descrição do Cenário 09_
 
@@ -171,6 +181,7 @@ _Tabela 11: Descrição do Cenário 09_
 | Episódios  | Usuário pedindo a permissão para falar em uma reunião.                                                                                                                                        |
 | Restrições | Acesso internet diponível.<br> Estar em uma sala criada.                                                                                                                                      |
 | Exceções   | Sem acesso à internet.<br> Sem acesso a um computador ou smartphone.<br> Não estar em uma sala criada.                                                                                        |
+| Origem     | [RF11](https://requisitos-de-software.github.io/2022.1-Jitsi-Meet/elicitacao/requisitoselicitados/)                                                                                           |
 
 _Tabela 12: Descrição do Cenário 10_
 
@@ -185,6 +196,7 @@ _Tabela 12: Descrição do Cenário 10_
 | Episódios  | Criador da sala querendo abrir uma enquete para a votação de algo.                                                                                                                 |
 | Restrições | Acesso internet diponível.<br> Estar em uma sala criada.                                                                                                                           |
 | Exceções   | Sem acesso à internet.<br> Sem acesso a um computador ou smartphone.<br> Não estar em uma sala criada.                                                                             |
+| Origem     | [RF22 RF29](https://requisitos-de-software.github.io/2022.1-Jitsi-Meet/elicitacao/requisitoselicitados/)                                                                           |
 
 _Tabela 13: Descrição do Cenário 11_
 
@@ -199,6 +211,7 @@ _Tabela 13: Descrição do Cenário 11_
 | Episódios  | Convidado querendo responder uma enquete em andamento.                                                                                                                 |
 | Restrições | Acesso internet diponível.<br> Estar em uma sala criada.                                                                                                               |
 | Exceções   | Sem acesso à internet.<br> Sem acesso a um computador ou smartphone.<br> Não estar em uma sala criada.                                                                 |
+| Origem     | [RF22](https://requisitos-de-software.github.io/2022.1-Jitsi-Meet/elicitacao/requisitoselicitados/)                                                                    |
 
 _Tabela 14: Descrição do Cenário 12_
 
@@ -213,6 +226,7 @@ _Tabela 14: Descrição do Cenário 12_
 | Episódios  | Usuário querendo modificar o fundo de sua câmera.                                                                                                                                     |
 | Restrições | Acesso internet diponível. <br>Estar em uma sala criada.                                                                                                                              |
 | Exceções   | Sem acesso à internet.<br> Sem acesso a um computador ou smartphone. <br>Não estar em uma sala criada.                                                                                |
+| Origem     | [RF12 RF17](https://requisitos-de-software.github.io/2022.1-Jitsi-Meet/elicitacao/requisitoselicitados/)                                                                              |
 
 _Tabela 15: Descrição do Cenário 13_
 
@@ -227,6 +241,7 @@ _Tabela 15: Descrição do Cenário 13_
 | Episódios  | Usuário querendo editar o próprio perfil durante uma reunião.                                                                                              |
 | Restrições | Acesso internet diponível.<br> Estar em uma sala criada.                                                                                                   |
 | Exceções   | Sem acesso à internet. <br>Sem acesso a um computador ou smartphone.<br> Não estar em uma sala criada.                                                     |
+| Origem     | [RF14 RF15 RF18 RF24](https://requisitos-de-software.github.io/2022.1-Jitsi-Meet/elicitacao/requisitoselicitados/)                                         |
 
 _Tabela 16: Descrição do Cenário 14_
 
@@ -241,6 +256,7 @@ _Tabela 16: Descrição do Cenário 14_
 | Episódios  | Usuário querendo configurar tanto entrada quanto saída de som e vídeo durante uma reunião.                                                                                           |
 | Restrições | Acesso internet diponível.<br> Estar em uma sala criada.                                                                                                                             |
 | Exceções   | Sem acesso à internet.<br> Sem acesso a um computador ou smartphone.<br> Não estar em uma sala criada.                                                                               |
+| Origem     | [RF16 RF17 RF20 RNF07](https://requisitos-de-software.github.io/2022.1-Jitsi-Meet/elicitacao/requisitoselicitados/)                                                                  |
 
 _Tabela 17: Descrição do Cenário 15_
 
@@ -255,6 +271,7 @@ _Tabela 17: Descrição do Cenário 15_
 | Episódios  | Criador da sala querendo moderar os convidados.                                                                                                                                            |
 | Restrições | Acesso internet diponível.<br> Estar em uma sala criada.                                                                                                                                   |
 | Exceções   | Sem acesso à internet.<br> Sem acesso a um computador ou smartphone. <br>Não estar em uma sala criada.                                                                                     |
+| Origem     | [RF06 RF09 RNF02](https://requisitos-de-software.github.io/2022.1-Jitsi-Meet/elicitacao/requisitoselicitados/)                                                                             |
 
 _Tabela 18: Descrição do Cenário 16_
 
