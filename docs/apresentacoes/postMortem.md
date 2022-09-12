@@ -149,11 +149,19 @@ Durante a execução do projeto, foram utilizadas diversas ferramentas, estando 
 
 | Ferramenta | Artefatos/Etapas |
 | :---: | --- |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| Discord | Em todas as etapas do projeto. |
+| Teams   | Em todas as etapas do projeto. |
+| Telegram  | Em todas as etapas do projeto. |
+| VsCode | Em todas as etapas do projeto. |
+| Github | Em todas as etapas do projeto. |
+| Google Drive | Em todas as etapas do projeto. |
+| Google Sheets | Nas etapas 1, 2 e 3, nos artefatos: [Planejamento](../planejamento/cronograma.md), [Personas e Storytelling](../elicitacao/personas.md) e [Histórias de Usuário](../modelagem/agil/historiasDeUsuario.md) |
+| Google Documents | Na etapa 2, no artefato: [Planejamento](../planejamento/cronograma.md) |
+| Trello | Em todas as etapas do projeto.|
+| LucidChart | Nas etapas 1 e 3, nos artefatos: [Rich Picture](../preRastreabilidade/richPicture.md) e [Use Case](../modelagem/useCase.md)|
+| Youtube | Em todas as etapas do projeto. |
+| Figma | Na etapa 5, no artefato: [Protótipo](../analiseDeRequisitos/validacao/prototipo.md) |
+| Jitsi Meet | Em todas as etapas do projeto. |
+| Notion | Na etapa Final, para organização da equipe. |
 
 _Tabela 8: Ferramentas Utilizadas_
