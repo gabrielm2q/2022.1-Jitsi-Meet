@@ -10,8 +10,10 @@
 | 1.3    | 17/08 | Checklist do Brainstorming, Personas e Storytelling | Gabriel Mariano |
 | 1.4    | 17/08 |  Elaboração do Checklist dos Requisitos Elicitados  |   Laís Ramos    |
 | 1.5    | 17/08 |                       Revisão                       | Gabriel Sabanai |
-| 1.7    | 17/08 |               Revisão do Checklist 06               | Gabriel Mariano |
-| 1.8    | 07/09 |               Revisão do Checklist 05               |  Samuel Avila   |
+| 1.6    | 07/09 |               Revisão do Checklist 05               |  Samuel Avila   |
+| 1.7    | 08/09 |    Revisão do checklist da Análise de Protocolo     |    Laís Ramos   |
+| 1.8    | 08/09 |               Revisão do Checklist 06               | Gabriel Mariano |
+| 1.9    | 09/09 |               Revisão do Checklist 04               |   André Alves   |
 
 _Tabela 1: Versionamento_
 
@@ -46,18 +48,36 @@ _Tabela 3: Checklist 03 - Análise de Protocolo_
 
 ### C04 - Brainstorming
 
-| ID  | Questão                                                                                                            | Justificativa                                                                                                                                                                                                                    | Inspeção                                                       |
-| --- | ------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| 1   | O artefato apresenta gravação da elicitação de requisitos?                                                         | Para atestar/documentar o modo como foi realizada a elicitação, é importante que esta esteja gravada em vídeo/áudio ou até mesmo registrada em ata.                                                                              | ![Simbolo wrong](../../assets/modelagem/wrong.png){width="20"} |
-| 2   | Foram detalhados os participantes do brainstorming?                                                                | É importante detalhar os participantes da elaboração do artefato.                                                                                                                                                                | ![Simbolo check](../../assets/modelagem/check.png){width="20"} |
-| 3   | Os requisitos elicitados são divididos entre Funcionais e Não Funcionais?                                          | A elicitação de requisitos prevê, resumidamente, a existência de requisitos funcionais e/ou não funcionais.                                                                                                                      | ![Simbolo check](../../assets/modelagem/check.png){width="20"} |
-| 4   | Foi realizada a priorização dos requisitos elicitados?                                                             | Os requisitos elicitados devem ser priorizados.                                                                                                                                                                                  | ![Simbolo check](../../assets/modelagem/check.png){width="20"} |
-| 5   | Foi registrada (gravada em áudio e/ou vídeo) a priorização dos requisitos?                                         | É importante que todas as etapas de elicitação dos requisitos sejam registradas.                                                                                                                                                 | ![Simbolo wrong](../../assets/modelagem/wrong.png){width="20"} |
-| 6   | A técnica de priorização utilizada foi diferente das demais utilizadas nas outras metodologias de desenvolvimento? | Para uma boa habilitação dos discentes quanto às técnicas de priorização de requisitos, é importante que várias técnicas de priorização sejam utilizadas.                                                                        | ![Simbolo wrong](../../assets/modelagem/wrong.png){width="20"} |
-| 7   | O brainstorming conta com um "tópico inicial" que dá base aos pensamentos posteriormente definidos?                | Para a realização do brainstorm é importante que seja definido um tópico inicial que guiará os pensamentos a serem descritos.                                                                                                    | ![Simbolo check](../../assets/modelagem/check.png){width="20"} |
-| 8   | O artefato gerado ao final do brainstorm pelo facilitador está presente na documentação da técnica?                | Para uma boa execução do brainstorm, é importante que o facilitador (isto é, aquele que "organiza" e "conduz" a execução da metodologia) vá anotando todos os pensamentos citados e gere um artefato com todas as notas tomadas. | ![Simbolo check](../../assets/modelagem/check.png){width="20"} |
+#### **Versão 0.1**
+
+| ID | Questão | Justificativa | Inspeção |
+|----|---------|---------------|----------|
+| 1 | O artefato apresenta gravação da elicitação de requisitos? | Para atestar/documentar o modo como foi realizada a elicitação, é importante que esta esteja gravada em vídeo/áudio ou até mesmo registrada em ata. | ![Simbolo wrong](../../assets/modelagem/wrong.png){width="20"}  |
+| 2 | Foram detalhados os participantes do brainstorming? | É importante detalhar os participantes da elaboração do artefato. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+| 3 | Os requisitos elicitados são divididos entre Funcionais e Não Funcionais? | A elicitação de requisitos prevê, resumidamente, a existência de requisitos funcionais e/ou não funcionais. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+| 4 | Foi realizada a priorização dos requisitos elicitados? | Os requisitos elicitados devem ser priorizados. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+| 5 | Foi registrada (gravada em áudio e/ou vídeo) a priorização dos requisitos? | É importante que todas as etapas de elicitação dos requisitos sejam registradas. | ![Simbolo wrong](../../assets/modelagem/wrong.png){width="20"}  |
+| 6 | A técnica de priorização utilizada foi diferente das demais utilizadas nas outras metodologias de desenvolvimento? | Para uma boa habilitação dos discentes quanto às técnicas de priorização de requisitos, é importante que várias técnicas de priorização sejam utilizadas. | ![Simbolo wrong](../../assets/modelagem/wrong.png){width="20"}  |
+| 7 | O brainstorming conta com um "tópico inicial" que dá base aos pensamentos posteriormente definidos? | Para a realização do brainstorm é importante que seja definido um tópico inicial que guiará os pensamentos a serem descritos. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+| 8 | O artefato gerado ao final do brainstorm pelo facilitador está presente na documentação da técnica? | Para uma boa execução do brainstorm, é importante que o facilitador (isto é, aquele que "organiza" e "conduz" a execução da metodologia) vá anotando todos os pensamentos citados e gere um artefato com todas as notas tomadas. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
 
 _Tabela 4: Checklist 04 - Brainstorming_
+
+#### **Versão 0.2**
+
+| ID | Questão | Justificativa | Inspeção |
+|----|---------|---------------|----------|
+| 1 | O artefato apresenta gravação da elicitação de requisitos? | Para atestar/documentar o modo como foi realizada a elicitação, é importante que esta esteja gravada em vídeo/áudio ou até mesmo registrada em ata. | ![Simbolo wrong](../../assets/modelagem/wrong.png){width="20"}  |
+| 2 | Foram detalhados os participantes do brainstorming? | É importante detalhar os participantes da elaboração do artefato. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+| 3 | Os requisitos elicitados são divididos entre Funcionais e Não Funcionais? | A elicitação de requisitos prevê, resumidamente, a existência de requisitos funcionais e/ou não funcionais. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+| 4 | Foi realizada a priorização dos requisitos elicitados? | Os requisitos elicitados devem ser priorizados. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+| 5 | Foi registrada (gravada em áudio e/ou vídeo) a priorização dos requisitos? | É importante que todas as etapas de elicitação dos requisitos sejam registradas. | ![Simbolo wrong](../../assets/modelagem/wrong.png){width="20"}  |
+| 6 | A técnica de priorização utilizada foi diferente das demais utilizadas nas outras metodologias de desenvolvimento? | Para uma boa habilitação dos discentes quanto às técnicas de priorização de requisitos, é importante que várias técnicas de priorização sejam utilizadas. | ![Simbolo wrong](../../assets/modelagem/wrong.png){width="20"}  |
+| 7 | O brainstorming conta com um "tópico inicial" que dá base aos pensamentos posteriormente definidos? | Para a realização do brainstorm é importante que seja definido um tópico inicial que guiará os pensamentos a serem descritos. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+| 8 | O artefato gerado ao final do brainstorm pelo facilitador está presente na documentação da técnica? | Para uma boa execução do brainstorm, é importante que o facilitador (isto é, aquele que "organiza" e "conduz" a execução da metodologia) vá anotando todos os pensamentos citados e gere um artefato com todas as notas tomadas. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+| 9 | Todos os requisitos foram classificados corretamente? | Todos os requisitos devem ser classificados corretamente em Funcionais e Não Funcionais. | ![Simbolo wrong](../../assets/modelagem/wrong.png){width="20"}  |
+
+_Tabela 5: Checklist 04 - Brainstorming. Revisado por André Alves_ 
 
 ### C05 - Personas e Storytelling
 

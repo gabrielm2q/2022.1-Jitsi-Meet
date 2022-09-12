@@ -14,6 +14,8 @@
 | 1.7   | 18/08 | Revisão e modificação do checklist do Use Case | Laís Ramos |
 | 1.8 | 08/09 | Revisão cenários e use cases | Gabriel Sabanai |
 | 1.9   | 08/09 | Revisão do Checklist C10 | Gabriel Mariano |
+| 2.0   | 09/09 | Revisão do Checklist C08 | Felipe Moura |
+
 
 
 _Tabela 1: Versionamento_
@@ -100,6 +102,7 @@ _Tabela 5: Checklist 08 - Léxico_
 
 #### **Versão 0.2**
 
+
 | ID | Questão | Justificativa | Inspeção |
 |----|---------|---------------|----------|
 | 1 | A definição de Léxico está presente? | É importante que sejam definidos os conceitos utilizados | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
@@ -113,6 +116,7 @@ _Tabela 5: Checklist 08 - Léxico_
 | 9 | Todas as referências possuem links para os documentos referenciados? | A existência de *links* nas referências auxilia no processo de identificação da origem das informações contidas no artefato. | ![Simbolo wrong](../../assets/modelagem/check.png){width="20"}  |
 
 _Tabela 6: Checklist 08 - Léxico 0.2_ 
+
 
 ### C09 - Use Case 
 
@@ -203,7 +207,7 @@ _Tabela 9: Checklist 10 - Especificação Suplementar. Produzido por Felipe Mour
 _Tabela 10: Checklist 10 - Especificação Suplementar. Revisado por Gabriel Mariano._ 
 
 ### C11 - NFR Framework
-
+#### **Versão 0.1**
 | ID |                                             Questão                                        |Justificativa    | Inspeção |
 |----|--------------------------------------------------------------------------------------------|----------------|----------|
 |  1 | Foi feito o versionamento do artefato?                                                       | Para o mantenimento da rastreabilidade do artefato, o versionamento é essencial.|  ![Simbolo check](../../assets/modelagem/check.png){width="20"} |
@@ -217,7 +221,28 @@ _Tabela 10: Checklist 10 - Especificação Suplementar. Revisado por Gabriel Mar
 |  9 | O artefato possui legenda correspondente para cada uma das representações usadas?              | Legendas são essenciais para que o leitor entenda o que está sendo representado.| ![Simbolo check](../../assets/modelagem/wrong.png){width="20"} |
 | 10 | Os autores das SIGs são descritos?                                                             | Os autores das SIGs devem ser devidamente creditados, para evitar, principalmentem casos de plágio.|![Simbolo check](../../assets/modelagem/wrong.png){width="20"} |
 
-_Tabela 11: Checklist 11 - NFR Framework_ 
+
+_Tabela 11: Checklist 11 - NFR Framework. Autor: Felipe Moura_
+
+
+#### **Versão 0.2**
+| ID |                                             Questão                                        |Justificativa    | Inspeção |
+|----|--------------------------------------------------------------------------------------------|----------------|----------|
+|  1 | Foi feito o versionamento do artefato?                                                       | Para o mantenimento da rastreabilidade do artefato, o versionamento é essencial.|  ![Simbolo check](../../assets/modelagem/check.png){width="20"} |
+|  2 | As referências bibliográficas foram feitas corretamente?                                     | A citação das referências bibliográficas é necessária para evitar casos de plágio, dando os devidos créditos para o dententor original do conhecimento.  | ![Simbolo check](../../assets/modelagem/check.png){width="20"} |
+|  3 | A representação dos tipos de softgoals está de acordo com o padrão usado na NFR Framework?   | A NFR Framework prevê que os softgoals serão representados por nuvens de borda clara, nuvens de borda escura e nuvens de borda pontilhada. | ![Simbolo check](../../assets/modelagem/check.png){width="20"} |
+|  4 | As contribuições utilizadas entre os softgoals seguem o padrão da NFR Framework?             | A NFR Framework prevê que as contribuições entre os softgoals serão representadas por AND, OR, MAKE, HELP e HURT. | ![Simbolo check](../../assets/modelagem/check.png){width="20"} |
+|  5 | Os rótulos utilizados para avaliação dos softgoals seguem o padrão da NFR Framework?          | A NFR Framework prevê que os softgoals serão avaliados em Satisfeito, Fracamente Satisfeito, Negado, Fracamente Negado, Conflitante e Indeterminado.| ![Simbolo check](../../assets/modelagem/check.png){width="20"} |
+|  6 | Foram feitas SIGs para cada uma das categorias do FURPS+ descritas na especifição suplementar? | Garantir que cada categoria do FURPS+ realizado na especificação suplementar recebeu uma SIG referente.| ![Simbolo check](../../assets/modelagem/check.png){width="20"} |
+|  7 | Os softgoals foram devidamente refinados?                                                      | Para uma melhor visualização e entendimento dos softgoals, estes devem ser devidamente refinados. | ![Simbolo check](../../assets/modelagem/check.png){width="20"} |
+|  8 | As SIGs feitas foram devidamente propagadas?                                                   | Sem uma propagação correta da SIG, o entendimento da NFR Framework fica comprometido.| ![Simbolo check](../../assets/modelagem/wrong.png){width="20"} |
+|  9 | O artefato possui legenda correspondente para cada uma das representações usadas?              | Legendas são essenciais para que o leitor entenda o que está sendo representado.| ![Simbolo check](../../assets/modelagem/wrong.png){width="20"} |
+| 10 | Os autores das SIGs são descritos?                                                             | Os autores das SIGs devem ser devidamente creditados, para evitar, principalmentem casos de plágio.|![Simbolo check](../../assets/modelagem/wrong.png){width="20"} |
+| 11 | É possível identificar as operacionalizaões?                                                           | É de grande relevância identificar as operacionalizações para identificar as possíveis alterções de implementação para o sistema  |![Simbolo check](../../assets/modelagem/check.png){width="20"} |
+| 12 | É possível avaliar o impacto através do artefato?                                                           | O desenvolvedor deve propagar suas decisões identificando o impat destas em toda a estrutura d SIG  |![Simbolo check](../../assets/modelagem/check.png){width="20"} |
+
+_Tabela 12: Checklist 11 - NFR Framework. Autor: Laís Ramos_
+
 
 
 ## Melhorias

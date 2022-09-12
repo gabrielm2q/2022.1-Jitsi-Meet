@@ -61,7 +61,7 @@ Logo, foram definidos os responsáveis pela inspeção de cada artefato, que ser
 | [C12](./checklists/modelagem_agil_cl.md) | [Backlog](../modelagem/agil/backlog.md) | Felipe Moura | André Alves |
 | [C13](./checklists/modelagem_agil_cl.md) | [Histórias de Usuário](../modelagem/agil/historiasDeUsuario.md) | Felipe Moura | Samuel Ávila |
 | [C14](./checklists/pos_rastreabilidade_cl.md) | [Backward-From](../posRastreabilidade/backwardFrom.md) | Gabriel Mariano | a definir |
-| [C13](./checklists/pos_rastreabilidade_cl.md) | [Forward-From](../posRastreabilidade/forwardFrom.md) | Felipe Moura | a definir |
+| [C15](./checklists/pos_rastreabilidade_cl.md) | [Forward-From](../posRastreabilidade/forwardFrom.md) | Felipe Moura | a definir |
 
 _Tabela 3: Checklists com Inspetores_
 

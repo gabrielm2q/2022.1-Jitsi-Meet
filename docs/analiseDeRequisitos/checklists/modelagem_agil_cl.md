@@ -10,6 +10,8 @@
 | 1.3    | 17/08 | Checklist das Histórias de Usuário |  Felipe Moura   |
 | 1.4    | 17/08 |              Revisão               | Gabriel Sabanai |
 | 1.5    | 07/09 |       Revisão das Checklists       |  Samuel Avila   |
+| 1.6    | 09/09 | Revisão checklist 12               |   André Alves   |
+
 
 _Tabela 1: Versionamento_
 
