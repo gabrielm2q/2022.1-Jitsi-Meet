@@ -5,7 +5,7 @@
 | Versão | Data  |    Modificação    |             Autor              |
 | ------ | ----- | :---------------: | :----------------------------: |
 | 1.0    | 12/09 | Criação da Página | Gabriel Mariano                |
-| 1.1   | 12/09 | Adição dos Tópicos do Post Mortem | Gabriel Mariano |
+| 1.1   | 12/09 | Adição dos Tópicos do Post Mortem | Gabriel Mariano e Felipe Moura |
 
 _Tabela 1: Versionamento_
 
