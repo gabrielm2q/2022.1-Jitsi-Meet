@@ -81,6 +81,8 @@ _Tabela 5: Checklist 04 - Brainstorming. Revisado por André Alves_
 
 ### C05 - Personas e Storytelling
 
+#### **Versão 0.1**
+
 | ID | Questão | Justificativa | Inspeção |
 |----|---------|---------------|----------|
 | 1 | O artefato apresenta gravação da elicitação de requisitos? | Para atestar/documentar o modo como foi realizada a elicitação, é importante que esta esteja gravada em vídeo/áudio ou até mesmo registrada em ata. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
@@ -99,7 +101,32 @@ _Tabela 5: Checklist 04 - Brainstorming. Revisado por André Alves_
 | 14 | Todas as personas e anti-persona criadas foram utilizadas na elicitação de requisitos? | É importante que a elicitação de requisitos seja realizada por todos os perfis de usuários possíveis. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
 | 15 | Todas as personas utilizadas possuem um *storytelling*? | O *storytelling* de cada persona ajuda a compreender o cenário ao qual esta pertence e quais são suas necessidades. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
 
-_Tabela 6: Checklist 05 - Personas e Storytelling_ 
+_Tabela 6: Checklist 05 - Personas e Storytelling versão 0.1_ <br>
+_Autor: Gabriel Mariano_
+
+
+#### **Versão 0.1**
+
+| ID | Questão | Justificativa | Inspeção |
+|----|---------|---------------|----------|
+| 1 | O artefato apresenta gravação da elicitação de requisitos? | Para atestar/documentar o modo como foi realizada a elicitação, é importante que esta esteja gravada em vídeo/áudio ou até mesmo registrada em ata. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+| 2 | A elicitação foi realizada com apoio de cliente e/ou persona? | A elicitação de requisitos deve ser realizada com apoio de cliente e/ou *Product Owner*, de modo que a equipe de desenvolvimento não apresente apenas as suas concepções de como o sistema deve ser, mas que o cliente atue nesse papel. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+| 3 | Os requisitos elicitados são divididos entre Funcionais e Não Funcionais? | A elicitação de requisitos prevê, resumidamente, a existência de requisitos funcionais e/ou não funcionais. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+| 4 | Foram detalhados os participantes da reunião onde ocorreu a elicitação dos requisitos? | É importante que todos os artefatos produzidos sejam detalhados. Nesse caso, é importante que a reunião tenha seus participantes descritos e, caso tenham sido utilizadas personas, estas sejam descritas na gravação. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+| 5 | Foi realizada a priorização dos requisitos elicitados? | Os requisitos elicitados devem ser priorizados. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+| 6 | Foi registrada (gravada em áudio e/ou vídeo) a priorização dos requisitos? | É importante que todas as etapas de elicitação dos requisitos sejam registradas. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+| 7 | A priorização dos requisitos foi realizada com apoio de usuário externo e/ou persona? | A priorização deve ser realizada com apoio de pessoa externa à equipe de desenvolvimento. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+| 8 | A técnica de priorização utilizada foi diferente das demais utilizadas nas outras metodologias de desenvolvimento? | Para uma boa habilitação dos discentes quanto às técnicas de priorização de requisitos, é importante que várias técnicas de priorização sejam utilizadas. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+| 9 | Foram criadas entre 3 e 12 personas? | Para abranger todos os públicos possíveis, é importante que sejam descritas entre 3 e 12 personas. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+| 10 | As personas são descritas com nome, dados demográficos, instrução, objetivos e expectativas? | É importante que as personas a serem utilizadas sejam bem descritas. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+| 11 | As personas possuem fotos? | É importante que as personas sejam identificadas visualmente para passar uma ideia melhor de que público representam.  | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+| 12 | As personas foram criadas com base no perfil do usuário? | Para exemplificar melhor o usuário com o qual estamos lidando, é importante que as personas representem estes. É importante que seja detalhado o perfil do usuário. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+| 13 | Existe ao menos uma anti-persona? | É importante que "usuários fora do perfil geral de usuários do sistema" sejam representados. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+| 14 | Todas as personas e anti-persona criadas foram utilizadas na elicitação de requisitos? | É importante que a elicitação de requisitos seja realizada por todos os perfis de usuários possíveis. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+| 15 | Todas as personas utilizadas possuem um *storytelling*? | O *storytelling* de cada persona ajuda a compreender o cenário ao qual esta pertence e quais são suas necessidades. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+
+_Tabela 6: Checklist 05 - Personas e Storytelling versão 0.2_ <br>
+_Autor: Laís Ramos_
 
 ### C06 - Requisitos Elicitados
 
