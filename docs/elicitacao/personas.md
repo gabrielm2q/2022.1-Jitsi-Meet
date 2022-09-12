@@ -4,6 +4,7 @@
 | ------ | ----- | :-------------: | :----------------------------: |
 | 1.0    | 13/07/2022 | Criação das Personas |  Gabriel Mariano, Felipe Cândido, Laís Ramos |
 | 1.1    | 13/07/2022 | Introduções das técnicas utilizadas |  Laís Ramos |
+| 1.2    | 12/09/2022 | Revisão do Artefato |  Gabriel Mariano |
 
 ## Introdução
     
@@ -207,7 +208,7 @@ Abaixo estão os requisitos elicitados com a técnica do Storytelling e prioriza
 
 DISNEY PLUS. Disponível em: (https://requisitos-de-software.github.io/2021.1-DisneyPlus/elicitacao/personas/)[https://requisitos-de-software.github.io/2021.1-DisneyPlus/elicitacao/personas/]. Acessado em: 13 de julho de 2022.
 
-**Comunidade Jitse Meet**. Disponível em: (https://community.jitsi.org/)[https://community.jitsi.org/]. Acessado em 10 de Setembro de 2022
+**Comunidade Jitsi Meet**. Disponível em: (https://community.jitsi.org/)[https://community.jitsi.org/]. Acessado em 10 de Setembro de 2022
 
 **Guia do usuário Jitsi Meet**. Disponível em: (https://jitsi.github.io/handbook/)[https://jitsi.github.io/handbook/]. Acessado em 10 de Setembro de 2022.
 
