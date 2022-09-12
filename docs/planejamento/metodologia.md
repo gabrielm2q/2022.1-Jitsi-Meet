@@ -1,12 +1,17 @@
+# Metodologias
+
+## Versionamento
+
 | Versão | Data  |   Modificação   |             Autor              |
 | ------ | ----- | :-------------: | :----------------------------: |
 | 1.0    | 29/06/2022 | Adição das metodologias usadas | Gabriel Mariano, Laís Ramos |
 | 1.1    | 06/07/2022 | Revisão do artigo | Gabriel Sabanai |
 | 1.2    | 12/09/2022 | Revisão das Metodologias: Planning Poker | Gabriel Mariano |
+| 1.3    | 12/09/2022 | Revisão do __Markdown__ | Gabriel Mariano |
 
 *Tabela 1: versionamento*
 
-# Metodologia
+## Introdução
 
 Para o efetivo desenvolvimento do projeto, serão adotadas metodologias que aplicam técnicas para aumentar a organização, produtividade e eficácia do trabalho realizado. Tais metodologias serão aplicadas em seus devidos contextos e podem ser substituídas ou modificadas ao decorrer do projeto, levando em consideração o rendimento por ela produzido.
 	
