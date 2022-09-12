@@ -14,6 +14,7 @@
 | 1.7    | 08/09 |    Revisão do checklist da Análise de Protocolo     |    Laís Ramos   |
 | 1.8    | 08/09 |               Revisão do Checklist 06               | Gabriel Mariano |
 | 1.9    | 09/09 |               Revisão do Checklist 04               |   André Alves   |
+| 2.0    | 12/09 |     Revisão do Artefato: Checklist 05 v0.2          | Gabriel Mariano |
 
 _Tabela 1: Versionamento_
 
