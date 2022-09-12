@@ -13,7 +13,21 @@ Com o objetivo de facilitar futuras consultas, os requisitos elicitados serão c
 
 ## Metodologia
 
-A partir dos metodos utilizados, vários requisitos funcionais e não funcionais foram elicitados. A partir disso, todos foram compilados com sua prioridade e metodo de origem.
+A partir dos métodos utilizados, vários requisitos funcionais e não funcionais foram elicitados. A partir disso, todos foram compilados com sua prioridade e método de origem. Para fazer a priorização dos requisitos nós fizemos uma entrevista com o usuário, fazendo perguntas que seguiam a ideia da Escala de Likert e organizamos a priorização pelo método MoSCoW.
+
+### Entrevista com usuário
+
+Abaixo encontra-se o vídeo usado como referência para a priorização dos requisitos.
+
+| Versão | Data  | Entrevistadores                | Entrevistado(a)   |
+| ------ | ----- | ------------------------------ | ----------------- |
+| 1.0    | 23/08 | Gabriel Sabanai e Samuel Avila | Fernanda Cordeiro |
+| 2.0    | 08/08 | Gabriel Sabanai e Samuel Avila | Fernanda Cordeiro |
+
+[![Entrevista da Priorização](../assets/elicitacao/priorizacao-thumb.jpg)
+](https://youtu.be/LOdaob7c1Bc)
+
+_Imagem 01: Vídeo da entrevista com usuário_
 
 # MoSCoW
 
