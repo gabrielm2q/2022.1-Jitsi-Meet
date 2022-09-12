@@ -3,7 +3,8 @@
 | Versão | Data       |        Modificação        |    Autor     |
 | ------ | ---------- | :-----------------------: | :----------: |
 | 1.0    | 13/07/2022 | Elicitação dos requisitos |    Grupo     |
-| 2.0    | 23/08/2022 | Reestruturando as tabelas | Samuel Ávila |
+| 1.1    | 23/08/2022 | Reestruturando as tabelas | Samuel Ávila |
+| 1.2    |   24/08    |   Revisão do artefato     | Felipe Moura    |
 
 _Tabela 01: Versionamento_
 
@@ -57,6 +58,7 @@ _Tabela 02:Legenda para artefatos_
 Os requisitos elicitados da análise de protocolo possuí tabelas separadas de Funcionais e Não funcionais. Para melhor entendimento ao agruparmos, levamos em consideração os seguimentos de cada tabela para enumeração com seus respectivos tipos de requisitos.
 
 ## Requisitos Funcionais
+
 
 | ID   | DESCRIÇÃO                                                                                                                                       | ORIGEM                       | PRIORIZAÇÃO |
 | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | ----------- |

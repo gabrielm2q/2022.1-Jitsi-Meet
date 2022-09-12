@@ -1,4 +1,5 @@
 # Validação Informal
+
 ## Versionamento
  
 | Versão | Data | Modificação | Autor |
@@ -6,6 +7,7 @@
 | 1.0 | 17/08/2022 | Criação do Documento | André Alves |
 | 1.1 | 17/08/2022 | Adição do email enviado | André Alves |
 | 1.2 | 17/08/2022 | Revisão do artefato | Felipe Moura|
+
 *Tabela 1: versionamento*
  
 ## Introdução

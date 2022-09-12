@@ -8,6 +8,7 @@
 | 1.1    | 17/08 | Introdução, Legenda e Referências | Gabriel Mariano |
 | 1.2    | 17/08 | Checklist, Melhorias e Conclusão | Gabriel Mariano |
 | 1.3    | 17/08 | Revisão | Gabriel Sabanai |
+| 1.4    | 08/09 | Revisão da versão 0.1 do checklist e inclusão da versão 0.2 | Laís Ramos |
 
 _Tabela 1: Versionamento_
 
@@ -26,6 +27,7 @@ Com enfoque na [Pré-Rastreabilidade](../../preRastreabilidade/richPicture.md), 
 _Tabela 2: Legenda da Tabela 3_ 
 
 ### C02 - Rich Picture
+#### **Versão 0.1**
 
 | ID | Questão | Justificativa | Inspeção |
 |----|---------|---------------|----------|
@@ -40,7 +42,28 @@ _Tabela 2: Legenda da Tabela 3_
 | 9 | Os fluxos de dados apresentados através de setas possuem descrição sobre o conteúdo dos dados em questão? | Além de apresentar as setas com os fluxos de dados do sistema, deve-se descrever em linguagem natural o conteúdo dos dados transferidos em cada fluxo. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  | 
 | 10 | Existe uma descrição da motivação para a elaboração do artefato? | Para que o desenvolvimento de um artefato seja justificado, deve-se ser detalhada sua motivação. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  | 
 
-_Tabela 3: Checklist e Inspeção_
+_Tabela 3: Checklist e Inspeção- Checklist Rich Picture versão 0.1_
+_Autor: Felipe Cândido_
+
+### C02 - Rich Picture
+#### **Versão 0.2**
+| ID | Questão | Justificativa | Inspeção |
+|----|---------|---------------|----------|
+| 1 | O *rich picture* produzido apresenta autor e versionamento? | Para que a documentação seja válida, os artefatos devem apresentar seus respectivos autores e suas respectivas versões. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  | 
+| 2 | O *rich picture* apresenta atores? | Alguns dos elementos fundamentais de um *rich picture* são os atores que interagem com o sistema em questão. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  | 
+| 3 | O *rich picture* apresenta operações? | Outro elemento fundamental de um *rich picture* são as operações que o sistema pode realizar. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  | 
+| 4 | O *rich picture* representa os locais de armazenamento de dados? | Um sistema geralmente tem como elemento fundamental sua base de dados, que deve ser representada no *rich picture*. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  | 
+| 5 | O *rich picture* apresenta setas que representam o fluxo de informações pelo sistema? | O fluxo de informações de um sistema é fundamental para o entendimento do mesmo. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  | 
+| 6 | O *rich picture* apresenta a fronteira do sistema? | A fronteira de um sistema é fundamental para entender o escopo do mesmo. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  | 
+| 7 | O *rich picture* produzido possui legenda descritiva e com a representação dos elementos visuais utilizados? | Tendo em vista que um *rich picture* representa uma visão que o autor possui do sistema em questão, sem apresentar muitas regras para seu desenvolvimento, deve-se existir legenda descritiva que seja capaz de instruir qualquer usuário sobre o conteúdo apresentado no mesmo. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  | 
+| 8 | A fronteira do sistema está bem definida? | Para que a fronteira de um sistema esteja bem definida, esta deve abranger somente os elementos que realmente são de competência do sistema, definindo bem o escopo do mesmo. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  | 
+| 9 | Os fluxos de dados apresentados através de setas possuem descrição sobre o conteúdo dos dados em questão? | Além de apresentar as setas com os fluxos de dados do sistema, deve-se descrever em linguagem natural o conteúdo dos dados transferidos em cada fluxo. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  | 
+| 10 | Existe uma descrição da motivação para a elaboração do artefato? | Para que o desenvolvimento de um artefato seja justificado, deve-se ser detalhada sua motivação. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  | 
+| 11 | As setas do sistema posicionadas de maneira correta? |A orientação das setas do artefato implica na especificação dos dados apresentados| ![Simbolo check](../../assets/modelagem/check.png){width="20"}  | 
+| 11 | Os autores se encontram fora da fronteira do sistema? |Os autores devem se situar fora do sistema parasere considerados autores| ![Simbolo check](../../assets/modelagem/check.png){width="20"}  | 
+
+_Tabela 4: Checklist e Inspeção- Checklist Rich Picture versão 0.2_
+_Autor: Laís Ramos_
 
 ## Melhorias
 
