@@ -34,19 +34,36 @@ _Tabela 2: Legenda dos Checklists_
 
 ### C03 - Análise de Protocolo
 
-| ID  | Questão                                                                                                            | Justificativa                                                                                                                                                                                                                            | Inspeção                                                       |
-| --- | ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| 1   | O artefato apresenta gravação da elicitação de requisitos?                                                         | Para atestar/documentar o modo como foi realizada a elicitação, é importante que esta esteja gravada em vídeo/áudio ou até mesmo registrada em ata.                                                                                      | ![Simbolo check](../../assets/modelagem/check.png){width="20"} |
-| 2   | A elicitação foi realizada com apoio de cliente e/ou persona?                                                      | A elicitação de requisitos deve ser realizada com apoio de cliente e/ou _Product Owner_, de modo que a equipe de desenvolvimento não apresente apenas as suas concepções de como o sistema deve ser, mas que o cliente atue nesse papel. | ![Simbolo check](../../assets/modelagem/check.png){width="20"} |
-| 3   | Os requisitos elicitados são divididos entre Funcionais e Não Funcionais?                                          | A elicitação de requisitos prevê, resumidamente, a existência de requisitos funcionais e/ou não funcionais.                                                                                                                              | ![Simbolo check](../../assets/modelagem/check.png){width="20"} |
-| 4   | Foram detalhados os participantes da reunião?                                                                      | É importante que todos os artefatos produzidos (nesse caso, a gravação) sejam detalhados. Nesse caso, é importante que a reunião tenha seus participantes descritos.                                                                     | ![Simbolo check](../../assets/modelagem/check.png){width="20"} |
-| 5   | Foi realizada a priorização dos requisitos elicitados?                                                             | Os requisitos elicitados devem ser priorizados.                                                                                                                                                                                          | ![Simbolo check](../../assets/modelagem/check.png){width="20"} |
-| 6   | Foi registrada (gravada em áudio e/ou vídeo) a priorização dos requisitos?                                         | É importante que todas as etapas de elicitação dos requisitos sejam registradas.                                                                                                                                                         | ![Simbolo wrong](../../assets/modelagem/wrong.png){width="20"} |
-| 7   | A priorização dos requisitos foi realizada com apoio de usuário externo e/ou persona?                              | A priorização deve ser realizada com apoio de pessoa externa à equipe de desenvolvimento.                                                                                                                                                | ![Simbolo wrong](../../assets/modelagem/wrong.png){width="20"} |
-| 8   | A técnica de priorização utilizada foi diferente das demais utilizadas nas outras metodologias de desenvolvimento? | Para uma boa habilitação dos discentes quanto às técnicas de priorização de requisitos, é importante que várias técnicas de priorização sejam utilizadas.                                                                                | ![Simbolo wrong](../../assets/modelagem/wrong.png){width="20"} |
+**Versão 0.1**
+
+| ID | Questão | Justificativa | Inspeção |
+|----|---------|---------------|----------|
+| 1 | O artefato apresenta gravação da elicitação de requisitos? | Para atestar/documentar o modo como foi realizada a elicitação, é importante que esta esteja gravada em vídeo/áudio ou até mesmo registrada em ata. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+| 2 | A elicitação foi realizada com apoio de cliente e/ou persona? | A elicitação de requisitos deve ser realizada com apoio de cliente e/ou *Product Owner*, de modo que a equipe de desenvolvimento não apresente apenas as suas concepções de como o sistema deve ser, mas que o cliente atue nesse papel. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+| 3 | Os requisitos elicitados são divididos entre Funcionais e Não Funcionais? | A elicitação de requisitos prevê, resumidamente, a existência de requisitos funcionais e/ou não funcionais. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+| 4 | Foram detalhados os participantes da reunião? | É importante que todos os artefatos produzidos (nesse caso, a gravação) sejam detalhados. Nesse caso, é importante que a reunião tenha seus participantes descritos. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+| 5 | Foi realizada a priorização dos requisitos elicitados? | Os requisitos elicitados devem ser priorizados. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+| 6 | Foi registrada (gravada em áudio e/ou vídeo) a priorização dos requisitos? | É importante que todas as etapas de elicitação dos requisitos sejam registradas. | ![Simbolo wrong](../../assets/modelagem/wrong.png){width="20"}  |
+| 7 | A priorização dos requisitos foi realizada com apoio de usuário externo e/ou persona? | A priorização deve ser realizada com apoio de pessoa externa à equipe de desenvolvimento. | ![Simbolo wrong](../../assets/modelagem/wrong.png){width="20"}  |
+| 8 | A técnica de priorização utilizada foi diferente das demais utilizadas nas outras metodologias de desenvolvimento? | Para uma boa habilitação dos discentes quanto às técnicas de priorização de requisitos, é importante que várias técnicas de priorização sejam utilizadas. | ![Simbolo wrong](../../assets/modelagem/wrong.png){width="20"}  |
 
 _Tabela 3: Checklist 03 - Análise de Protocolo_
 
+**Versão 0.2**
+
+
+| ID | Questão | Justificativa | Inspeção |
+|----|---------|---------------|----------|
+| 1 | O artefato apresenta gravação da elicitação de requisitos? | Para atestar/documentar o modo como foi realizada a elicitação, é importante que esta esteja gravada em vídeo/áudio ou até mesmo registrada em ata. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+| 2 | A elicitação foi realizada com apoio de cliente e/ou persona? | A elicitação de requisitos deve ser realizada com apoio de cliente e/ou *Product Owner*, de modo que a equipe de desenvolvimento não apresente apenas as suas concepções de como o sistema deve ser, mas que o cliente atue nesse papel. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+| 3 | Os requisitos elicitados são divididos entre Funcionais e Não Funcionais? | A elicitação de requisitos prevê, resumidamente, a existência de requisitos funcionais e/ou não funcionais. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+| 4 | Foram detalhados os participantes da reunião? | É importante que todos os artefatos produzidos (nesse caso, a gravação) sejam detalhados. Nesse caso, é importante que a reunião tenha seus participantes descritos. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+| 5 | Foi realizada a priorização dos requisitos elicitados? | Os requisitos elicitados devem ser priorizados. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+| 6 | Foi registrada (gravada em áudio e/ou vídeo) a priorização dos requisitos? | É importante que todas as etapas de elicitação dos requisitos sejam registradas. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+| 7 | A priorização dos requisitos foi realizada com apoio de usuário externo e/ou persona? | A priorização deve ser realizada com apoio de pessoa externa à equipe de desenvolvimento. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+| 8 | A técnica de priorização utilizada foi diferente das demais utilizadas nas outras metodologias de desenvolvimento? | Para uma boa habilitação dos discentes quanto às técnicas de priorização de requisitos, é importante que várias técnicas de priorização sejam utilizadas. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
+
+_Tabela 4: Checklist 03 - Análise de Protocolo - revisada_ 
 ### C04 - Brainstorming
 
 #### **Versão 0.1**
@@ -62,7 +79,7 @@ _Tabela 3: Checklist 03 - Análise de Protocolo_
 | 7 | O brainstorming conta com um "tópico inicial" que dá base aos pensamentos posteriormente definidos? | Para a realização do brainstorm é importante que seja definido um tópico inicial que guiará os pensamentos a serem descritos. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
 | 8 | O artefato gerado ao final do brainstorm pelo facilitador está presente na documentação da técnica? | Para uma boa execução do brainstorm, é importante que o facilitador (isto é, aquele que "organiza" e "conduz" a execução da metodologia) vá anotando todos os pensamentos citados e gere um artefato com todas as notas tomadas. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
 
-_Tabela 4: Checklist 04 - Brainstorming_
+_Tabela 5: Checklist 04 - Brainstorming_ 
 
 #### **Versão 0.2**
 
@@ -78,7 +95,7 @@ _Tabela 4: Checklist 04 - Brainstorming_
 | 8 | O artefato gerado ao final do brainstorm pelo facilitador está presente na documentação da técnica? | Para uma boa execução do brainstorm, é importante que o facilitador (isto é, aquele que "organiza" e "conduz" a execução da metodologia) vá anotando todos os pensamentos citados e gere um artefato com todas as notas tomadas. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |
 | 9 | Todos os requisitos foram classificados corretamente? | Todos os requisitos devem ser classificados corretamente em Funcionais e Não Funcionais. | ![Simbolo wrong](../../assets/modelagem/wrong.png){width="20"}  |
 
-_Tabela 5: Checklist 04 - Brainstorming. Revisado por André Alves_ 
+_Tabela 6: Checklist 04 - Brainstorming. Revisado por André Alves_ 
 
 ### C05 - Personas e Storytelling
 
@@ -107,7 +124,7 @@ _Tabela 6: Checklist 05 - Personas e Storytelling versão 0.1_ <br>
 _Autor: Gabriel Mariano_
 
 
-#### **Versão 0.1**
+#### **Versão 0.2**
 
 | ID | Questão | Justificativa | Inspeção |
 |----|---------|---------------|----------|
