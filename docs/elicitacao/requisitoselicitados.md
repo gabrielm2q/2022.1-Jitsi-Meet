@@ -60,10 +60,10 @@ Os requisitos elicitados da análise de protocolo possuí tabelas separadas de F
 ## Requisitos Funcionais
 
 
-| ID   | DESCRIÇÃO                                                                                                                                       | ORIGEM                       | PRIORIZAÇÃO |
-| ---- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | ----------- |
-| RF01 | Eu quero me reunir com duas ou mais pessoas                                                                                                     | ST01, BS28, AP01             | MUST        |
-| RF02 | Eu quero me comunicar via chat de texto                                                                                                         | ST03, BS04, AP10             | SHOULD      |
+| ID   | DESCRIÇÃO    | ORIGEM  | PRIORIZAÇÃO MOSCOW | PRIORIZAÇÃO LINKERT  |
+| ---- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | ----------- | ------- |
+| RF01 | Eu quero me reunir com duas ou mais pessoas                                                                                                     | ST01, BS28, AP01             | MUST | 05 |
+| RF02 | Eu quero me comunicar via chat de texto                                                                                                         | ST03, BS04, AP10             | SHOULD  |
 | RF03 | Eu quero compartilhar minha tela com os outros participantes da conferência                                                                     | ST04, BS21, AP09             | SHOULD      |
 | RF04 | Eu quero gerar links que direcionem para uma conferência                                                                                        | ST05, AP06                   | MUST        |
 | RF05 | Eu quero fixar minha tela compartilhada para todos os integrantes                                                                               | ST06                         | COULD       |
