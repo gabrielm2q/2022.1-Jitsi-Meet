@@ -33,7 +33,6 @@ _Tabela 1: versionamento_
 |     ![Figma](../assets/icons/figma.png){ width="200" }      |    Figma    | Ferramenta utilizada na prototipação.            |
 |     ![Notion](../assets/icons/notion.png){ width="200" }      |    Notion    | Ferramenta utilizada na elaboração de notas interativas.            |
 |     ![YouTube](../assets/icons/youtube.png){ width="200" }      |    YouTube    | Ferramenta utilizada no upload de vídeos gravados.            |
-<!-- | ![Google Forms](../assets/icons/googleforms.JPG){ width="225" }  |   Google Forms    | Ferramenta para criação de formulários      | -->
 
 _Tabela 2: Tabela contendo as ferramentas utilizadas no projeto_
 

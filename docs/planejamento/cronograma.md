@@ -43,3 +43,7 @@ Foi analisado o cronograma do semestre letivo, os prazos da disciplina e a dispo
 ![Cronograma Detalhado](../assets/cronograma-detalhado.png)
 
 *Figura 2: Cronograma Detalhado das Sprints*
+
+### **Observação**
+
+Algumas atividades são apresentadas enquanto sendo atribuição de **TODOS** a sua realização e, em alguns casos, sua revisão. Tais atividades são de fato de responsabilidade coletiva e podem ser atribuídas informalmente em diversas partes para diversos membros conforme sua disponibilidade.

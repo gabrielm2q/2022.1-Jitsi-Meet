@@ -9,6 +9,7 @@
 | 1.2    | 17/08 | Checklist e Inspeção | Gabriel Mariano |
 | 1.3    | 17/08 | Revisão | Gabriel Sabanai |
 | 1.4 | 08/09 | Revisão 2 | Gabriel Sabanai | 
+| 1.5 | 12/09 | Inspeção Pós Revisão dos Artefatos | Gabriel Mariano | 
 
 
 _Tabela 1: Versionamento_
@@ -42,7 +43,7 @@ _Tabela 2: Legenda da Tabela 3_
 | 7  | O cronograma apresenta os tópicos de cada atividade a ser realizada? | Conforme definido pelo docente na ementa da disciplina, as entregas serão realizadas de acordo com os 'tópicos' dos artefatos (por exemplo, temos o 'Planejamento' ou a 'Elicitação'). | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  | 
 | 8  | O cronograma é revisado conforme o decorrer do projeto? | O [framework SCRUM](../../planejamento/metodologia.md) prevê que as atividades previstas para serem realizadas em sprints são mutáveis e podem apresentar mudanças conforme o decorrer do projeto e a avalização da equipe de desenvolvimento (ou o *Product Owner*). | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  | 
 
-_Tabela 3: Checklist e Inspeção_
+_Tabela 3: Checklist e Inspeção. Feito por Gabriel Mariano_
 
 #### **Versão 0.2**
 
@@ -58,7 +59,23 @@ _Tabela 3: Checklist e Inspeção_
 | 8  | O cronograma é revisado conforme o decorrer do projeto? | O [framework SCRUM](../../planejamento/metodologia.md) prevê que as atividades previstas para serem realizadas em sprints são mutáveis e podem apresentar mudanças conforme o decorrer do projeto e a avalização da equipe de desenvolvimento (ou o *Product Owner*). | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  | 
 | 9 | É apresentado uma introdução explicando o cronograma e todas as metodologias utilizadas na elaboração do artefato? | Como padrão de projeto é necessário haver uma introdução descritiva sobre cada artefato elaborado pelo grupo | ![Simbolo check](../../assets/modelagem/check.png){width="20"} |
 
-_Tabela 4: Checklist e Inspeção 0.2_
+_Tabela 4: Checklist e Inspeção 0.2. Revisado por Gabriel Sabanai_
+
+#### **Versão 0.3**
+
+| ID | Questão | Justificativa | Inspeção |
+|----|---------|---------------|----------|
+| 1  | O cronograma apresenta todas as atividades a serem realizadas detalhadamente? | Para que seja funcional, um cronograma deve apresentar todas as atividades a serem realizadas em certo período de tempo. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  | 
+| 2  | O cronograma divide as atividades a serem entregues em períodos de tempo pré-determinados? | Para que cumpra com seu propósito, um cronograma deve apresentar o período em que as atividades deverão ser realizadas e entregues | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  |  
+| 3  | O cronograma apresenta com clareza os responsáveis por cada atividade? | Para que seja funcional, além de determinar as atividades a serem realizadas, um cronograma deve apresentar quem realizará tais atividades | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  | 
+| 4  | O cronograma apresenta os revisores de cada atividade? | Para que seja considerada realizada, uma atividade deve ser revisada. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  | 
+| 5  | O cronograma divide as atividades a serem realizadas em sprints? | Como foi adotada o [framework SCRUM](../../planejamento/metodologia.md), devem ser definidos curtos períodos de tempo nos quais as atividades serão realizadas. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  | 
+| 6  | As atividades definidas no cronograma apresentam as respectivas dificuldades definidas através do método *Planning Poker*? | Conforme definido pela equipe, toda atividade a ser realizada deverá ter seu nível de dificuldade avaliado pelo grupo através da metodologia *Planning Poker*. | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  | 
+| 7  | O cronograma apresenta os tópicos de cada atividade a ser realizada? | Conforme definido pelo docente na ementa da disciplina, as entregas serão realizadas de acordo com os 'tópicos' dos artefatos (por exemplo, temos o 'Planejamento' ou a 'Elicitação'). | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  | 
+| 8  | O cronograma é revisado conforme o decorrer do projeto? | O [framework SCRUM](../../planejamento/metodologia.md) prevê que as atividades previstas para serem realizadas em sprints são mutáveis e podem apresentar mudanças conforme o decorrer do projeto e a avalização da equipe de desenvolvimento (ou o *Product Owner*). | ![Simbolo check](../../assets/modelagem/check.png){width="20"}  | 
+| 9 | É apresentado uma introdução explicando o cronograma e todas as metodologias utilizadas na elaboração do artefato? | Como padrão de projeto é necessário haver uma introdução descritiva sobre cada artefato elaborado pelo grupo | ![Simbolo check](../../assets/modelagem/check.png){width="20"} |
+
+_Tabela 4: Checklist e Inspeção 0.2. Revisado por Gabriel Sabanai_
 
 ## Melhorias
 
@@ -68,9 +85,11 @@ Tal fato foi constatado pois o cronograma apresenta apenas as principais ativida
 
 Portanto, conclui-se que o artefato deverá passar por revisão posterior de modo a incluir todas as atividades realizadas ao decorrer do projeto. </br>
 
+Após realizadas as modificações no **Planejamento**, destaca-se que todos os pontos descritos no _checklist_ estão cumpridos. Apenas se deve ressaltar que o tópico 3 do ```C01 - Versão 0.3```, que torna necessária a "apresenta com clareza os responsáveis por cada atividade", é passível de visita pois algumas atividades são agrupadas como sendo de responsabilidade coletiva, isto é, como responsabilidade de **TODOS**.
+
 ## Conclusão
 
-Portanto, conclui-se que o artefato "[Cronograma](../../planejamento/cronograma.md)" deverá passar por alterações e revisões para que seja considerado completo em relação ao que é esperado deste. </br>
+Portanto, conclui-se que o artefato "[Cronograma](../../planejamento/cronograma.md)" condiz com o que é esperado de acordo com os tópicos analisados no ```C01 - Versão 0.3``` </br>
 
 ## Referências
 
