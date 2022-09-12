@@ -8,7 +8,7 @@
 | 1.1    | 20/07 |            Versão definitiva             |        Laís Ramos        |
 | 1.2    | 20/07 |         Criação da Documentação          |       André Alves        |
 | 1.3    | 20/07 |         Revisão da Documentação          |     Gabriel Mariano      |
-| 1.4    | 12/08 | Correção de pontos listados na checklist |       André Alves e Laís Ramos        |
+| 1.4    | 12/09 | Correção de pontos listados na checklist |       André Alves e Laís Ramos        |
 
 _Tabela 1: Versionamento_
 
@@ -222,14 +222,16 @@ Rastro: [Licença Apache](https://github.com/jitsi/jitsi-meet/blob/master/LICENS
 
 **CIn - UFPE**. "Conceito: Requisitos". Disponível em: <https://www.cin.ufpe.br/~gta/rup-vc/core.base_rup/guidances/concepts/requirements_62E28784.html>.
 
-**Suportabilidade web:** https://meet.jit.si/
+**Suportabilidade web:** Disponível em: <https://meet.jit.si/>
 
-**Suportabilidade mobile:** https://jitsi.org/downloads/
+**Suportabilidade mobile:** Disponível em: <https://jitsi.org/downloads/>
 
-**Suportabilidade desktop:** https://desktop.jitsi.org/Main/Download.html
+**Suportabilidade desktop:** Disponível em: <https://desktop.jitsi.org/Main/Download.html>
 
-**Restrições de Design do Jitsi:** https://github.com/jitsi/jitsi-meet/blob/master/CONTRIBUTING.md
+**Restrições de Design do Jitsi:** Disponível em: <https://github.com/jitsi/jitsi-meet/blob/master/CONTRIBUTING.md>
 
-**Requisitos de Licença do Jitsi:** https://jitsi.org/meet-jit-si-terms-of-service/
+**Requisitos de Licença do Jitsi:** Disponível em: <https://jitsi.org/meet-jit-si-terms-of-service/>
 
-**Licença Apache do Jitsi:** https://github.com/jitsi/jitsi-meet/blob/master/LICENSE
+**Licença Apache do Jitsi:** Disponível em: <https://github.com/jitsi/jitsi-meet/blob/master/LICENSE>
+
+**Blog 4Linus:** Disponível em: <https://blog.4linux.com.br/jitsi-solucao-aberta-completa-para-videoconferencias/>
