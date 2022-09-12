@@ -6,18 +6,19 @@
 | 1.1    | 13/07/2022 | Revisäo do cronograma |  Felipe Moura  |
 | 1.2    | 03/08/2022 | Revisäo do cronograma |  Gabriel Mariano |
 | 1.3    | 17/08/2022 | Revisäo do cronograma |  Gabriel Mariano |
+| 1.4    | 12/09/2022 | Revisäo do cronograma |  Gabriel Mariano |
 
 *Tabela 1: versionamento*
 
 ## Introdução
 
-Foi analisado o cronograma do semestre letivo, os prazos da disciplina e a disponibilidade dos integrantes. Dessa forma, foi criado um cronograma (Imagem 1) que foi dividido em etapas para a realização das atividades e cumprimento dos prazos (Tabela 2), todos baseados no product backlog descrito (Tabela 3).
+Foi analisado o cronograma do semestre letivo, os prazos da disciplina e a disponibilidade dos integrantes. Dessa forma, foi criado um cronograma (Figura 1) que foi dividido em etapas para a realização das atividades e cumprimento dos prazos (Tabela 2), todos baseados no product backlog descrito (Figura 2).
 
 ## Cronograma de atividades
 
 ![Cronograma](../assets/cronograma.png)
 
-*Imagem 1: Cronograma de sprints*
+*Figura 1: Cronograma de sprints*
 
 ## Datas e Sprints
 
@@ -41,4 +42,4 @@ Foi analisado o cronograma do semestre letivo, os prazos da disciplina e a dispo
 
 ![Cronograma Detalhado](../assets/cronograma-detalhado.png)
 
-*Tabela 3: Cronograma Detalhado das Sprints*
+*Figura 2: Cronograma Detalhado das Sprints*
