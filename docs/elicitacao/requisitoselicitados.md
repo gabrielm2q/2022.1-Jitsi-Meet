@@ -60,54 +60,54 @@ Os requisitos elicitados da análise de protocolo possuí tabelas separadas de F
 ## Requisitos Funcionais
 
 
-| ID   | DESCRIÇÃO    | ORIGEM  | PRIORIZAÇÃO MOSCOW | PRIORIZAÇÃO LINKERT  |
+| ID   | DESCRIÇÃO    | ORIGEM  | PRIORIZAÇÃO MOSCOW | PRIORIZAÇÃO LIKERT  |
 | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | ----------- | ------- |
-| RF01 | Eu quero me reunir com duas ou mais pessoas                                                                                                     | ST01, BS28, AP01             | MUST | 05 |
-| RF02 | Eu quero me comunicar via chat de texto                                                                                                         | ST03, BS04, AP10             | SHOULD  |
-| RF03 | Eu quero compartilhar minha tela com os outros participantes da conferência                                                                     | ST04, BS21, AP09             | SHOULD      |
-| RF04 | Eu quero gerar links que direcionem para uma conferência                                                                                        | ST05, AP06                   | MUST        |
-| RF05 | Eu quero fixar minha tela compartilhada para todos os integrantes                                                                               | ST06                         | COULD       |
-| RF06 | Eu quero que novos participantes sejam automaticamente mutados no chat de voz                                                                   | ST07                         | COULD       |
-| RF07 | O Jitsi permite a criação de breakout rooms                                                                                                     | ST08, BS20, AP14             | COULD       |
-| RF08 | Eu quero que exista uma restrição para que apenas pessoas permitidas entrem na reunião                                                          | ST09                         | WOULDN'T    |
-| RF09 | O Jitsi permite que o dono da sala tenha funções de moderador na reunião                                                                        | ST10, ST11, BS15, AP15, AP16 | MUST        |
-| RF10 | Eu quero que seja possível agendar as reuniões                                                                                                  | ST12, BS31, AP03             | COULD       |
-| RF11 | Eu quero que seja possível "levantar a mão" durante as chamadas                                                                                 | ST13, BS05                   | SHOULD      |
-| RF12 | Eu quero que seja possível aplicar filtros no plano de fundo do vídeo transmitido                                                               | ST14, BS19, AP07             | COULD       |
-| RF13 | Eu quero que seja possível escolher a forma de visualização e organização das telas/pessoas                                                     | ST15, BS24, AP13             | SHOULD      |
-| RF14 | Eu quero que seja possível se identificar na plataforma com nome                                                                                | ST16, BS26, AP05             | MUST        |
-| RF15 | Eu quero que seja possível se identificar na plataforma com foto                                                                                | ST16, BS25, AP05             | SHOULD      |
-| RF16 | Eu quero que o usuário possa ativar um filtro de ruídos do áudio                                                                                | ST18                         | SHOULD      |
-| RF17 | Eu quero que seja possível ver meu próprio vídeo durante o uso da plataforma                                                                    | ST21                         | MUST        |
-| RF18 | Eu quero que seja possível alternar o idioma da plataforma                                                                                      | ST22                         | MUST        |
-| RF19 | O Jitsi permite a visualização do histórico de reuniões                                                                                         | BS33, AP04                   | SHOULD      |
-| RF20 | O Jitsi permite que o usuário configure o próprio áudio e vídeo                                                                                 | BS06, BS16, AP02             | MUST        |
-| RF21 | O Jitsi permite a interação entre os participantes por voz e vídeo                                                                              | BS07, BS10, AP08             | MUST        |
-| RF22 | O Jitsi permite que enquetes sejam feitas e respondidas em tempo real                                                                           | BS13, AP11                   | COULD       |
-| RF23 | O Jitsi permite reação com emotes pelos usuários                                                                                                | AP12, BS18                   | COULD       |
-| RF24 | O Jitsi permite alterações no perfil durante a reunião                                                                                          | AP17                         | COULD       |
-| RF25 | O Jitsi permite que o usuário saia a qualquer momento da reunião                                                                                | AP18, BS39                   | MUST        |
-| RF26 | A aplicação deve permitir que o usuário possa parar a transmissão de seu video para que o mesmo não seja visto caso não queira                  | BS10                         | MUST        |
-| RF27 | A aplicação deve permitir referenciar pessoas no chat da transmissão para que o usuário consiga destacar um usuário em sua mensagem             | BS11                         | SHOULD      |
-| RF28 | A aplicação deve permitir a mensagem privada entre usuários para que os mesmos possam conversar em particular durante uma conferência           | BS12                         | WOULDN'T    |
-| RF29 | A aplicação deve permitir que um usuário possa compartilhar um quadro de tarefas para que todos os usuários possam visualizar e mexer com ele   | BS17                         | WOULDN'T    |
-| RF30 | A aplicação deve permitir que o usuário realize o login para que o mesmo possa acessar suas informações salvas                                  | BS27                         | WOULDN'T    |
-| RF31 | A aplicação deve permitir que o usuário faça conexões com outros usuários para que possa ter salvo aqueles que deseja fazer conexões facilmente | BS30                         | WOULDN'T    |
+| RF01 | Eu quero me reunir com duas ou mais pessoas                                                                                                     | ST01, BS28, AP01             | MUST | 5 |
+| RF02 | Eu quero me comunicar via chat de texto                                                                                                         | ST03, BS04, AP10             | SHOULD  | 4 |
+| RF03 | Eu quero compartilhar minha tela com os outros participantes da conferência                                                                     | ST04, BS21, AP09             | SHOULD      | 4 |
+| RF04 | Eu quero gerar links que direcionem para uma conferência                                                                                        | ST05, AP06                   | MUST        | 5 |
+| RF05 | Eu quero fixar minha tela compartilhada para todos os integrantes                                                                               | ST06                         | COULD       | 3 |
+| RF06 | Eu quero que novos participantes sejam automaticamente mutados no chat de voz                                                                   | ST07                         | COULD       | 4 |
+| RF07 | O Jitsi permite a criação de breakout rooms                                                                                                     | ST08, BS20, AP14             | COULD       | 4 |
+| RF08 | Eu quero que exista uma restrição para que apenas pessoas permitidas entrem na reunião                                                          | ST09                         | WOULDN'T    | 5 |
+| RF09 | O Jitsi permite que o dono da sala tenha funções de moderador na reunião                                                                        | ST10, ST11, BS15, AP15, AP16 | MUST        | 5 |
+| RF10 | Eu quero que seja possível agendar as reuniões                                                                                                  | ST12, BS31, AP03             | COULD       | 4 |
+| RF11 | Eu quero que seja possível "levantar a mão" durante as chamadas                                                                                 | ST13, BS05                   | SHOULD      | 4 |
+| RF12 | Eu quero que seja possível aplicar filtros no plano de fundo do vídeo transmitido                                                               | ST14, BS19, AP07             | COULD       | 2 |
+| RF13 | Eu quero que seja possível escolher a forma de visualização e organização das telaspessoas                                                     | ST15, BS24, AP13             | SHOULD      | 4 |
+| RF14 | Eu quero que seja possível se identificar na plataforma com nome                                                                                | ST16, BS26, AP05             | MUST        | 5 |
+| RF15 | Eu quero que seja possível se identificar na plataforma com foto                                                                                | ST16, BS25, AP05             | SHOULD      | 4 |
+| RF16 | Eu quero que o usuário possa ativar um filtro de ruídos do áudio                                                                                | ST18                         | SHOULD      | 3 | 
+| RF17 | Eu quero que seja possível ver meu próprio vídeo durante o uso da plataforma                                                                    | ST21                         | MUST        | 4 | 
+| RF18 | Eu quero que seja possível alternar o idioma da plataforma                                                                                      | ST22                         | MUST        | 5 |
+| RF19 | O Jitsi permite a visualização do histórico de reuniões                                                                                         | BS33, AP04                   | SHOULD      | 4 |
+| RF20 | O Jitsi permite que o usuário configure o próprio áudio e vídeo                                                                                 | BS06, BS16, AP02             | MUST        | 5 |
+| RF21 | O Jitsi permite a interação entre os participantes por voz e vídeo                                                                              | BS07, BS10, AP08             | MUST        | 5 |
+| RF22 | O Jitsi permite que enquetes sejam feitas e respondidas em tempo real                                                                           | BS13, AP11                   | COULD       | 4 |
+| RF23 | O Jitsi permite reação com emotes pelos usuários                                                                                                | AP12, BS18                   | COULD       | 3 |
+| RF24 | O Jitsi permite alterações no perfil durante a reunião                                                                                          | AP17                         | COULD       | 2 | 
+| RF25 | O Jitsi permite que o usuário saia a qualquer momento da reunião                                                                                | AP18, BS39                   | MUST        | 5 | 
+| RF26 | A aplicação deve permitir que o usuário possa parar a transmissão de seu video para que o mesmo não seja visto caso não queira                  | BS10                         | MUST        | 5 |
+| RF27 | A aplicação deve permitir referenciar pessoas no chat da transmissão para que o usuário consiga destacar um usuário em sua mensagem             | BS11                         | SHOULD      | 3 |
+| RF28 | A aplicação deve permitir a mensagem privada entre usuários para que os mesmos possam conversar em particular durante uma conferência           | BS12                         | WOULDN'T    | 3 |
+| RF29 | A aplicação deve permitir que um usuário possa compartilhar um quadro de tarefas para que todos os usuários possam visualizar e mexer com ele   | BS17                         | WOULDN'T    | 4 |
+| RF30 | A aplicação deve permitir que o usuário realize o login para que o mesmo possa acessar suas informações salvas                                  | BS27                         | WOULDN'T    | 5 |
+| RF31 | A aplicação deve permitir que o usuário faça conexões com outros usuários para que possa ter salvo aqueles que deseja fazer conexões facilmente | BS30                         | WOULDN'T    | 3 |
 
 _Tabela 03: Requisitos Funcionais e priorização de acordo com o MoSCoW_
 
 ## Requisitos Não Funcionais
 
-| Id    | Descrição                                                                                                    | Origem           | Prioridade |
-| ----- | ------------------------------------------------------------------------------------------------------------ | ---------------- | ---------- |
-| RNF01 | Eu quero uma interface minimalista                                                                           | ST02             | SHOULD     |
-| RNF02 | O Jitsi deve zelar pela privacidade dos usuários                                                             | AP01             | MUST       |
-| RNF03 | Eu quero que a plataforma priorize a estabilidade em detrimento da qualidade da conferência                  | ST17, ST19, BS35 | SHOULD     |
-| RNF04 | O Jitsi deve ter uma interface que facilite a visualização das mudanças de estado na reunião                 | AP02             | SHOULD     |
-| RNF05 | Eu quero que o Jitsi seja usado nas principais plataformas (por exemplo, a plataforma mobile)                | ST20, AP03       | SHOULD     |
-| RNF06 | Eu quero que as funcionalidades da plataforma possuam indicações visuais intuitivas                          | ST23, BS38, AP02 | MUST       |
-| RNF07 | O Jitsi deve permitir que o usuário altere configurações dos dispositivos de áudio e vídeo durante a reunião | AP04             | MUST       |
-| RNF08 | A aplicação deve aceitar entrada e saída de som para que o usuário consiga transmitir sua voz                | BS03             | MUST       |
+| Id    | Descrição                                                                                                    | Origem           | Prioridade MOSCOW | Prioridade LIKERT |
+| ----- | ------------------------------------------------------------------------------------------------------------ | ---------------- | ---------- | :---: |
+| RNF01 | Eu quero uma interface minimalista                                                                           | ST02             | SHOULD     | 5 |
+| RNF02 | O Jitsi deve zelar pela privacidade dos usuários                                                             | AP01             | MUST       | 5 |
+| RNF03 | Eu quero que a plataforma priorize a estabilidade em detrimento da qualidade da conferência                  | ST17, ST19, BS35 | SHOULD     | 3 |
+| RNF04 | O Jitsi deve ter uma interface que facilite a visualização das mudanças de estado na reunião                 | AP02             | SHOULD     | 4 | 
+| RNF05 | Eu quero que o Jitsi seja usado nas principais plataformas (por exemplo, a plataforma mobile)                | ST20, AP03       | SHOULD     | 5 |
+| RNF06 | Eu quero que as funcionalidades da plataforma possuam indicações visuais intuitivas                          | ST23, BS38, AP02 | MUST       | 5 |
+| RNF07 | O Jitsi deve permitir que o usuário altere configurações dos dispositivos de áudio e vídeo durante a reunião | AP04             | MUST       | 5 |
+| RNF08 | A aplicação deve aceitar entrada e saída de som para que o usuário consiga transmitir sua voz                | BS03             | MUST       | 5 | 
 
 _Tabela 04: Requisitos Não Funcionais e priorização de acordo com o MoSCoW_
 
