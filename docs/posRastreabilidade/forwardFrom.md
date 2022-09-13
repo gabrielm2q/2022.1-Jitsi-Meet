@@ -11,6 +11,7 @@
 | 1.4    | 24/08 | Complementação da documentação | Laís Ramos      |
 | 1.5    | 24/08 |       Revisão do artefato      | Felipe Moura    |
 | 1.6    | 25/08 | Refatoração dos requisitos de origem | Laís Ramos    |
+| 1.7    | 12/09 |       Revisão do artefato      | Gabriel Mariano    |
 
 _Tabela 1: Versionamento_
 
