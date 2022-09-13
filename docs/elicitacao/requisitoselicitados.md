@@ -5,6 +5,7 @@
 | 1.0    | 13/07/2022 | Elicitação dos requisitos |    Grupo     |
 | 1.1    | 23/08/2022 | Reestruturando as tabelas | Samuel Ávila |
 | 1.2    |   24/08    |   Revisão do artefato     | Felipe Moura    |
+| 1.3 | 12/09 | Adição da priorização de Likert com a entrevistada | Gabriel Sabanai e Samuel Ávila |
 
 _Tabela 01: Versionamento_
 
